@@ -1,0 +1,1361 @@
+[
+  {
+    "No": 1,
+    "Name": "Bulbasaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 0.7,
+    "Weight": 6.9,
+    "Legendary": false
+  },
+  {
+    "No": 2,
+    "Name": "Ivysaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 1.0,
+    "Weight": 13.0,
+    "Legendary": false
+  },
+  {
+    "No": 3,
+    "Name": "Venusaur",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 2.0,
+    "Weight": 100.0,
+    "Legendary": false
+  },
+  {
+    "No": 4,
+    "Name": "Charmander",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 0.6,
+    "Weight": 8.5,
+    "Legendary": false
+  },
+  {
+    "No": 5,
+    "Name": "Charmeleon",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 1.1,
+    "Weight": 19.0,
+    "Legendary": false
+  },
+  {
+    "No": 6,
+    "Name": "Charizard",
+    "Type 1": "Fire",
+    "Type 2": "Flying",
+    "Height": 1.7,
+    "Weight": 90.5,
+    "Legendary": false
+  },
+  {
+    "No": 7,
+    "Name": "Squirtle",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.5,
+    "Weight": 9.0,
+    "Legendary": false
+  },
+  {
+    "No": 8,
+    "Name": "Wartortle",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 22.5,
+    "Legendary": false
+  },
+  {
+    "No": 9,
+    "Name": "Blastoise",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.6,
+    "Weight": 85.5,
+    "Legendary": false
+  },
+  {
+    "No": 10,
+    "Name": "Caterpie",
+    "Type 1": "Bug",
+    "Type 2": null,
+    "Height": 0.3,
+    "Weight": 2.9,
+    "Legendary": false
+  },
+  {
+    "No": 11,
+    "Name": "Metapod",
+    "Type 1": "Bug",
+    "Type 2": null,
+    "Height": 0.7,
+    "Weight": 9.9,
+    "Legendary": false
+  },
+  {
+    "No": 12,
+    "Name": "Butterfree",
+    "Type 1": "Bug",
+    "Type 2": "Flying",
+    "Height": 1.1,
+    "Weight": 32.0,
+    "Legendary": false
+  },
+  {
+    "No": 13,
+    "Name": "Weedle",
+    "Type 1": "Bug",
+    "Type 2": "Poison",
+    "Height": 0.3,
+    "Weight": 3.2,
+    "Legendary": false
+  },
+  {
+    "No": 14,
+    "Name": "Kakuna",
+    "Type 1": "Bug",
+    "Type 2": "Poison",
+    "Height": 0.6,
+    "Weight": 10.0,
+    "Legendary": false
+  },
+  {
+    "No": 15,
+    "Name": "Beedrill",
+    "Type 1": "Bug",
+    "Type 2": "Poison",
+    "Height": 1.0,
+    "Weight": 29.5,
+    "Legendary": false
+  },
+  {
+    "No": 16,
+    "Name": "Pidgey",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 0.3,
+    "Weight": 1.8,
+    "Legendary": false
+  },
+  {
+    "No": 17,
+    "Name": "Pidgeotto",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 1.1,
+    "Weight": 30.0,
+    "Legendary": false
+  },
+  {
+    "No": 18,
+    "Name": "Pidgeot",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 1.5,
+    "Weight": 39.5,
+    "Legendary": false
+  },
+  {
+    "No": 19,
+    "Name": "Rattata",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 20,
+    "Name": "Raticate",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 21,
+    "Name": "Spearow",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 0.3,
+    "Weight": 2.0,
+    "Legendary": false
+  },
+  {
+    "No": 22,
+    "Name": "Fearow",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 1.2,
+    "Weight": 38.0,
+    "Legendary": false
+  },
+  {
+    "No": 23,
+    "Name": "Ekans",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 2.0,
+    "Weight": 6.9,
+    "Legendary": false
+  },
+  {
+    "No": 24,
+    "Name": "Arbok",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 3.5,
+    "Weight": 65.0,
+    "Legendary": false
+  },
+  {
+    "No": 25,
+    "Name": "Pikachu",
+    "Type 1": "Electric",
+    "Type 2": null,
+    "Height": 0.4,
+    "Weight": 6.0,
+    "Legendary": false
+  },
+  {
+    "No": 26,
+    "Name": "Raichu",
+    "Type 1": "Electric",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 27,
+    "Name": "Sandshrew",
+    "Type 1": "Ground",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 28,
+    "Name": "Sandslash",
+    "Type 1": "Ground",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 29,
+    "Name": "Nidoran(female)",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 0.4,
+    "Weight": 7.0,
+    "Legendary": false
+  },
+  {
+    "No": 30,
+    "Name": "Nidorina",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 0.8,
+    "Weight": 20.0,
+    "Legendary": false
+  },
+  {
+    "No": 31,
+    "Name": "Nidoqueen",
+    "Type 1": "Poison",
+    "Type 2": "Ground",
+    "Height": 1.3,
+    "Weight": 60.0,
+    "Legendary": false
+  },
+  {
+    "No": 32,
+    "Name": "Nidoran(male)",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 0.5,
+    "Weight": 9.0,
+    "Legendary": false
+  },
+  {
+    "No": 33,
+    "Name": "Nidorino",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 0.9,
+    "Weight": 19.5,
+    "Legendary": false
+  },
+  {
+    "No": 34,
+    "Name": "Nidoking",
+    "Type 1": "Poison",
+    "Type 2": "Ground",
+    "Height": 1.4,
+    "Weight": 62.0,
+    "Legendary": false
+  },
+  {
+    "No": 35,
+    "Name": "Clefairy",
+    "Type 1": "Fairy",
+    "Type 2": null,
+    "Height": 0.6,
+    "Weight": 7.5,
+    "Legendary": false
+  },
+  {
+    "No": 36,
+    "Name": "Clefable",
+    "Type 1": "Fairy",
+    "Type 2": null,
+    "Height": 1.3,
+    "Weight": 40.0,
+    "Legendary": false
+  },
+  {
+    "No": 37,
+    "Name": "Vulpix",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 38,
+    "Name": "Ninetales",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 39,
+    "Name": "Jigglypuff",
+    "Type 1": "Normal",
+    "Type 2": "Fairy",
+    "Height": 0.5,
+    "Weight": 5.5,
+    "Legendary": false
+  },
+  {
+    "No": 40,
+    "Name": "Wigglytuff",
+    "Type 1": "Normal",
+    "Type 2": "Fairy",
+    "Height": 1.0,
+    "Weight": 12.0,
+    "Legendary": false
+  },
+  {
+    "No": 41,
+    "Name": "Zubat",
+    "Type 1": "Poison",
+    "Type 2": "Flying",
+    "Height": 0.8,
+    "Weight": 7.5,
+    "Legendary": false
+  },
+  {
+    "No": 42,
+    "Name": "Golbat",
+    "Type 1": "Poison",
+    "Type 2": "Flying",
+    "Height": 1.6,
+    "Weight": 55.0,
+    "Legendary": false
+  },
+  {
+    "No": 43,
+    "Name": "Oddish",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 0.5,
+    "Weight": 5.4,
+    "Legendary": false
+  },
+  {
+    "No": 44,
+    "Name": "Gloom",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 0.8,
+    "Weight": 8.6,
+    "Legendary": false
+  },
+  {
+    "No": 45,
+    "Name": "Vileplume",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 1.2,
+    "Weight": 18.6,
+    "Legendary": false
+  },
+  {
+    "No": 46,
+    "Name": "Paras",
+    "Type 1": "Bug",
+    "Type 2": "Grass",
+    "Height": 0.3,
+    "Weight": 5.4,
+    "Legendary": false
+  },
+  {
+    "No": 47,
+    "Name": "Parasect",
+    "Type 1": "Bug",
+    "Type 2": "Grass",
+    "Height": 1.0,
+    "Weight": 29.5,
+    "Legendary": false
+  },
+  {
+    "No": 48,
+    "Name": "Venonat",
+    "Type 1": "Bug",
+    "Type 2": "Poison",
+    "Height": 1.0,
+    "Weight": 30.0,
+    "Legendary": false
+  },
+  {
+    "No": 49,
+    "Name": "Venomoth",
+    "Type 1": "Bug",
+    "Type 2": "Poison",
+    "Height": 1.5,
+    "Weight": 12.5,
+    "Legendary": false
+  },
+  {
+    "No": 50,
+    "Name": "Diglett",
+    "Type 1": "Ground",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 51,
+    "Name": "Dugtrio",
+    "Type 1": "Ground",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 52,
+    "Name": "Meowth",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 53,
+    "Name": "Persian",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 54,
+    "Name": "Psyduck",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.8,
+    "Weight": 19.6,
+    "Legendary": false
+  },
+  {
+    "No": 55,
+    "Name": "Golduck",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.7,
+    "Weight": 76.6,
+    "Legendary": false
+  },
+  {
+    "No": 56,
+    "Name": "Mankey",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 0.5,
+    "Weight": 28.0,
+    "Legendary": false
+  },
+  {
+    "No": 57,
+    "Name": "Primeape",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 32.0,
+    "Legendary": false
+  },
+  {
+    "No": 58,
+    "Name": "Growlithe",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 0.7,
+    "Weight": 19.0,
+    "Legendary": false
+  },
+  {
+    "No": 59,
+    "Name": "Arcanine",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 1.9,
+    "Weight": 155.0,
+    "Legendary": false
+  },
+  {
+    "No": 60,
+    "Name": "Poliwag",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.6,
+    "Weight": 12.4,
+    "Legendary": false
+  },
+  {
+    "No": 61,
+    "Name": "Poliwhirl",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 20.0,
+    "Legendary": false
+  },
+  {
+    "No": 62,
+    "Name": "Poliwrath",
+    "Type 1": "Water",
+    "Type 2": "Fighting",
+    "Height": 1.3,
+    "Weight": 54.0,
+    "Legendary": false
+  },
+  {
+    "No": 63,
+    "Name": "Abra",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 0.9,
+    "Weight": 19.5,
+    "Legendary": false
+  },
+  {
+    "No": 64,
+    "Name": "Kadabra",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 1.3,
+    "Weight": 56.5,
+    "Legendary": false
+  },
+  {
+    "No": 65,
+    "Name": "Alakazam",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 1.5,
+    "Weight": 48.0,
+    "Legendary": false
+  },
+  {
+    "No": 66,
+    "Name": "Machop",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 0.8,
+    "Weight": 19.5,
+    "Legendary": false
+  },
+  {
+    "No": 67,
+    "Name": "Machoke",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 1.5,
+    "Weight": 70.5,
+    "Legendary": false
+  },
+  {
+    "No": 68,
+    "Name": "Machamp",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 1.6,
+    "Weight": 130.0,
+    "Legendary": false
+  },
+  {
+    "No": 69,
+    "Name": "Bellsprout",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 0.7,
+    "Weight": 4.0,
+    "Legendary": false
+  },
+  {
+    "No": 70,
+    "Name": "Weepinbell",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 1.0,
+    "Weight": 6.4,
+    "Legendary": false
+  },
+  {
+    "No": 71,
+    "Name": "Victreebel",
+    "Type 1": "Grass",
+    "Type 2": "Poison",
+    "Height": 1.7,
+    "Weight": 15.5,
+    "Legendary": false
+  },
+  {
+    "No": 72,
+    "Name": "Tentacool",
+    "Type 1": "Water",
+    "Type 2": "Poison",
+    "Height": 0.9,
+    "Weight": 45.5,
+    "Legendary": false
+  },
+  {
+    "No": 73,
+    "Name": "Tentacruel",
+    "Type 1": "Water",
+    "Type 2": "Poison",
+    "Height": 1.6,
+    "Weight": 55.0,
+    "Legendary": false
+  },
+  {
+    "No": 74,
+    "Name": "Geodude",
+    "Type 1": "Rock",
+    "Type 2": "Ground",
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 75,
+    "Name": "Graveler",
+    "Type 1": "Rock",
+    "Type 2": "Ground",
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 76,
+    "Name": "Golem",
+    "Type 1": "Rock",
+    "Type 2": "Ground",
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 77,
+    "Name": "Ponyta",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 30.0,
+    "Legendary": false
+  },
+  {
+    "No": 78,
+    "Name": "Rapidash",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 1.7,
+    "Weight": 95.0,
+    "Legendary": false
+  },
+  {
+    "No": 79,
+    "Name": "Slowpoke",
+    "Type 1": "Water",
+    "Type 2": "Psychic",
+    "Height": 1.2,
+    "Weight": 36.0,
+    "Legendary": false
+  },
+  {
+    "No": 80,
+    "Name": "Slowbro",
+    "Type 1": "Water",
+    "Type 2": "Psychic",
+    "Height": 1.6,
+    "Weight": 78.5,
+    "Legendary": false
+  },
+  {
+    "No": 81,
+    "Name": "Magnemite",
+    "Type 1": "Electric",
+    "Type 2": "Steel",
+    "Height": 0.3,
+    "Weight": 6.0,
+    "Legendary": false
+  },
+  {
+    "No": 82,
+    "Name": "Magneton",
+    "Type 1": "Electric",
+    "Type 2": "Steel",
+    "Height": 1.0,
+    "Weight": 60.0,
+    "Legendary": false
+  },
+  {
+    "No": 83,
+    "Name": "Farfetch'd",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 0.8,
+    "Weight": 15.0,
+    "Legendary": false
+  },
+  {
+    "No": 84,
+    "Name": "Doduo",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 1.4,
+    "Weight": 39.2,
+    "Legendary": false
+  },
+  {
+    "No": 85,
+    "Name": "Dodrio",
+    "Type 1": "Normal",
+    "Type 2": "Flying",
+    "Height": 1.8,
+    "Weight": 85.2,
+    "Legendary": false
+  },
+  {
+    "No": 86,
+    "Name": "Seel",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.1,
+    "Weight": 90.0,
+    "Legendary": false
+  },
+  {
+    "No": 87,
+    "Name": "Dewgong",
+    "Type 1": "Water",
+    "Type 2": "Ice",
+    "Height": 1.7,
+    "Weight": 120.0,
+    "Legendary": false
+  },
+  {
+    "No": 88,
+    "Name": "Grimer",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 89,
+    "Name": "Muk",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 90,
+    "Name": "Shellder",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.3,
+    "Weight": 4.0,
+    "Legendary": false
+  },
+  {
+    "No": 91,
+    "Name": "Cloyster",
+    "Type 1": "Water",
+    "Type 2": "Ice",
+    "Height": 1.5,
+    "Weight": 132.5,
+    "Legendary": false
+  },
+  {
+    "No": 92,
+    "Name": "Gastly",
+    "Type 1": "Ghost",
+    "Type 2": "Poison",
+    "Height": 1.3,
+    "Weight": 0.1,
+    "Legendary": false
+  },
+  {
+    "No": 93,
+    "Name": "Haunter",
+    "Type 1": "Ghost",
+    "Type 2": "Poison",
+    "Height": 1.6,
+    "Weight": 0.1,
+    "Legendary": false
+  },
+  {
+    "No": 94,
+    "Name": "Gengar",
+    "Type 1": "Ghost",
+    "Type 2": "Poison",
+    "Height": 1.5,
+    "Weight": 40.5,
+    "Legendary": false
+  },
+  {
+    "No": 95,
+    "Name": "Onix",
+    "Type 1": "Rock",
+    "Type 2": "Ground",
+    "Height": 8.8,
+    "Weight": 210.0,
+    "Legendary": false
+  },
+  {
+    "No": 96,
+    "Name": "Drowzee",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 32.4,
+    "Legendary": false
+  },
+  {
+    "No": 97,
+    "Name": "Hypno",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 1.6,
+    "Weight": 75.6,
+    "Legendary": false
+  },
+  {
+    "No": 98,
+    "Name": "Krabby",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.4,
+    "Weight": 6.5,
+    "Legendary": false
+  },
+  {
+    "No": 99,
+    "Name": "Kingler",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.3,
+    "Weight": 60.0,
+    "Legendary": false
+  },
+  {
+    "No": 100,
+    "Name": "Voltorb",
+    "Type 1": "Electric",
+    "Type 2": null,
+    "Height": 0.5,
+    "Weight": 10.4,
+    "Legendary": false
+  },
+  {
+    "No": 101,
+    "Name": "Electrode",
+    "Type 1": "Electric",
+    "Type 2": null,
+    "Height": 1.2,
+    "Weight": 66.6,
+    "Legendary": false
+  },
+  {
+    "No": 102,
+    "Name": "Exeggcute",
+    "Type 1": "Grass",
+    "Type 2": "Psychic",
+    "Height": 0.4,
+    "Weight": 2.5,
+    "Legendary": false
+  },
+  {
+    "No": 103,
+    "Name": "Exeggutor",
+    "Type 1": "Grass",
+    "Type 2": "Psychic",
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 104,
+    "Name": "Cubone",
+    "Type 1": "Ground",
+    "Type 2": null,
+    "Height": 0.4,
+    "Weight": 6.5,
+    "Legendary": false
+  },
+  {
+    "No": 105,
+    "Name": "Marowak",
+    "Type 1": "Ground",
+    "Type 2": null,
+    "Height": null,
+    "Weight": null,
+    "Legendary": false
+  },
+  {
+    "No": 106,
+    "Name": "Hitmonlee",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 1.5,
+    "Weight": 49.8,
+    "Legendary": false
+  },
+  {
+    "No": 107,
+    "Name": "Hitmonchan",
+    "Type 1": "Fighting",
+    "Type 2": null,
+    "Height": 1.4,
+    "Weight": 50.2,
+    "Legendary": false
+  },
+  {
+    "No": 108,
+    "Name": "Lickitung",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 1.2,
+    "Weight": 65.5,
+    "Legendary": false
+  },
+  {
+    "No": 109,
+    "Name": "Koffing",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 0.6,
+    "Weight": 1.0,
+    "Legendary": false
+  },
+  {
+    "No": 110,
+    "Name": "Weezing",
+    "Type 1": "Poison",
+    "Type 2": null,
+    "Height": 1.2,
+    "Weight": 9.5,
+    "Legendary": false
+  },
+  {
+    "No": 111,
+    "Name": "Rhyhorn",
+    "Type 1": "Ground",
+    "Type 2": "Rock",
+    "Height": 1.0,
+    "Weight": 115.0,
+    "Legendary": false
+  },
+  {
+    "No": 112,
+    "Name": "Rhydon",
+    "Type 1": "Ground",
+    "Type 2": "Rock",
+    "Height": 1.9,
+    "Weight": 120.0,
+    "Legendary": false
+  },
+  {
+    "No": 113,
+    "Name": "Chansey",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 1.1,
+    "Weight": 34.6,
+    "Legendary": false
+  },
+  {
+    "No": 114,
+    "Name": "Tangela",
+    "Type 1": "Grass",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 35.0,
+    "Legendary": false
+  },
+  {
+    "No": 115,
+    "Name": "Kangaskhan",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 2.2,
+    "Weight": 80.0,
+    "Legendary": false
+  },
+  {
+    "No": 116,
+    "Name": "Horsea",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.4,
+    "Weight": 8.0,
+    "Legendary": false
+  },
+  {
+    "No": 117,
+    "Name": "Seadra",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.2,
+    "Weight": 25.0,
+    "Legendary": false
+  },
+  {
+    "No": 118,
+    "Name": "Goldeen",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.6,
+    "Weight": 15.0,
+    "Legendary": false
+  },
+  {
+    "No": 119,
+    "Name": "Seaking",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.3,
+    "Weight": 39.0,
+    "Legendary": false
+  },
+  {
+    "No": 120,
+    "Name": "Staryu",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.8,
+    "Weight": 34.5,
+    "Legendary": false
+  },
+  {
+    "No": 121,
+    "Name": "Starmie",
+    "Type 1": "Water",
+    "Type 2": "Psychic",
+    "Height": 1.1,
+    "Weight": 80.0,
+    "Legendary": false
+  },
+  {
+    "No": 122,
+    "Name": "Mr. Mime",
+    "Type 1": "Psychic",
+    "Type 2": "Fairy",
+    "Height": 1.3,
+    "Weight": 54.5,
+    "Legendary": false
+  },
+  {
+    "No": 123,
+    "Name": "Scyther",
+    "Type 1": "Bug",
+    "Type 2": "Flying",
+    "Height": 1.5,
+    "Weight": 56.0,
+    "Legendary": false
+  },
+  {
+    "No": 124,
+    "Name": "Jynx",
+    "Type 1": "Ice",
+    "Type 2": "Psychic",
+    "Height": 1.4,
+    "Weight": 40.6,
+    "Legendary": false
+  },
+  {
+    "No": 125,
+    "Name": "Electabuzz",
+    "Type 1": "Electric",
+    "Type 2": null,
+    "Height": 1.1,
+    "Weight": 30.0,
+    "Legendary": false
+  },
+  {
+    "No": 126,
+    "Name": "Magmar",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 1.3,
+    "Weight": 44.5,
+    "Legendary": false
+  },
+  {
+    "No": 127,
+    "Name": "Pinsir",
+    "Type 1": "Bug",
+    "Type 2": null,
+    "Height": 1.5,
+    "Weight": 55.0,
+    "Legendary": false
+  },
+  {
+    "No": 128,
+    "Name": "Tauros",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 1.4,
+    "Weight": 88.4,
+    "Legendary": false
+  },
+  {
+    "No": 129,
+    "Name": "Magikarp",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 0.9,
+    "Weight": 10.0,
+    "Legendary": false
+  },
+  {
+    "No": 130,
+    "Name": "Gyarados",
+    "Type 1": "Water",
+    "Type 2": "Flying",
+    "Height": 6.5,
+    "Weight": 235.0,
+    "Legendary": false
+  },
+  {
+    "No": 131,
+    "Name": "Lapras",
+    "Type 1": "Water",
+    "Type 2": "Ice",
+    "Height": 2.5,
+    "Weight": 220.0,
+    "Legendary": false
+  },
+  {
+    "No": 132,
+    "Name": "Ditto",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 0.3,
+    "Weight": 4.0,
+    "Legendary": false
+  },
+  {
+    "No": 133,
+    "Name": "Eevee",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 0.3,
+    "Weight": 6.5,
+    "Legendary": false
+  },
+  {
+    "No": 134,
+    "Name": "Vaporeon",
+    "Type 1": "Water",
+    "Type 2": null,
+    "Height": 1.0,
+    "Weight": 29.0,
+    "Legendary": false
+  },
+  {
+    "No": 135,
+    "Name": "Jolteon",
+    "Type 1": "Electric",
+    "Type 2": null,
+    "Height": 0.8,
+    "Weight": 24.5,
+    "Legendary": false
+  },
+  {
+    "No": 136,
+    "Name": "Flareon",
+    "Type 1": "Fire",
+    "Type 2": null,
+    "Height": 0.9,
+    "Weight": 25.0,
+    "Legendary": false
+  },
+  {
+    "No": 137,
+    "Name": "Porygon",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 0.8,
+    "Weight": 36.5,
+    "Legendary": false
+  },
+  {
+    "No": 138,
+    "Name": "Omanyte",
+    "Type 1": "Rock",
+    "Type 2": "Water",
+    "Height": 0.4,
+    "Weight": 7.5,
+    "Legendary": false
+  },
+  {
+    "No": 139,
+    "Name": "Omastar",
+    "Type 1": "Rock",
+    "Type 2": "Water",
+    "Height": 1.0,
+    "Weight": 35.0,
+    "Legendary": false
+  },
+  {
+    "No": 140,
+    "Name": "Kabuto",
+    "Type 1": "Rock",
+    "Type 2": "Water",
+    "Height": 0.5,
+    "Weight": 11.5,
+    "Legendary": false
+  },
+  {
+    "No": 141,
+    "Name": "Kabutops",
+    "Type 1": "Rock",
+    "Type 2": "Water",
+    "Height": 1.3,
+    "Weight": 40.5,
+    "Legendary": false
+  },
+  {
+    "No": 142,
+    "Name": "Aerodactyl",
+    "Type 1": "Rock",
+    "Type 2": "Flying",
+    "Height": 1.8,
+    "Weight": 59.0,
+    "Legendary": false
+  },
+  {
+    "No": 143,
+    "Name": "Snorlax",
+    "Type 1": "Normal",
+    "Type 2": null,
+    "Height": 2.1,
+    "Weight": 460.0,
+    "Legendary": false
+  },
+  {
+    "No": 144,
+    "Name": "Articuno",
+    "Type 1": "Ice",
+    "Type 2": "Flying",
+    "Height": 1.7,
+    "Weight": 55.4,
+    "Legendary": true
+  },
+  {
+    "No": 145,
+    "Name": "Zapdos",
+    "Type 1": "Electric",
+    "Type 2": "Flying",
+    "Height": 1.6,
+    "Weight": 52.6,
+    "Legendary": true
+  },
+  {
+    "No": 146,
+    "Name": "Moltres",
+    "Type 1": "Fire",
+    "Type 2": "Flying",
+    "Height": 2.0,
+    "Weight": 60.0,
+    "Legendary": true
+  },
+  {
+    "No": 147,
+    "Name": "Dratini",
+    "Type 1": "Dragon",
+    "Type 2": null,
+    "Height": 1.8,
+    "Weight": 3.3,
+    "Legendary": false
+  },
+  {
+    "No": 148,
+    "Name": "Dragonair",
+    "Type 1": "Dragon",
+    "Type 2": null,
+    "Height": 4.0,
+    "Weight": 16.5,
+    "Legendary": false
+  },
+  {
+    "No": 149,
+    "Name": "Dragonite",
+    "Type 1": "Dragon",
+    "Type 2": "Flying",
+    "Height": 2.2,
+    "Weight": 210.0,
+    "Legendary": false
+  },
+  {
+    "No": 150,
+    "Name": "Mewtwo",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 2.0,
+    "Weight": 122.0,
+    "Legendary": true
+  },
+  {
+    "No": 151,
+    "Name": "Mew",
+    "Type 1": "Psychic",
+    "Type 2": null,
+    "Height": 0.4,
+    "Weight": 4.0,
+    "Legendary": true
+  }
+]
