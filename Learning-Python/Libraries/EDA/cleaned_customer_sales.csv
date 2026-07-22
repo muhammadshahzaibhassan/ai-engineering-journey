@@ -1,0 +1,1551 @@
+Customer_ID,Name,Gender,Age,City,Signup_Date,Last_Purchase_Date,Purchase_Amount,Feedback_Score,Email,Product_Category,Payment_Method
+CUST00001,Alexander Hill,Male,21,Rawalpindi,2023-06-06,2023-07-28,88.86,5.0,alexander.hill251@hotmail.com,Home & Kitchen,Debit Card
+CUST00002,Patrick Gardner,Male,53,Rawalpindi,2024-11-12,2026-05-25,133.05,2.0,patrick.gardner433@gmail.com,Electronics,Credit Card
+CUST00003,Daniel Wagner,Male,28,Islamabad,2022-08-28,2023-11-19,41.57,3.0,daniel.wagner617@gmail.com,Electronics,Mobile Wallet
+CUST00004,Michael Barnes,Male,37,Peshawar,2024-04-24,2026-04-28,11.92,,michael.barnes559@yahoo.com,Books,Debit Card
+CUST00005,Aaron Shaffer,Male,44,London,2025-04-16,2026-02-12,16.92,,aaron.shaffer891@yahoo.com,Electronics,Debit Card
+CUST00006,Daniel Gallagher,Male,24,Houston,2022-12-15,2024-11-11,18.71,3.0,daniel.gallagher221@yahoo.com,Sports & Outdoors,Credit Card
+CUST00007,Ryan Munoz,Male,27,Islamabad,2025-09-19,2026-04-02,114.2,2.0,ryan.munoz868@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00008,Belinda Nielsen,Female,28,Sialkot,2022-11-11,2023-02-08,73.69,5.0,belinda.nielsen550@yahoo.com,Clothing,Bank Transfer
+CUST00009,Lisa Hensley,Female,27,Islamabad,2024-10-25,2026-05-14,156.44,3.0,lisa.hensley644@hotmail.com,Furniture,Cash on Delivery
+CUST00010,Matthew Mejia,Male,27,Singapore,2026-05-31,2026-06-13,353.21,5.0,matthew.mejia47@gmail.com,Home & Kitchen,Cash on Delivery
+CUST00011,James Chavez,Male,28,Islamabad,2025-10-27,2026-02-24,66.36,5.0,james.chavez390@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00012,Christine Adams,Female,44,Los Angeles,2026-03-23,2026-04-13,22.23,4.0,christine.adams215@hotmail.com,Beauty & Personal Care,PayPal
+CUST00013,Mark Ferguson,Male,68,Islamabad,2023-07-07,2024-06-22,195.25,4.0,mark.ferguson251@yahoo.com,Groceries,Bank Transfer
+CUST00014,William Bowman,Male,43,Chicago,2024-09-25,2025-06-29,77.81,5.0,william.bowman656@hotmail.com,Automotive,Debit Card
+CUST00015,Randy Brown,Male,22,New York,2025-10-09,2025-11-07,16.04,3.0,randy.brown33@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00016,Austin Gentry,Male,29,Sialkot,2024-10-10,2024-12-17,172.67,3.0,austin.gentry966@hotmail.com,Furniture,PayPal
+CUST00017,Matthew Foster,Male,21,New York,2026-02-19,2026-04-15,75.26,5.0,matthew.foster406@yahoo.com,Toys & Games,Debit Card
+CUST00018,Brenda Mcgee,Female,26,Sialkot,2024-08-31,2025-01-21,115.64,3.0,brenda.mcgee575@hotmail.com,Automotive,Cash on Delivery
+CUST00019,Steven Ross,Male,41,Singapore,2023-05-31,2025-10-25,148.26,5.0,steven.ross409@gmail.com,Sports & Outdoors,Debit Card
+CUST00020,Ann Williams,Female,24,Faisalabad,2022-12-25,2025-11-03,50.49,4.0,ann.williams774@hotmail.com,Electronics,Credit Card
+CUST00021,Melanie Carlson,Female,18,Faisalabad,2024-01-23,2025-10-27,179.41,3.0,melanie.carlson697@hotmail.com,Books,Mobile Wallet
+CUST00022,Mr. Wesley Valencia Jr.,Male,21,Islamabad,2025-05-18,2025-12-02,22.72,4.0,mr..wesley.valencia.jr.480@hotmail.com,Automotive,Cash on Delivery
+CUST00023,Nicole Mack,Female,45,Dubai,2023-11-20,2026-04-20,87.09,5.0,nicole.mack697@yahoo.com,Clothing,PayPal
+CUST00024,Jesse Mckay,Male,39,Dubai,2025-12-26,2026-07-07,37.31,3.0,jesse.mckay657@yahoo.com,Sports & Outdoors,Credit Card
+CUST00025,Dr. Katie Rodriguez,Female,52,Gujranwala,2025-01-01,2026-03-23,90.41,3.0,dr..katie.rodriguez4@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00026,Christina Brooks,Female,18,Multan,2023-03-10,2026-01-13,139.73,5.0,christina.brooks892@hotmail.com,Beauty & Personal Care,PayPal
+CUST00027,Kyle Burns,Male,18,Toronto,2022-12-29,2026-05-30,170.42,3.0,kyle.burns383@yahoo.com,Groceries,Mobile Wallet
+CUST00028,Sandra Parker,Female,32,Toronto,2022-10-12,2022-10-14,91.96,4.0,sandra.parker501@hotmail.com,Electronics,Credit Card
+CUST00029,Bradley Tucker,Male,25,Los Angeles,2022-10-29,2024-07-20,130.23,3.0,bradley.tucker247@hotmail.com,Furniture,Credit Card
+CUST00030,Carl Alvarez,Male,25,Islamabad,2024-09-15,2026-01-26,42.45,5.0,carl.alvarez779@yahoo.com,Automotive,Debit Card
+CUST00031,Lisa Brandt,Female,41,Faisalabad,2026-03-12,2026-07-12,189.12,5.0,lisa.brandt170@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00032,Michelle Ross,Female,28,Sydney,2025-03-09,2025-10-12,105.84,5.0,michelle.ross952@yahoo.com,Automotive,PayPal
+CUST00033,Kelly Martinez,Female,51,Peshawar,2023-06-08,2025-03-08,78.1,4.0,kelly.martinez688@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00034,Kristen Chapman,Female,26,Toronto,2022-08-01,2025-02-11,49.66,2.0,kristen.chapman231@hotmail.com,Clothing,Cash on Delivery
+CUST00035,Darryl Whitehead,Male,50,Lahore,2025-12-03,2026-05-03,51.28,4.0,darryl.whitehead603@gmail.com,Home & Kitchen,Credit Card
+CUST00036,Diana Washington,Female,35,Islamabad,2024-08-31,2026-06-09,53.99,2.0,diana.washington70@hotmail.com,Electronics,Cash on Delivery
+CUST00037,Kenneth Kennedy,Male,30,Islamabad,2025-08-17,2026-05-08,51.41,3.0,kenneth.kennedy686@yahoo.com,Toys & Games,Debit Card
+CUST00038,Brent Jordan,Male,33,Dubai,2024-03-19,2024-08-02,95.93,5.0,brent.jordan904@yahoo.com,Furniture,Mobile Wallet
+CUST00039,Amy Valdez,Female,23,Manchester,2025-01-31,2025-10-07,235.94,5.0,amy.valdez827@gmail.com,Books,Debit Card
+CUST00040,Gerald Hensley,Other,18,Rawalpindi,2023-07-12,2024-01-27,65.11,5.0,gerald.hensley363@gmail.com,Books,Bank Transfer
+CUST00041,Charles White,Male,36,London,2024-05-14,2026-05-31,45.18,2.0,charles.white670@gmail.com,Clothing,Credit Card
+CUST00042,Shannon Pierce,Female,32,Chicago,2022-10-02,2024-08-27,87.48,5.0,shannon.pierce112@hotmail.com,Home & Kitchen,Debit Card
+CUST00043,Wayne House,Male,39,Peshawar,2025-11-17,2026-04-04,66.24,,wayne.house433@gmail.com,Groceries,Cash on Delivery
+CUST00044,John Hancock,Male,48,London,2026-02-02,2026-04-07,131.2,5.0,john.hancock78@gmail.com,Toys & Games,Mobile Wallet
+CUST00045,William Baker,Male,25,Rawalpindi,2025-08-17,2025-09-12,231.74,5.0,william.baker554@yahoo.com,Electronics,Credit Card
+CUST00046,Melissa Cross,Female,42,Quetta,2025-08-15,2025-11-09,478.86,4.0,melissa.cross493@hotmail.com,Home & Kitchen,Bank Transfer
+CUST00047,Christopher Phillips,Male,29,Karachi,2026-05-08,2026-05-30,153.06,4.0,christopher.phillips400@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00048,Antonio Edwards,Male,36,Gujranwala,2022-10-01,2025-02-14,42.39,5.0,antonio.edwards749@yahoo.com,Automotive,PayPal
+CUST00049,Sarah Moore,Female,35,Manchester,2026-04-26,2026-05-16,47.99,3.0,sarah.moore223@gmail.com,Electronics,Mobile Wallet
+CUST00050,Barry Jones,Male,22,Dubai,2025-12-06,2025-12-22,102.13,5.0,barry.jones59@yahoo.com,Electronics,Mobile Wallet
+CUST00051,Stefanie Sanchez,Female,42,Manchester,2024-11-18,2026-04-17,57.69,5.0,stefanie.sanchez544@hotmail.com,Groceries,Credit Card
+CUST00052,Matthew Cunningham,Male,25,Toronto,2023-10-17,2024-01-08,49.91,5.0,matthew.cunningham71@yahoo.com,Furniture,Credit Card
+CUST00053,Michelle Allen,Female,30,Quetta,2024-02-08,2025-03-28,110.0,2.0,michelle.allen912@hotmail.com,Furniture,Debit Card
+CUST00054,Joyce Hickman,Female,37,Singapore,2026-03-22,2026-06-07,216.25,1.0,joyce.hickman84@gmail.com,Books,PayPal
+CUST00055,Yvette Ferrell,Female,31,Singapore,2022-11-03,2026-01-04,55.41,4.0,yvette.ferrell958@gmail.com,Beauty & Personal Care,Debit Card
+CUST00056,Brandi Bailey,Female,38,New York,2022-10-28,2024-02-29,134.78,3.0,brandi.bailey135@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00057,Christopher Bass,Male,50,New York,2025-04-23,2026-05-13,30.56,5.0,christopher.bass10@hotmail.com,Toys & Games,Mobile Wallet
+CUST00058,Renee Rice DDS,Female,38,Singapore,2024-09-22,2025-01-03,91.09,2.0,renee.rice.dds219@hotmail.com,Automotive,Cash on Delivery
+CUST00059,Sherry Baker,Female,37,Faisalabad,2026-01-15,2026-04-15,142.97,5.0,sherry.baker901@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00060,Dominic Jacobs,Male,38,Gujranwala,2025-05-13,2025-08-02,35.06,4.0,dominic.jacobs557@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00061,Samuel Wagner,Male,37,Toronto,2023-07-16,2023-08-02,22.31,5.0,samuel.wagner568@gmail.com,Beauty & Personal Care,PayPal
+CUST00062,Jessica Hill,Female,20,Rawalpindi,2022-07-27,2023-04-29,120.41,3.0,jessica.hill912@gmail.com,Clothing,PayPal
+CUST00063,Deborah Figueroa,Female,25,Dubai,2024-09-18,2025-02-25,24.11,3.0,deborah.figueroa620@yahoo.com,Home & Kitchen,PayPal
+CUST00064,Ashley Landry,Female,46,New York,2025-04-05,2025-07-19,96.69,5.0,ashley.landry874@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00065,Sandra Aguilar,Female,24,Manchester,2023-02-18,2024-07-17,76.04,5.0,sandra.aguilar867@gmail.com,Electronics,Credit Card
+CUST00066,Jacob Fitzpatrick,Male,24,Houston,2026-05-13,2026-06-18,32.0,1.0,jacob.fitzpatrick342@gmail.com,Groceries,PayPal
+CUST00067,Christine Wright,Other,45,Sialkot,2022-12-16,2023-11-12,53.75,5.0,christine.wright565@hotmail.com,Books,Mobile Wallet
+CUST00068,Jennifer Oliver,Female,35,Lahore,2023-02-28,2023-10-16,246.7,2.0,jennifer.oliver905@gmail.com,Groceries,Mobile Wallet
+CUST00069,Vanessa Cochran,Female,18,Karachi,2026-01-03,2026-04-08,64.65,4.0,vanessa.cochran152@gmail.com,Books,Debit Card
+CUST00070,Tammy Patton,Female,22,Karachi,2024-03-02,2025-01-12,102.95,4.0,tammy.patton956@hotmail.com,Electronics,Cash on Delivery
+CUST00071,Rita Adams,Female,33,Peshawar,2025-08-21,2025-12-27,129.84,5.0,rita.adams363@gmail.com,Automotive,Bank Transfer
+CUST00072,Andrew Ruiz,Other,24,Sydney,2023-05-03,2024-03-15,17.06,5.0,andrew.ruiz243@yahoo.com,Groceries,Debit Card
+CUST00073,Samantha Savage,Female,23,Houston,2023-06-06,2023-07-27,42.03,3.0,samantha.savage947@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST00074,Erin Lin,Female,37,Quetta,2026-05-05,2026-06-09,94.33,3.0,erin.lin719@yahoo.com,Clothing,Bank Transfer
+CUST00075,Katrina Frazier,Female,37,Karachi,2025-11-10,2026-06-18,32.2,4.0,katrina.frazier205@yahoo.com,Toys & Games,Cash on Delivery
+CUST00076,Ashley Waller,Other,35,Gujranwala,2023-04-03,2024-07-13,23.84,3.0,ashley.waller676@yahoo.com,Home & Kitchen,Bank Transfer
+CUST00077,Linda Reed,Female,45,New York,2025-08-20,2026-01-10,174.09,5.0,linda.reed991@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00078,Kayla Cruz,Female,18,Toronto,2024-10-24,2025-12-08,28.67,5.0,kayla.cruz864@yahoo.com,Automotive,Cash on Delivery
+CUST00079,Jessica Meyer,Female,38,Lahore,2025-09-18,2025-11-17,84.06,5.0,jessica.meyer268@hotmail.com,Groceries,Mobile Wallet
+CUST00080,Natalie Lambert,Female,41,Sialkot,2023-12-25,2024-02-03,2137.64,2.0,natalie.lambert445@gmail.com,Sports & Outdoors,PayPal
+CUST00081,Tammie Hanson,Female,50,New York,2025-02-25,2026-05-18,162.29,4.0,tammie.hanson524@gmail.com,Clothing,Bank Transfer
+CUST00082,Elizabeth Parker,Female,31,Singapore,2024-02-26,2024-09-08,132.04,3.0,elizabeth.parker726@yahoo.com,Books,Credit Card
+CUST00083,Julian Lee,Male,36,Toronto,2025-02-27,2026-06-16,30.87,5.0,julian.lee704@yahoo.com,Home & Kitchen,Cash on Delivery
+CUST00084,Steven Gilbert,Male,62,Houston,2023-09-25,2024-02-16,12.42,5.0,steven.gilbert943@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00085,Eric Clark,Male,30,New York,2025-08-19,2025-10-22,71.68,5.0,eric.clark308@hotmail.com,Automotive,Cash on Delivery
+CUST00086,John Ramos,Male,29,Houston,2023-05-23,2025-03-22,177.69,4.0,john.ramos303@yahoo.com,Automotive,Debit Card
+CUST00087,Tyler Fitzgerald,Male,53,Peshawar,2025-02-18,2026-04-25,74.87,5.0,tyler.fitzgerald389@yahoo.com,Groceries,Mobile Wallet
+CUST00088,Mark Rogers,Male,26,Singapore,2025-10-05,2026-03-09,81.03,4.0,mark.rogers854@gmail.com,Electronics,Cash on Delivery
+CUST00089,Danny Gonzalez,Male,63,Gujranwala,2022-08-25,2023-10-30,350.4,4.0,danny.gonzalez594@gmail.com,Furniture,PayPal
+CUST00090,Lisa Mack DDS,Female,18,New York,2026-01-10,2026-05-10,78.87,4.0,lisa.mack.dds692@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST00091,Melissa Snyder,Female,29,Manchester,2023-07-06,2024-06-18,14.85,5.0,melissa.snyder291@hotmail.com,Automotive,PayPal
+CUST00092,Steven Dalton,Male,41,Sydney,2026-01-09,2026-04-05,145.36,2.0,steven.dalton975@yahoo.com,Home & Kitchen,PayPal
+CUST00093,Robert Dominguez,Male,30,Gujranwala,2024-05-16,2025-01-02,50.1,5.0,robert.dominguez151@hotmail.com,Electronics,Credit Card
+CUST00094,Ryan Bryant,Male,56,Quetta,2025-09-10,2026-05-12,96.01,4.0,ryan.bryant787@hotmail.com,Clothing,Bank Transfer
+CUST00095,Kristin Stewart,Female,39,Houston,2025-07-06,2026-05-25,294.78,4.0,kristin.stewart736@yahoo.com,Books,Bank Transfer
+CUST00096,Michelle Wagner,Female,18,Chicago,2025-10-22,2026-02-24,43.13,3.0,michelle.wagner705@hotmail.com,Electronics,Credit Card
+CUST00097,Christopher Hensley,Male,32,Houston,2024-04-26,2024-12-07,359.53,3.0,christopher.hensley981@gmail.com,Automotive,Bank Transfer
+CUST00098,Donald Strickland,Male,18,Karachi,2024-06-14,2026-01-06,26.52,3.0,donald.strickland869@gmail.com,Clothing,Bank Transfer
+CUST00099,Billy Mitchell,Male,18,Faisalabad,2023-08-14,2026-03-23,20.69,5.0,billy.mitchell573@yahoo.com,Furniture,Cash on Delivery
+CUST00100,Angela Hernandez,Female,29,London,2024-01-21,2025-10-10,75.01,5.0,angela.hernandez914@gmail.com,Automotive,Bank Transfer
+CUST00101,Austin Russell,Male,35,Dubai,2024-09-05,2025-12-06,551.81,5.0,austin.russell762@yahoo.com,Toys & Games,Bank Transfer
+CUST00102,Sandra Price,Female,23,Sialkot,2025-07-27,2025-12-01,101.08,5.0,sandra.price284@hotmail.com,Automotive,Bank Transfer
+CUST00103,Spencer Johnston,Male,32,Quetta,2024-06-03,2025-03-12,70.44,4.0,spencer.johnston731@yahoo.com,Beauty & Personal Care,Debit Card
+CUST00104,Jean Snow,Female,36,Sialkot,2025-10-29,2026-04-19,121.02,4.0,jean.snow554@hotmail.com,Clothing,Debit Card
+CUST00105,Joshua Morrison,Male,27,Faisalabad,2023-06-02,2024-09-18,445.94,4.0,joshua.morrison157@gmail.com,Home & Kitchen,Credit Card
+CUST00106,Karla Price,Female,33,Houston,2025-03-05,2025-09-30,113.24,4.0,karla.price478@yahoo.com,Books,Credit Card
+CUST00107,Sara Calhoun,Other,29,Peshawar,2026-05-25,2026-07-18,80.39,4.0,sara.calhoun927@hotmail.com,Furniture,PayPal
+CUST00108,James Elliott,Male,27,Lahore,2022-08-29,2025-11-21,143.26,4.0,james.elliott7@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00109,Sean White,Male,46,Chicago,2023-07-29,2025-12-04,246.48,4.0,sean.white753@yahoo.com,Automotive,Mobile Wallet
+CUST00110,Erin Juarez,Female,44,Quetta,2024-01-15,2025-05-29,117.53,3.0,erin.juarez447@yahoo.com,Toys & Games,Credit Card
+CUST00111,Bradley Smith,Male,41,Chicago,2024-08-31,2025-08-11,35.19,5.0,bradley.smith818@yahoo.com,Books,PayPal
+CUST00112,Andrea Bernard,Female,34,Multan,2022-09-17,2025-05-02,74.11,5.0,andrea.bernard638@gmail.com,Automotive,Credit Card
+CUST00113,Curtis Smith,Male,26,Chicago,2023-02-25,2026-06-22,189.76,4.0,curtis.smith28@gmail.com,Clothing,PayPal
+CUST00114,Ashley Gould,Female,32,Houston,2024-05-17,2024-10-03,179.27,5.0,ashley.gould187@yahoo.com,Electronics,Cash on Delivery
+CUST00115,Carol Lawson,Female,30,Chicago,2025-06-26,2025-12-11,84.39,3.0,carol.lawson335@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00116,Carla Collins,Female,50,Sialkot,2024-10-27,2026-01-02,67.96,3.0,carla.collins84@yahoo.com,Toys & Games,Credit Card
+CUST00117,Terry Brooks,Male,32,Dubai,2026-03-30,2026-04-06,143.82,5.0,terry.brooks359@gmail.com,Home & Kitchen,PayPal
+CUST00118,Michael Burton,Male,38,Islamabad,2022-12-14,2023-03-07,59.32,5.0,michael.burton973@yahoo.com,Home & Kitchen,Debit Card
+CUST00119,Lindsay Martinez,Female,57,Lahore,2026-05-29,2026-07-08,173.94,3.0,lindsay.martinez130@gmail.com,Toys & Games,PayPal
+CUST00120,Jeffrey Wood,Male,22,Rawalpindi,2024-07-15,2026-02-13,22.36,5.0,jeffrey.wood477@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00121,Jennifer Henry,Female,44,Multan,2024-04-02,2025-12-14,121.55,4.0,jennifer.henry766@yahoo.com,Clothing,Debit Card
+CUST00122,Sandra Zimmerman,Female,34,Gujranwala,2024-04-05,2024-07-25,29.74,4.0,sandra.zimmerman952@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00123,Matthew Gilbert,Male,18,Chicago,2026-02-26,2026-06-08,328.12,5.0,matthew.gilbert204@yahoo.com,Clothing,Mobile Wallet
+CUST00124,Samantha Vargas,Female,25,Quetta,2023-10-26,2024-02-08,49.94,5.0,samantha.vargas309@gmail.com,Furniture,Credit Card
+CUST00125,Brandon Keith,Male,42,Singapore,2023-07-05,2023-09-28,226.35,4.0,brandon.keith439@yahoo.com,Sports & Outdoors,Credit Card
+CUST00126,Michael Rogers,Male,37,Toronto,2024-06-28,2026-04-23,42.26,4.0,michael.rogers870@yahoo.com,Books,Bank Transfer
+CUST00127,Daniel Salinas,Male,41,Rawalpindi,2023-11-21,2025-02-07,146.25,5.0,daniel.salinas651@hotmail.com,Toys & Games,PayPal
+CUST00128,Donald Smith,Male,18,Faisalabad,2026-04-08,2026-06-03,18.79,3.0,donald.smith535@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00129,Jennifer Peters,Female,27,Dubai,2023-06-30,2026-03-17,226.81,4.0,jennifer.peters846@yahoo.com,Furniture,Cash on Delivery
+CUST00130,John Mcguire,Male,38,New York,2022-12-02,2024-04-18,251.59,5.0,john.mcguire89@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00131,David Beck,Male,31,Quetta,2024-01-01,2026-02-08,66.41,4.0,david.beck625@hotmail.com,Books,Cash on Delivery
+CUST00132,Jeffery Reese,Male,38,Lahore,2023-11-07,2025-03-28,31.67,,jeffery.reese187@hotmail.com,Toys & Games,Debit Card
+CUST00133,Elizabeth Hall,Female,40,Los Angeles,2025-05-19,2026-07-02,72.24,3.0,elizabeth.hall287@yahoo.com,Furniture,PayPal
+CUST00134,Joshua Gill,Male,43,Sialkot,2023-04-12,2026-05-25,46.47,1.0,joshua.gill971@gmail.com,Home & Kitchen,Credit Card
+CUST00135,Donald Lawrence,Male,35,Quetta,2025-07-13,2026-07-17,161.6,4.0,donald.lawrence569@hotmail.com,Home & Kitchen,PayPal
+CUST00136,Brian Lee,Other,36,Manchester,2023-06-12,2026-03-14,33.26,4.0,brian.lee18@gmail.com,Clothing,Cash on Delivery
+CUST00137,Michael Martinez,Other,62,Quetta,2022-09-25,2025-01-01,96.12,5.0,michael.martinez314@gmail.com,Furniture,Cash on Delivery
+CUST00138,Melissa Martinez,Female,60,Manchester,2025-12-15,2026-05-06,33.43,4.0,melissa.martinez436@yahoo.com,Automotive,Cash on Delivery
+CUST00139,Alexandria Mitchell,Female,33,Los Angeles,2024-06-06,2026-05-27,160.56,4.0,alexandria.mitchell314@yahoo.com,Beauty & Personal Care,Debit Card
+CUST00140,Amber Everett,Female,24,Rawalpindi,2024-06-04,2026-06-13,38.88,3.0,amber.everett123@gmail.com,Automotive,PayPal
+CUST00141,Benjamin Soto,Male,47,Multan,2022-10-06,2023-11-03,13.08,3.0,benjamin.soto496@gmail.com,Beauty & Personal Care,PayPal
+CUST00142,Travis Miller,Male,39,Singapore,2023-07-12,2026-06-21,360.88,4.0,travis.miller103@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00143,Larry Gibbs,Male,41,Quetta,2023-06-09,2025-06-18,159.73,3.0,larry.gibbs15@hotmail.com,Automotive,Debit Card
+CUST00144,Terry Evans,Male,19,Sialkot,2024-11-10,2024-12-27,346.65,5.0,terry.evans567@yahoo.com,Beauty & Personal Care,PayPal
+CUST00145,Lisa Lynch,Female,34,Faisalabad,2025-06-15,2026-05-08,51.73,5.0,lisa.lynch503@gmail.com,Clothing,Credit Card
+CUST00146,Deborah Miller,Female,18,Singapore,2023-06-30,2025-02-02,225.54,4.0,deborah.miller452@hotmail.com,Sports & Outdoors,Debit Card
+CUST00147,Aaron Hayes,Other,38,Karachi,2024-11-17,2025-08-03,85.7,5.0,aaron.hayes490@yahoo.com,Clothing,Credit Card
+CUST00148,Dwayne Campbell,Male,18,Chicago,2025-12-03,2026-04-08,38.88,2.0,dwayne.campbell645@gmail.com,Electronics,Debit Card
+CUST00149,Thomas French,Male,38,Faisalabad,2025-01-01,2025-11-09,87.54,2.0,thomas.french255@hotmail.com,Clothing,Mobile Wallet
+CUST00150,Christina Wilson,Other,35,Houston,2023-06-08,2024-09-13,69.57,5.0,christina.wilson390@gmail.com,Toys & Games,Bank Transfer
+CUST00151,Samantha Jones,Female,31,Gujranwala,2023-03-16,2026-07-04,15.81,5.0,samantha.jones313@yahoo.com,Furniture,Mobile Wallet
+CUST00152,Roger Morse,Male,36,Karachi,2024-04-10,2025-12-26,105.95,5.0,roger.morse102@yahoo.com,Home & Kitchen,PayPal
+CUST00153,Michael Bender,Male,47,,2024-07-07,2025-04-04,267.0,5.0,michael.bender161@yahoo.com,Home & Kitchen,Debit Card
+CUST00154,Kyle Preston,Male,38,Dubai,2025-06-07,2025-07-16,34.0,3.0,kyle.preston419@hotmail.com,Toys & Games,PayPal
+CUST00155,Anna Hayden,Female,36,Sydney,2025-10-30,2026-06-28,269.38,3.0,anna.hayden238@hotmail.com,Beauty & Personal Care,PayPal
+CUST00156,Alicia Hubbard,Female,59,Gujranwala,2025-10-09,2026-05-30,323.7,2.0,alicia.hubbard240@hotmail.com,Beauty & Personal Care,PayPal
+CUST00157,Nicole Ruiz,Female,22,Singapore,2025-02-08,2025-08-30,52.34,4.0,nicole.ruiz558@yahoo.com,Home & Kitchen,PayPal
+CUST00158,Kevin Walters,Male,42,Faisalabad,2024-06-24,2025-03-24,228.55,5.0,kevin.walters74@gmail.com,Electronics,Debit Card
+CUST00159,Jennifer Morris,Female,29,Gujranwala,2022-12-18,2026-04-20,49.0,5.0,jennifer.morris583@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00160,Michael Roberts,Male,47,Rawalpindi,2026-04-04,2026-06-03,13.7,5.0,michael.roberts717@hotmail.com,Books,Cash on Delivery
+CUST00161,Brandon King,Male,45,Toronto,2023-01-03,2026-01-13,58.95,4.0,brandon.king83@yahoo.com,Furniture,Credit Card
+CUST00162,Roger Smith,Male,53,Houston,2025-12-17,2026-06-24,71.28,4.0,roger.smith257@yahoo.com,Electronics,Credit Card
+CUST00163,Cody Cox,Male,46,Quetta,2025-07-08,2026-06-19,89.8,5.0,cody.cox590@hotmail.com,Furniture,Credit Card
+CUST00164,Amber Adams,Female,18,Sialkot,2023-01-25,2026-04-20,63.43,1.0,amber.adams775@yahoo.com,Groceries,Bank Transfer
+CUST00165,Michael Martinez,Male,34,Toronto,2026-05-14,2026-07-10,95.85,,michael.martinez186@hotmail.com,Furniture,Bank Transfer
+CUST00166,Michael Collins,Male,19,Manchester,2022-08-10,2023-02-13,121.84,4.0,michael.collins419@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00167,Willie Durham,Male,21,Rawalpindi,2024-05-12,2024-10-24,103.43,4.0,willie.durham711@gmail.com,Toys & Games,Cash on Delivery
+CUST00168,Christian Cantu,Male,34,Chicago,2023-09-12,2023-11-27,157.53,4.0,christian.cantu323@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00169,Sandra Baird,Female,29,Rawalpindi,2023-07-05,2025-10-10,43.46,5.0,sandra.baird845@hotmail.com,Electronics,PayPal
+CUST00170,Connor Greene,Male,28,Dubai,2025-06-23,2026-02-15,32.67,4.0,connor.greene193@gmail.com,Automotive,Cash on Delivery
+CUST00171,Donald Tyler,Male,18,Sydney,2024-03-06,2026-04-20,56.13,4.0,donald.tyler453@hotmail.com,Electronics,Debit Card
+CUST00172,Aaron Barber,Male,58,Sialkot,2025-11-01,2026-01-08,68.84,5.0,aaron.barber449@hotmail.com,Toys & Games,Credit Card
+CUST00173,Mr. Charles Ryan MD,Male,41,Lahore,2024-09-18,2026-06-26,197.19,4.0,mr..charles.ryan.md246@hotmail.com,Groceries,Cash on Delivery
+CUST00174,Timothy Kane,Male,33,Dubai,2026-05-25,2026-05-26,54.66,4.0,timothy.kane96@gmail.com,Home & Kitchen,Credit Card
+CUST00175,Cynthia Rowe,Female,26,London,2022-09-22,2023-05-21,112.34,4.0,cynthia.rowe158@hotmail.com,Toys & Games,PayPal
+CUST00176,Thomas James,Male,31,Gujranwala,2026-06-05,2026-07-08,8.4,5.0,thomas.james426@hotmail.com,Toys & Games,Bank Transfer
+CUST00177,Kathleen Johnson DDS,Female,27,Quetta,2024-11-12,2026-02-23,9.27,4.0,kathleen.johnson.dds393@gmail.com,Home & Kitchen,Mobile Wallet
+CUST00178,Jessica Fox,Female,41,Toronto,2024-05-05,2026-06-09,88.25,5.0,jessica.fox885@hotmail.com,Clothing,Cash on Delivery
+CUST00179,Shelby Booker,Female,23,Houston,2022-11-06,2024-10-03,71.63,5.0,shelby.booker520@yahoo.com,Beauty & Personal Care,Credit Card
+CUST00180,Michael Santos,Male,18,Gujranwala,2025-11-21,2026-05-26,80.09,3.0,michael.santos602@hotmail.com,Furniture,PayPal
+CUST00181,James Stewart,Male,32,Manchester,2025-05-15,2025-07-31,63.88,4.0,james.stewart496@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00182,Andrew Jones,Male,27,Dubai,2025-01-10,2026-07-21,25.19,4.0,andrew.jones956@yahoo.com,Sports & Outdoors,Debit Card
+CUST00183,Dr. Jeffrey Garcia DDS,Male,37,Quetta,2025-12-21,2026-05-17,151.34,4.0,dr..jeffrey.garcia.dds877@yahoo.com,Books,Credit Card
+CUST00184,Elizabeth Johnson,Female,34,New York,2023-10-29,2025-11-30,252.64,4.0,elizabeth.johnson936@gmail.com,Books,Bank Transfer
+CUST00185,James Thomas,Male,63,Faisalabad,2024-08-20,2026-01-10,166.18,5.0,james.thomas130@hotmail.com,Automotive,Mobile Wallet
+CUST00186,Catherine Thompson,Female,22,New York,2024-12-10,2025-03-23,56.19,5.0,catherine.thompson451@yahoo.com,Clothing,Mobile Wallet
+CUST00187,David Durham,Male,51,London,2023-02-11,2023-03-15,20.52,5.0,david.durham420@yahoo.com,Groceries,Credit Card
+CUST00188,Julia Estrada,Female,18,Manchester,2026-01-28,2026-04-06,110.68,4.0,julia.estrada710@yahoo.com,Books,PayPal
+CUST00189,Michael Moore,Male,29,Islamabad,2024-04-14,2025-03-17,37.96,5.0,michael.moore880@yahoo.com,Automotive,Bank Transfer
+CUST00190,Edwin Hayden DDS,Male,27,New York,2024-05-05,2026-02-06,30.64,5.0,edwin.hayden.dds778@yahoo.com,Toys & Games,Mobile Wallet
+CUST00191,James Webb,Male,18,Karachi,2023-06-26,2023-11-14,123.49,3.0,james.webb701@hotmail.com,Beauty & Personal Care,Debit Card
+CUST00192,Edward Lyons,Other,32,Islamabad,2022-08-22,2025-01-27,29.46,5.0,edward.lyons779@hotmail.com,Clothing,Bank Transfer
+CUST00193,Adam Grimes,Other,37,,2025-08-08,2026-01-09,85.3,5.0,adam.grimes48@gmail.com,Sports & Outdoors,Credit Card
+CUST00194,Patrick Wall,Male,41,Gujranwala,2026-02-03,2026-05-06,27.67,,patrick.wall150@gmail.com,Home & Kitchen,Mobile Wallet
+CUST00195,Heather Fields,Female,59,Houston,2024-12-26,2025-06-29,286.47,3.0,heather.fields81@hotmail.com,Furniture,Bank Transfer
+CUST00196,Randall Becker,Male,27,Sydney,2023-02-02,2024-06-10,111.45,4.0,randall.becker598@gmail.com,Groceries,Debit Card
+CUST00197,Matthew Parker,Male,38,London,2024-04-12,2026-01-26,5.66,3.0,matthew.parker262@hotmail.com,Electronics,Bank Transfer
+CUST00198,Carlos Browning,Male,38,Gujranwala,2023-11-01,2025-09-25,29.55,4.0,carlos.browning76@yahoo.com,Toys & Games,Cash on Delivery
+CUST00199,Carlos Ryan,Male,21,Singapore,2026-05-12,2026-06-20,84.86,4.0,carlos.ryan435@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00200,Denise Martin,Female,27,Gujranwala,2026-02-19,2026-04-11,69.59,5.0,denise.martin874@yahoo.com,Toys & Games,Credit Card
+CUST00201,Mr. Seth Brock,Male,27,Quetta,2024-05-22,2025-06-17,132.19,4.0,mr..seth.brock589@gmail.com,Beauty & Personal Care,PayPal
+CUST00202,Tracy Dalton,Female,41,Gujranwala,2025-05-23,2025-06-04,244.06,5.0,tracy.dalton675@yahoo.com,Books,Cash on Delivery
+CUST00203,Dr. Jacob Gibbs,Male,18,Lahore,2022-08-10,2025-10-13,26.33,5.0,dr..jacob.gibbs797@hotmail.com,Electronics,Mobile Wallet
+CUST00204,Isabella Curry,Female,39,Manchester,2023-08-01,2025-03-10,38.72,5.0,isabella.curry236@yahoo.com,Furniture,Cash on Delivery
+CUST00205,Teresa Rodriguez,Female,40,Quetta,2023-06-21,2024-07-15,276.48,4.0,teresa.rodriguez695@gmail.com,Groceries,PayPal
+CUST00206,Terri Murphy,Female,39,Rawalpindi,2024-12-11,2025-01-21,46.03,4.0,terri.murphy452@hotmail.com,Electronics,Mobile Wallet
+CUST00207,Rodney Blankenship,Male,31,Los Angeles,2023-09-27,2024-06-23,50.04,2.0,rodney.blankenship303@yahoo.com,Sports & Outdoors,PayPal
+CUST00208,Amber Johnson,Female,38,Houston,2026-06-16,2026-06-28,431.76,3.0,amber.johnson806@gmail.com,Automotive,Cash on Delivery
+CUST00209,Stephen Taylor,Male,31,Toronto,2024-05-01,2025-09-27,156.47,5.0,stephen.taylor851@hotmail.com,Groceries,Cash on Delivery
+CUST00210,Melissa Fernandez,Female,18,Manchester,2024-11-08,2025-09-07,26.92,5.0,melissa.fernandez347@hotmail.com,Clothing,Bank Transfer
+CUST00211,Jason Garcia,Male,47,Islamabad,2024-06-21,2024-11-13,31.21,5.0,jason.garcia232@yahoo.com,Books,Mobile Wallet
+CUST00212,Diana Vaughn,Female,38,Los Angeles,2023-05-28,2023-11-29,54.75,5.0,diana.vaughn15@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00213,Scott Garcia,Male,45,Rawalpindi,2025-03-29,2025-11-17,72.68,4.0,scott.garcia767@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00214,Maria Brown,Female,18,Chicago,2023-08-20,2025-09-19,186.68,2.0,maria.brown240@gmail.com,Toys & Games,Credit Card
+CUST00215,Roger Davis,Male,41,Sydney,2023-05-21,2026-07-14,204.91,4.0,roger.davis625@hotmail.com,Home & Kitchen,PayPal
+CUST00216,Alison Buchanan,Female,37,Islamabad,2023-07-05,2026-02-10,83.38,5.0,alison.buchanan310@gmail.com,Books,Credit Card
+CUST00217,Daniel Gallegos,Male,21,Faisalabad,2024-09-22,2024-11-08,31.97,5.0,daniel.gallegos312@hotmail.com,Toys & Games,Credit Card
+CUST00218,Sheila Murphy,Female,35,Rawalpindi,2023-02-18,2024-06-13,43.38,5.0,sheila.murphy139@hotmail.com,Books,Bank Transfer
+CUST00219,Shannon Thomas,Female,30,Los Angeles,2023-01-24,2026-02-04,140.64,4.0,shannon.thomas761@yahoo.com,Groceries,Bank Transfer
+CUST00220,Ashley Delacruz,Female,31,Rawalpindi,2023-01-26,2025-10-25,27.64,4.0,ashley.delacruz962@yahoo.com,Beauty & Personal Care,Credit Card
+CUST00221,Cynthia Morris,Female,29,Los Angeles,2023-03-28,2024-06-15,40.55,4.0,cynthia.morris974@gmail.com,Home & Kitchen,Cash on Delivery
+CUST00222,Jennifer Wilson,Female,45,Rawalpindi,2022-10-20,2024-11-11,225.9,4.0,jennifer.wilson661@yahoo.com,Sports & Outdoors,Credit Card
+CUST00223,Kayla Rodriguez,Female,18,Chicago,2024-07-11,2025-04-20,85.87,3.0,kayla.rodriguez126@hotmail.com,Toys & Games,Credit Card
+CUST00224,Richard Camacho,Male,18,Peshawar,2024-08-06,2026-05-26,256.32,4.0,richard.camacho995@yahoo.com,Electronics,Credit Card
+CUST00225,Andre Lutz,Male,37,New York,2025-11-15,2026-01-17,719.97,5.0,andre.lutz806@yahoo.com,Furniture,Debit Card
+CUST00226,Katherine Browning,Female,36,Islamabad,2022-11-04,2025-12-14,128.15,3.0,katherine.browning222@gmail.com,Home & Kitchen,Cash on Delivery
+CUST00227,Brittany Martinez,Female,37,Faisalabad,2024-12-31,2025-01-03,99.28,3.0,brittany.martinez149@hotmail.com,Groceries,Mobile Wallet
+CUST00228,Frederick Vang,Male,57,Sialkot,2024-08-19,2025-02-14,223.83,2.0,frederick.vang888@yahoo.com,Electronics,Debit Card
+CUST00229,Jeffrey Mcguire,Male,37,Lahore,2023-01-01,2025-01-04,72.97,5.0,jeffrey.mcguire244@hotmail.com,Furniture,Cash on Delivery
+CUST00230,Patricia Le,Female,23,Lahore,2023-05-25,2024-05-16,59.55,3.0,patricia.le130@yahoo.com,Books,Mobile Wallet
+CUST00231,Jennifer Wilcox,Other,65,Rawalpindi,2024-02-12,2026-03-17,106.86,2.0,jennifer.wilcox460@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00232,Jeffery Ortega,Male,33,Singapore,2024-01-08,2024-04-29,45.41,4.0,jeffery.ortega227@gmail.com,Furniture,Credit Card
+CUST00233,Kara Davis,Female,45,Toronto,2022-11-21,2024-07-31,8.26,4.0,kara.davis988@yahoo.com,Electronics,Credit Card
+CUST00234,Nancy Cain,Female,19,Manchester,2024-09-25,2025-11-11,20.79,4.0,nancy.cain111@hotmail.com,Toys & Games,PayPal
+CUST00235,Kristina Santiago,Female,18,London,2024-02-29,2024-05-15,52.74,5.0,kristina.santiago330@hotmail.com,Furniture,Debit Card
+CUST00236,Jay Moon,Male,32,Islamabad,2022-10-03,2023-06-19,52.17,3.0,jay.moon649@yahoo.com,Furniture,Mobile Wallet
+CUST00237,Heather Lane,Female,44,New York,2023-05-22,2025-07-11,57.89,5.0,heather.lane544@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00238,Ryan Bell,Male,57,Toronto,2024-09-25,2026-06-07,183.81,4.0,ryan.bell813@gmail.com,Clothing,PayPal
+CUST00239,Kenneth Aguirre,Male,22,Dubai,2025-11-12,2026-05-16,106.17,5.0,kenneth.aguirre441@hotmail.com,Toys & Games,Debit Card
+CUST00240,Maria Johnson,Other,31,Houston,2026-03-12,2026-06-07,24.63,5.0,maria.johnson409@hotmail.com,Books,PayPal
+CUST00241,Christopher Park,Male,35,Rawalpindi,2023-10-07,2024-08-23,76.89,4.0,christopher.park682@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00242,Catherine Thomas,Female,35,Faisalabad,2025-02-16,2026-06-17,65.25,2.0,catherine.thomas852@gmail.com,Clothing,Credit Card
+CUST00243,Mark Johnson,Male,33,Houston,2025-06-23,2025-08-12,76.67,5.0,mark.johnson382@gmail.com,Groceries,Mobile Wallet
+CUST00244,Jesse Moore,Male,34,Karachi,2023-10-10,2025-06-02,40.89,5.0,jesse.moore576@yahoo.com,Sports & Outdoors,PayPal
+CUST00245,Latoya Miller,Female,51,Rawalpindi,2022-10-05,2025-01-24,6.09,4.0,latoya.miller682@gmail.com,Books,PayPal
+CUST00246,Anthony Miller,Male,49,Karachi,2024-04-16,2025-02-05,10.32,4.0,anthony.miller361@yahoo.com,Clothing,Mobile Wallet
+CUST00247,Jeremy Nelson,Male,38,Toronto,2025-07-06,2025-10-23,53.02,3.0,jeremy.nelson494@gmail.com,Home & Kitchen,Credit Card
+CUST00248,Ashley Gregory,Female,18,Los Angeles,2024-11-16,2026-06-09,33.11,4.0,ashley.gregory781@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00249,Amber Foster,Female,30,Quetta,2024-11-25,2026-02-08,62.64,5.0,amber.foster998@gmail.com,Furniture,Mobile Wallet
+CUST00250,Tony Saunders,Male,46,Dubai,2025-07-19,2025-08-02,209.43,4.0,tony.saunders674@yahoo.com,Beauty & Personal Care,Credit Card
+CUST00251,Adam Burgess,Male,26,Multan,2023-03-30,2024-10-10,34.62,5.0,adam.burgess317@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00252,Crystal Hansen,Female,28,Lahore,2025-03-03,2025-06-04,103.59,5.0,crystal.hansen580@yahoo.com,Books,Credit Card
+CUST00253,Shannon Williams,Female,30,Faisalabad,2022-08-17,2026-03-06,54.26,5.0,shannon.williams94@gmail.com,Automotive,Debit Card
+CUST00254,Kenneth Berry,Male,43,Chicago,2025-05-02,2025-12-03,99.47,4.0,kenneth.berry162@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00255,Jennifer Burch,Female,54,New York,2023-03-24,2026-05-30,26.94,4.0,jennifer.burch905@hotmail.com,Electronics,Debit Card
+CUST00256,Michael Cox,Male,42,,2024-04-06,2026-05-19,50.47,4.0,michael.cox691@gmail.com,Clothing,Cash on Delivery
+CUST00257,Kevin Warren,Male,18,London,2024-02-08,2025-12-17,326.43,4.0,kevin.warren622@yahoo.com,Toys & Games,Bank Transfer
+CUST00258,Connie Maxwell,Female,28,Sialkot,2022-11-08,2024-01-24,171.42,5.0,connie.maxwell117@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST00259,Jordan Bullock,Male,50,Rawalpindi,2023-12-03,2024-09-19,13.77,5.0,jordan.bullock608@hotmail.com,Toys & Games,Mobile Wallet
+CUST00260,Matthew Hernandez,Male,19,Gujranwala,2022-12-16,2023-03-20,323.54,3.0,matthew.hernandez614@yahoo.com,Electronics,Credit Card
+CUST00261,Lindsey Wolf,Female,18,Peshawar,2025-02-14,2025-12-20,40.84,5.0,lindsey.wolf786@gmail.com,Groceries,Cash on Delivery
+CUST00262,Lori Marshall,Female,28,Gujranwala,2024-10-05,2025-09-06,95.51,2.0,lori.marshall510@hotmail.com,Books,Debit Card
+CUST00263,Tammy Cunningham,Female,46,Faisalabad,2025-01-16,2026-02-10,64.85,4.0,tammy.cunningham236@hotmail.com,Automotive,Mobile Wallet
+CUST00264,Tricia Stewart,Female,30,Los Angeles,2024-04-11,2024-06-24,63.35,4.0,tricia.stewart760@yahoo.com,Electronics,Bank Transfer
+CUST00265,Eric Hill,Male,60,Lahore,2022-10-10,2025-05-09,122.12,5.0,eric.hill883@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00266,Joel Johnson,Male,37,Houston,2023-12-31,2025-08-10,56.51,4.0,joel.johnson656@yahoo.com,Books,Cash on Delivery
+CUST00267,Sean Wyatt,Other,19,Rawalpindi,2024-12-18,2026-02-06,73.02,1.0,sean.wyatt333@hotmail.com,Groceries,Mobile Wallet
+CUST00268,Kevin Best,Male,37,London,2025-06-13,2026-06-02,27.65,5.0,kevin.best91@gmail.com,Books,Credit Card
+CUST00269,Robert Pearson,Male,59,Quetta,2023-10-25,2025-01-14,127.21,4.0,robert.pearson537@yahoo.com,Clothing,Bank Transfer
+CUST00270,Tina Hayes,Female,38,Gujranwala,2025-09-24,2026-03-17,161.49,3.0,tina.hayes798@yahoo.com,Groceries,Credit Card
+CUST00271,Angela Lucas MD,Female,22,Toronto,2025-04-29,2026-03-20,105.56,2.0,angela.lucas.md523@yahoo.com,Home & Kitchen,Cash on Delivery
+CUST00272,Lisa Cox,Female,18,Los Angeles,2026-02-24,2026-04-03,21.08,3.0,lisa.cox150@yahoo.com,Beauty & Personal Care,Debit Card
+CUST00273,Gina Harper,Female,30,Multan,2025-08-24,2026-06-29,79.73,3.0,gina.harper778@hotmail.com,Clothing,Debit Card
+CUST00274,Erin Grant,Female,27,Manchester,2024-01-26,2025-05-16,18.8,5.0,erin.grant779@yahoo.com,Furniture,Bank Transfer
+CUST00275,Matthew Escobar,Male,51,Singapore,2025-12-22,2026-06-05,30.1,4.0,matthew.escobar640@yahoo.com,Sports & Outdoors,PayPal
+CUST00276,Matthew Rangel,Male,23,New York,2023-10-08,2024-03-11,712.76,4.0,matthew.rangel481@hotmail.com,Toys & Games,PayPal
+CUST00277,Jenna Larson,Female,36,Gujranwala,2026-03-25,2026-07-05,78.35,3.0,jenna.larson58@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00278,Mason Murphy,Male,28,Islamabad,2023-01-20,2024-10-17,74.43,4.0,mason.murphy39@hotmail.com,Electronics,Cash on Delivery
+CUST00279,Nancy Jennings,Female,18,Gujranwala,2024-08-13,2024-10-31,162.13,4.0,nancy.jennings876@hotmail.com,Clothing,Mobile Wallet
+CUST00280,Katie Smith,Female,34,Sydney,2023-10-06,2025-03-09,328.23,4.0,katie.smith595@gmail.com,Automotive,PayPal
+CUST00281,Pamela Lee,Female,18,Karachi,2026-06-21,2026-07-06,46.51,5.0,pamela.lee586@gmail.com,Home & Kitchen,Cash on Delivery
+CUST00282,Sarah Garcia,Female,42,Sydney,2025-07-29,2026-03-30,160.02,4.0,sarah.garcia981@hotmail.com,Electronics,Bank Transfer
+CUST00283,Andrew Rogers,Male,18,Rawalpindi,2025-07-22,2026-01-14,186.74,5.0,andrew.rogers87@gmail.com,Automotive,PayPal
+CUST00284,Christian White,Male,34,Multan,2025-04-08,2025-04-29,116.58,3.0,christian.white449@hotmail.com,Toys & Games,Mobile Wallet
+CUST00285,Christopher Kim,Male,47,Toronto,2024-02-29,2025-11-15,74.27,3.0,christopher.kim382@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00286,Tracy Bishop,Female,41,Houston,2025-07-02,2025-12-23,176.39,5.0,tracy.bishop54@yahoo.com,Sports & Outdoors,Credit Card
+CUST00287,Cynthia Sheppard,Female,29,New York,2025-08-17,2025-10-05,117.88,4.0,cynthia.sheppard396@gmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00288,Theresa Joyce,Female,40,Sydney,2024-05-12,2024-10-13,80.39,4.0,theresa.joyce597@yahoo.com,Groceries,Cash on Delivery
+CUST00289,Jonathan Barnes,Male,44,Gujranwala,2023-03-10,2025-05-21,75.22,2.0,jonathan.barnes726@gmail.com,Clothing,Cash on Delivery
+CUST00290,Charles Wright,Male,22,Dubai,2025-01-24,2026-02-14,172.06,4.0,charles.wright337@yahoo.com,Groceries,PayPal
+CUST00291,Ashley Singleton,Female,48,Toronto,2025-11-21,2025-12-15,62.03,4.0,ashley.singleton434@yahoo.com,Automotive,Cash on Delivery
+CUST00292,Caitlin Cole,Female,46,Lahore,2024-07-25,2025-08-01,41.91,4.0,caitlin.cole974@yahoo.com,Home & Kitchen,Cash on Delivery
+CUST00293,Thomas Velasquez,Male,18,Manchester,2026-01-07,2026-02-26,104.68,3.0,thomas.velasquez141@gmail.com,Groceries,Credit Card
+CUST00294,James Brooks,Male,37,Gujranwala,2024-01-25,2026-06-08,43.34,5.0,james.brooks520@gmail.com,Automotive,PayPal
+CUST00295,Alfred Galvan,Male,31,Toronto,2025-11-03,2025-11-23,75.3,5.0,alfred.galvan898@hotmail.com,Furniture,Debit Card
+CUST00296,Charles Johnson,Male,52,Sydney,2026-02-23,2026-05-31,79.59,3.0,charles.johnson186@yahoo.com,Furniture,Debit Card
+CUST00297,Charles Thornton,Male,45,London,2024-04-23,2024-06-07,86.03,4.0,charles.thornton693@gmail.com,Home & Kitchen,Bank Transfer
+CUST00298,Alicia Lewis,Female,35,Sydney,2023-02-20,2024-09-26,173.98,5.0,alicia.lewis803@hotmail.com,Toys & Games,Debit Card
+CUST00299,Jenny Parsons,Female,49,Dubai,2023-06-27,2024-10-29,36.05,4.0,jenny.parsons829@gmail.com,Toys & Games,Debit Card
+CUST00300,Jason Bauer,Male,62,Los Angeles,2024-05-06,2026-04-01,48.11,5.0,jason.bauer452@gmail.com,Toys & Games,Cash on Delivery
+CUST00301,Kathryn Herrera,Female,18,Chicago,2025-01-11,2026-06-10,13.7,4.0,kathryn.herrera990@hotmail.com,Groceries,Debit Card
+CUST00302,Briana Patterson,Female,29,Sydney,2024-12-17,2025-05-08,51.75,5.0,briana.patterson54@gmail.com,Toys & Games,Cash on Delivery
+CUST00303,Cody Barnett,Male,22,Dubai,2024-08-09,2024-11-23,25.9,5.0,cody.barnett529@yahoo.com,Clothing,Cash on Delivery
+CUST00304,Joseph Romero,Male,34,Islamabad,2026-06-05,2026-06-16,82.33,3.0,joseph.romero928@hotmail.com,Automotive,Debit Card
+CUST00305,Shane Williams,Male,22,Houston,2024-01-26,2024-04-29,123.27,5.0,shane.williams228@yahoo.com,Toys & Games,Cash on Delivery
+CUST00306,Alexis Kramer,Female,46,Lahore,2023-11-27,2025-01-25,55.0,2.0,alexis.kramer515@hotmail.com,Sports & Outdoors,Debit Card
+CUST00307,Ashley Perkins,Female,62,Chicago,2025-07-08,2025-08-19,36.69,4.0,ashley.perkins29@gmail.com,Sports & Outdoors,Credit Card
+CUST00308,Joshua Li,Male,36,New York,2023-03-29,2024-01-23,103.88,3.0,joshua.li294@hotmail.com,Toys & Games,PayPal
+CUST00309,Melissa Welch,Female,18,Faisalabad,2025-09-25,2026-05-24,71.28,4.0,melissa.welch6@gmail.com,Clothing,Credit Card
+CUST00310,Tony Johnson,Male,27,Sialkot,2023-05-06,2024-07-21,40.45,5.0,tony.johnson562@gmail.com,Furniture,Mobile Wallet
+CUST00311,Emily Collins,Female,29,Houston,2024-02-11,2024-06-04,57.32,5.0,emily.collins244@hotmail.com,Beauty & Personal Care,Credit Card
+CUST00312,Andrew Lucas,Other,52,Karachi,2023-09-04,2025-01-05,39.9,4.0,andrew.lucas813@gmail.com,Furniture,Bank Transfer
+CUST00313,Evelyn Martinez,Female,39,Islamabad,2023-12-30,2024-04-22,47.52,5.0,evelyn.martinez512@yahoo.com,Furniture,Mobile Wallet
+CUST00314,Steven Hughes,Male,37,Lahore,2026-05-15,2026-07-20,17.04,4.0,steven.hughes736@yahoo.com,Groceries,Cash on Delivery
+CUST00315,Holly Salinas,Female,24,Houston,2023-08-07,2023-08-11,77.34,4.0,holly.salinas247@gmail.com,Furniture,Bank Transfer
+CUST00316,Angela Morrison,Female,27,Multan,2025-10-10,2025-11-23,47.04,4.0,angela.morrison370@hotmail.com,Clothing,Mobile Wallet
+CUST00317,Ashley Murphy,Female,41,Dubai,2023-09-18,2023-10-30,176.84,4.0,ashley.murphy482@yahoo.com,Electronics,PayPal
+CUST00318,Jessica Norris,Female,32,Chicago,2023-12-07,2024-12-24,32.51,3.0,jessica.norris17@gmail.com,Sports & Outdoors,Credit Card
+CUST00319,Thomas Mendez,Male,45,Los Angeles,2024-04-04,2024-12-07,28.34,5.0,thomas.mendez644@hotmail.com,Clothing,Mobile Wallet
+CUST00320,Theresa Jones DDS,Female,28,New York,2023-12-23,2024-05-08,81.57,1.0,theresa.jones.dds560@hotmail.com,Sports & Outdoors,PayPal
+CUST00321,Tiffany Thomas,Female,18,Multan,2024-12-07,2026-03-28,30.47,5.0,tiffany.thomas491@yahoo.com,Groceries,Debit Card
+CUST00322,Andrea Osborne,Female,29,Islamabad,2023-12-28,2025-12-31,170.67,5.0,andrea.osborne469@yahoo.com,Electronics,Cash on Delivery
+CUST00323,Amanda Hernandez,Female,18,Peshawar,2024-04-25,2024-06-09,101.12,5.0,amanda.hernandez908@yahoo.com,Electronics,Cash on Delivery
+CUST00324,Pamela Berry,Female,42,Gujranwala,2024-08-17,2026-01-27,180.88,4.0,pamela.berry835@yahoo.com,Automotive,Bank Transfer
+CUST00325,Diana Horne,Female,39,Sialkot,2022-08-28,2022-11-11,126.91,5.0,diana.horne196@gmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00326,Jasmine Hoffman,Female,47,Karachi,2023-07-31,2025-06-10,191.02,3.0,jasmine.hoffman819@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00327,Cindy Carr,Female,27,Chicago,2025-04-10,2026-04-26,102.77,4.0,cindy.carr980@yahoo.com,Books,Cash on Delivery
+CUST00328,Brandy Jones,Female,32,Multan,2023-03-26,2026-01-06,76.1,5.0,brandy.jones377@hotmail.com,Automotive,Cash on Delivery
+CUST00329,Brandon Fleming,Male,26,Islamabad,2025-11-12,2026-05-18,104.11,4.0,brandon.fleming441@yahoo.com,Furniture,Debit Card
+CUST00330,Michelle Pierce,Female,35,Dubai,2023-09-10,2025-05-04,210.74,4.0,michelle.pierce82@yahoo.com,Sports & Outdoors,PayPal
+CUST00331,Michael Ho,Male,44,Gujranwala,2025-01-19,2025-11-29,17.45,4.0,michael.ho735@yahoo.com,Books,Debit Card
+CUST00332,Barbara Harris,Other,18,London,2023-02-05,2025-01-25,130.53,4.0,barbara.harris745@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00333,Kristen Wood,Female,52,Houston,2025-09-14,2026-02-02,80.82,4.0,kristen.wood811@hotmail.com,Electronics,Credit Card
+CUST00334,Stephen Jones,Male,37,Chicago,2024-02-11,2025-02-18,275.81,4.0,stephen.jones768@hotmail.com,Groceries,Credit Card
+CUST00335,Kelly Hammond,Other,49,Faisalabad,2025-10-12,2026-05-25,18.22,1.0,kelly.hammond69@gmail.com,Home & Kitchen,PayPal
+CUST00336,Emily Jones,Female,29,Los Angeles,2024-05-18,2025-05-24,79.41,4.0,emily.jones581@hotmail.com,Electronics,Mobile Wallet
+CUST00337,Shawn Deleon,Male,30,Faisalabad,2025-01-22,2026-04-28,78.04,5.0,shawn.deleon381@gmail.com,Toys & Games,Credit Card
+CUST00338,Betty Shaw,Female,49,Singapore,2025-12-15,2026-01-20,16.93,4.0,betty.shaw408@gmail.com,Sports & Outdoors,PayPal
+CUST00339,Eric Martin,Male,39,Sialkot,2026-03-20,2026-04-21,41.54,5.0,eric.martin27@gmail.com,Groceries,Bank Transfer
+CUST00340,Todd Jacobson,Male,53,Toronto,2025-11-13,2026-02-21,62.85,5.0,todd.jacobson121@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00341,Tina Hill,Female,18,London,2025-01-01,2025-08-09,46.25,5.0,tina.hill293@hotmail.com,Toys & Games,Debit Card
+CUST00342,Kathryn Jackson,Other,18,Rawalpindi,2026-03-30,2026-04-17,9.22,5.0,kathryn.jackson463@gmail.com,Groceries,PayPal
+CUST00343,Marcus Winters,Male,42,London,2023-11-17,2024-02-15,162.16,5.0,marcus.winters991@hotmail.com,Sports & Outdoors,PayPal
+CUST00344,Scott Miller,Male,37,Los Angeles,2026-04-09,2026-07-09,40.14,2.0,scott.miller556@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00345,Christine Armstrong,Female,32,Multan,2024-12-22,2025-06-19,23.75,5.0,christine.armstrong521@gmail.com,Home & Kitchen,Credit Card
+CUST00346,Lori Roberts,Female,57,Peshawar,2026-04-20,2026-05-08,25.46,3.0,lori.roberts506@yahoo.com,Electronics,Cash on Delivery
+CUST00347,Robert Sullivan,Male,45,Dubai,2024-05-01,2025-12-09,55.37,4.0,robert.sullivan823@hotmail.com,Automotive,Debit Card
+CUST00348,Jeffrey Washington,Male,19,Sydney,2023-05-09,2023-11-02,244.54,2.0,jeffrey.washington408@hotmail.com,Toys & Games,Mobile Wallet
+CUST00349,Shannon Flores,Female,41,Houston,2026-06-04,2026-07-01,64.97,5.0,shannon.flores76@yahoo.com,Groceries,Cash on Delivery
+CUST00350,Carlos Wood MD,Male,39,Islamabad,2023-10-21,2025-01-24,100.59,4.0,carlos.wood.md530@yahoo.com,Sports & Outdoors,Debit Card
+CUST00351,Joanna Thomas,Female,40,Dubai,2022-10-02,2026-05-05,115.21,4.0,joanna.thomas787@yahoo.com,Groceries,Bank Transfer
+CUST00352,Jennifer Estes,Female,37,Toronto,2026-02-02,2026-02-17,126.23,5.0,jennifer.estes531@yahoo.com,Groceries,Cash on Delivery
+CUST00353,Michelle Lee,Female,22,Multan,2023-03-07,2024-02-02,63.77,4.0,michelle.lee727@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00354,Shawn Jimenez,Male,26,Toronto,2022-11-27,2024-07-01,337.26,5.0,shawn.jimenez257@yahoo.com,Home & Kitchen,PayPal
+CUST00355,Vincent Lewis,Male,26,Dubai,2023-12-08,2024-09-15,65.83,2.0,vincent.lewis311@gmail.com,Furniture,Mobile Wallet
+CUST00356,Linda Cameron,Female,45,Islamabad,2025-03-10,2025-11-23,37.06,4.0,linda.cameron607@yahoo.com,Furniture,Debit Card
+CUST00357,Ryan Jordan,Male,31,Multan,2026-01-04,2026-06-22,65.18,4.0,ryan.jordan924@hotmail.com,Furniture,Cash on Delivery
+CUST00358,Jamie Williams,Male,29,Singapore,2022-10-03,2022-12-27,7.53,5.0,jamie.williams30@hotmail.com,Clothing,Credit Card
+CUST00359,Kristen Jones,Female,47,Singapore,2024-07-12,2025-04-10,24.92,5.0,kristen.jones786@hotmail.com,Furniture,Bank Transfer
+CUST00360,Virginia Becker,Female,23,Sydney,2023-01-08,2023-03-12,63.88,4.0,virginia.becker643@gmail.com,Automotive,Cash on Delivery
+CUST00361,Robert Morgan,Male,63,Gujranwala,2026-03-26,2026-05-27,65.34,3.0,robert.morgan827@gmail.com,Books,Cash on Delivery
+CUST00362,Katrina Porter,Female,32,London,2022-09-24,2023-02-21,68.32,5.0,katrina.porter162@gmail.com,Toys & Games,Bank Transfer
+CUST00363,Robert Stone,Male,24,Manchester,2023-02-20,2025-09-29,68.99,3.0,robert.stone622@hotmail.com,Groceries,Cash on Delivery
+CUST00364,Timothy Flores,Male,22,New York,2024-02-04,2026-02-25,51.78,5.0,timothy.flores354@hotmail.com,Books,Debit Card
+CUST00365,Elizabeth Rogers,Female,46,Los Angeles,2025-10-19,2026-07-10,116.86,4.0,elizabeth.rogers327@hotmail.com,Home & Kitchen,Bank Transfer
+CUST00366,Justin Wells,Male,51,Rawalpindi,2022-08-14,2024-02-13,153.27,4.0,justin.wells145@yahoo.com,Clothing,Credit Card
+CUST00367,William Silva,Male,56,Gujranwala,2025-09-04,2026-03-20,92.03,5.0,william.silva429@hotmail.com,Home & Kitchen,Debit Card
+CUST00368,Lori Carlson,Female,45,New York,2023-08-05,2025-05-07,118.11,3.0,lori.carlson164@hotmail.com,Toys & Games,Mobile Wallet
+CUST00369,Ricardo Lane,Male,36,London,2025-05-19,2026-01-30,156.83,5.0,ricardo.lane510@hotmail.com,Electronics,Credit Card
+CUST00370,Kelly Griffith,Female,59,Chicago,2025-08-03,2026-04-19,35.86,4.0,kelly.griffith247@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST00371,Melanie Johnson,Female,30,Los Angeles,2026-04-08,2026-04-15,80.17,2.0,melanie.johnson507@gmail.com,Furniture,PayPal
+CUST00372,Jeremy Barnes,Male,27,Manchester,2024-03-03,2024-12-21,43.14,4.0,jeremy.barnes868@gmail.com,Clothing,Bank Transfer
+CUST00373,Patricia Knapp,Female,22,Faisalabad,2025-12-22,2026-02-28,41.41,5.0,patricia.knapp783@hotmail.com,Books,Cash on Delivery
+CUST00374,Michele Stone,Female,34,Karachi,2024-10-01,2025-11-16,458.54,2.0,michele.stone576@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00375,Jamie Frye,Female,23,Dubai,2024-05-09,2025-03-01,131.37,2.0,jamie.frye517@hotmail.com,Toys & Games,Mobile Wallet
+CUST00376,Hector Ingram,Other,35,Sialkot,2025-05-18,2026-07-15,74.29,5.0,hector.ingram697@hotmail.com,Furniture,Credit Card
+CUST00377,Dennis Washington,Male,28,Faisalabad,2026-04-21,2026-05-04,80.68,4.0,dennis.washington814@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00378,Danny Dudley,Male,31,Los Angeles,2023-09-20,2024-07-12,14.85,3.0,danny.dudley522@yahoo.com,Books,Mobile Wallet
+CUST00379,Melissa Burns,Female,46,Karachi,2024-06-07,2024-07-24,146.33,1.0,melissa.burns731@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST00380,Robert Hill,Male,20,Toronto,2023-01-12,2025-08-05,17.85,3.0,robert.hill915@hotmail.com,Automotive,Debit Card
+CUST00381,Stephanie Foster,Other,18,New York,2023-11-27,2026-07-08,404.06,4.0,stephanie.foster167@gmail.com,Books,Mobile Wallet
+CUST00382,Donna Klein,Female,47,Gujranwala,2023-11-29,2025-07-29,64.41,4.0,donna.klein849@yahoo.com,Automotive,Mobile Wallet
+CUST00383,Nicole Lewis,Female,18,Manchester,2025-10-18,2026-03-21,39.83,4.0,nicole.lewis18@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00384,Melissa Taylor,Female,52,Rawalpindi,2024-12-19,2026-02-19,230.92,4.0,melissa.taylor816@hotmail.com,Electronics,Mobile Wallet
+CUST00385,Amber Stein,Female,39,Manchester,2023-06-09,2024-12-04,35.98,5.0,amber.stein802@gmail.com,Furniture,Mobile Wallet
+CUST00386,Jennifer Love,Female,28,Quetta,2022-12-12,2023-03-28,36.44,4.0,jennifer.love175@gmail.com,Automotive,PayPal
+CUST00387,Joshua Hickman,Other,38,Sydney,2024-02-24,2026-04-28,51.3,5.0,joshua.hickman152@yahoo.com,Home & Kitchen,Credit Card
+CUST00388,Christina Maynard,Female,41,Singapore,2023-10-24,2026-06-21,47.77,5.0,christina.maynard196@hotmail.com,Electronics,Bank Transfer
+CUST00389,Randy Pearson,Male,18,New York,2023-06-19,2025-10-24,82.41,3.0,randy.pearson708@hotmail.com,Home & Kitchen,Bank Transfer
+CUST00390,Taylor Gentry,Female,30,Toronto,2023-03-29,2025-11-19,24.34,5.0,taylor.gentry754@gmail.com,Electronics,PayPal
+CUST00391,Amanda Huff,Other,44,Faisalabad,2025-08-22,2026-05-15,21.73,,amanda.huff333@gmail.com,Toys & Games,Mobile Wallet
+CUST00392,Victor Howe,Male,29,Chicago,2025-12-27,2026-03-18,91.09,5.0,victor.howe471@gmail.com,Automotive,Cash on Delivery
+CUST00393,Lance Hebert,Other,18,Dubai,2023-11-13,2024-11-10,52.19,5.0,lance.hebert889@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00394,Joshua Snyder DVM,Male,35,Manchester,2025-11-20,2026-01-09,21.02,5.0,joshua.snyder.dvm286@yahoo.com,Automotive,Cash on Delivery
+CUST00395,Robert Rivera,Male,31,Quetta,2025-06-02,2025-11-02,202.41,5.0,robert.rivera722@hotmail.com,Home & Kitchen,PayPal
+CUST00396,Cody Doyle,Male,53,Manchester,2025-08-26,2026-02-05,143.34,4.0,cody.doyle574@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00397,Corey Carr,Male,45,Rawalpindi,2025-01-21,2026-02-14,200.39,5.0,corey.carr405@yahoo.com,Sports & Outdoors,Debit Card
+CUST00398,Jose Miller,Male,39,Gujranwala,2025-03-05,2025-03-27,98.2,3.0,jose.miller732@gmail.com,Clothing,Cash on Delivery
+CUST00399,Karen Boyle MD,Female,31,London,2024-01-21,2025-11-23,93.86,3.0,karen.boyle.md491@yahoo.com,Home & Kitchen,Debit Card
+CUST00400,Troy Turner,Male,34,Dubai,2025-05-21,2025-10-07,64.49,5.0,troy.turner713@gmail.com,Beauty & Personal Care,Debit Card
+CUST00401,Heather Young,Female,33,Rawalpindi,2025-03-03,2026-01-13,26.27,5.0,heather.young246@yahoo.com,Home & Kitchen,Credit Card
+CUST00402,Jennifer Shaw,Female,35,Toronto,2026-01-22,2026-03-21,11.04,4.0,jennifer.shaw54@hotmail.com,Clothing,Bank Transfer
+CUST00403,Michael Fowler,Male,36,New York,2026-03-29,2026-06-29,100.21,4.0,michael.fowler698@yahoo.com,Groceries,Credit Card
+CUST00404,Colleen Anderson,Female,46,Dubai,2023-02-26,2024-01-16,5.0,4.0,colleen.anderson958@hotmail.com,Toys & Games,Bank Transfer
+CUST00405,Jacqueline Miles DVM,Female,24,Peshawar,2025-07-09,2025-12-04,95.88,4.0,jacqueline.miles.dvm662@hotmail.com,Electronics,Credit Card
+CUST00406,Philip Becker,Male,48,Singapore,2024-11-20,2025-07-16,26.16,4.0,philip.becker741@gmail.com,Electronics,Debit Card
+CUST00407,Joseph Cox,Male,38,Houston,2026-02-23,2026-04-10,37.13,5.0,joseph.cox38@gmail.com,Books,Bank Transfer
+CUST00408,Joshua Wagner,Male,32,Multan,2024-10-18,2025-08-11,81.1,5.0,joshua.wagner10@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00409,Sarah Ramos,Female,34,Sydney,2025-03-21,2025-05-15,404.67,5.0,sarah.ramos344@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00410,Ann Dixon,Female,37,Dubai,2025-09-21,2026-06-17,171.67,4.0,ann.dixon962@yahoo.com,Groceries,Mobile Wallet
+CUST00411,Jason Elliott,Male,37,London,2024-09-28,2025-07-05,99.91,3.0,jason.elliott116@hotmail.com,Sports & Outdoors,Debit Card
+CUST00412,Miranda Foster,Female,42,London,2025-10-02,2026-02-11,23.84,5.0,miranda.foster15@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00413,Benjamin Henderson,Male,25,Singapore,2025-04-19,2026-03-31,87.09,5.0,benjamin.henderson180@hotmail.com,Furniture,PayPal
+CUST00414,Taylor Jones DVM,Female,34,Chicago,2022-09-05,2025-01-28,89.65,4.0,taylor.jones.dvm89@yahoo.com,Books,PayPal
+CUST00415,Brandy May,Female,39,Rawalpindi,2025-05-30,2025-09-02,242.66,5.0,brandy.may489@yahoo.com,Sports & Outdoors,Debit Card
+CUST00416,Stephanie West,Female,32,Lahore,2026-02-23,2026-05-01,158.81,4.0,stephanie.west458@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00417,Michael Stanley,Male,47,Gujranwala,2024-08-31,2026-04-20,111.38,5.0,michael.stanley12@hotmail.com,Beauty & Personal Care,PayPal
+CUST00418,Barbara Haney,Female,31,Los Angeles,2024-02-04,2026-01-14,230.01,3.0,barbara.haney684@gmail.com,Clothing,Bank Transfer
+CUST00419,Courtney Smith,Female,36,Gujranwala,2022-08-23,2023-07-17,26.42,4.0,courtney.smith515@yahoo.com,Beauty & Personal Care,PayPal
+CUST00420,Nathan Coleman,Male,21,Rawalpindi,2024-01-15,2025-10-31,18.25,5.0,nathan.coleman303@gmail.com,Sports & Outdoors,Mobile Wallet
+CUST00421,Gregory Hill,Male,24,Quetta,2026-03-24,2026-04-22,269.7,5.0,gregory.hill490@hotmail.com,Groceries,Bank Transfer
+CUST00422,Andrew Keller,Male,27,Sydney,2024-12-17,2026-01-04,20.27,4.0,andrew.keller563@gmail.com,Toys & Games,Mobile Wallet
+CUST00423,Austin Wheeler,Male,37,Peshawar,2024-04-20,2026-06-10,35.51,3.0,austin.wheeler773@hotmail.com,Furniture,Credit Card
+CUST00424,Amber Yang,Female,26,Toronto,2024-02-17,2025-05-20,506.33,4.0,amber.yang371@gmail.com,Clothing,Mobile Wallet
+CUST00425,Paul Parsons,Male,35,Rawalpindi,2023-02-07,2023-06-14,183.74,5.0,paul.parsons925@yahoo.com,Automotive,Debit Card
+CUST00426,Thomas Johnston,Male,18,Singapore,2024-10-25,2026-04-28,15.17,3.0,thomas.johnston336@hotmail.com,Automotive,Bank Transfer
+CUST00427,Cynthia Walter,Female,62,Rawalpindi,2026-06-01,2026-07-15,128.08,3.0,cynthia.walter598@hotmail.com,Toys & Games,Credit Card
+CUST00428,Elizabeth Brown,Female,42,Toronto,2026-04-09,2026-06-06,143.75,5.0,elizabeth.brown465@hotmail.com,Groceries,Mobile Wallet
+CUST00429,Lori Simmons,Female,31,Houston,2024-06-30,2025-10-11,94.9,4.0,lori.simmons573@yahoo.com,Toys & Games,PayPal
+CUST00430,Megan Floyd,Female,25,Gujranwala,2023-10-21,2025-10-31,51.8,1.0,megan.floyd261@yahoo.com,Electronics,PayPal
+CUST00431,Elizabeth White,Female,24,Peshawar,2024-08-29,2026-04-14,27.5,2.0,elizabeth.white434@gmail.com,Sports & Outdoors,PayPal
+CUST00432,Eric Zimmerman,Male,37,Islamabad,2025-09-17,2026-06-22,233.41,5.0,eric.zimmerman958@gmail.com,Clothing,Bank Transfer
+CUST00433,Walter Grant,Male,53,Karachi,2023-01-29,2024-09-08,133.72,4.0,walter.grant788@gmail.com,Groceries,PayPal
+CUST00434,Gary Miller,Male,23,Houston,2024-04-25,2025-05-14,54.48,5.0,gary.miller392@yahoo.com,Toys & Games,Bank Transfer
+CUST00435,Nathaniel Lee,Male,23,Chicago,2023-08-10,2024-01-22,109.5,5.0,nathaniel.lee678@hotmail.com,Automotive,Debit Card
+CUST00436,Amanda Jones,Female,27,Los Angeles,2025-09-15,2025-11-15,88.93,3.0,amanda.jones551@hotmail.com,Books,Mobile Wallet
+CUST00437,Kristin Mendoza,Female,51,Faisalabad,2025-12-17,2026-06-22,62.33,5.0,kristin.mendoza855@yahoo.com,Electronics,Credit Card
+CUST00438,Susan Lewis,Female,36,Gujranwala,2023-04-19,2025-11-23,45.31,5.0,susan.lewis558@hotmail.com,Books,Mobile Wallet
+CUST00439,Yvonne Mendoza,Female,49,Chicago,2023-07-04,2024-10-17,94.21,3.0,yvonne.mendoza355@hotmail.com,Groceries,Cash on Delivery
+CUST00440,Jennifer Allen,Female,26,,2023-10-25,2026-06-11,36.72,5.0,jennifer.allen784@yahoo.com,Clothing,Credit Card
+CUST00441,Kimberly Howard,Female,48,Houston,2023-07-31,2023-09-02,50.87,3.0,kimberly.howard69@hotmail.com,Clothing,Mobile Wallet
+CUST00442,Julie Lang,Female,20,Karachi,2025-05-20,2026-01-04,35.74,4.0,julie.lang721@yahoo.com,Electronics,Debit Card
+CUST00443,Jacqueline Gutierrez,Female,44,Karachi,2024-10-03,2025-11-19,40.27,4.0,jacqueline.gutierrez553@gmail.com,Home & Kitchen,Credit Card
+CUST00444,Alan Tran,Male,26,Faisalabad,2024-11-03,2026-04-03,85.72,5.0,alan.tran240@hotmail.com,Furniture,Cash on Delivery
+CUST00445,Brittany Rivera,Female,61,Singapore,2024-01-16,2025-09-20,21.89,5.0,brittany.rivera839@gmail.com,Sports & Outdoors,Debit Card
+CUST00446,Matthew Cohen,Male,42,Gujranwala,2023-07-25,2024-05-14,96.78,5.0,matthew.cohen534@yahoo.com,Home & Kitchen,Bank Transfer
+CUST00447,Mr. John Jackson,Male,49,Gujranwala,2025-09-01,2026-01-20,287.45,2.0,mr..john.jackson972@gmail.com,Furniture,PayPal
+CUST00448,Kimberly White,Female,28,Multan,2026-01-14,2026-06-24,19.44,5.0,kimberly.white570@hotmail.com,Toys & Games,Credit Card
+CUST00449,Kelly Combs,Female,38,Los Angeles,2022-11-05,2026-06-15,66.56,5.0,kelly.combs805@hotmail.com,Automotive,Cash on Delivery
+CUST00450,Aaron Taylor,Male,25,Houston,2025-01-09,2026-03-04,291.55,3.0,aaron.taylor386@gmail.com,Groceries,Mobile Wallet
+CUST00451,Adam Wagner,Male,46,Manchester,2024-01-07,2024-09-10,180.12,5.0,adam.wagner308@hotmail.com,Groceries,Bank Transfer
+CUST00452,Taylor Durham,Other,41,Karachi,2025-02-19,2026-04-18,288.75,5.0,taylor.durham571@gmail.com,Automotive,Debit Card
+CUST00453,Juan Smith,Male,21,Chicago,2024-08-17,2025-04-23,35.16,3.0,juan.smith339@yahoo.com,Clothing,Bank Transfer
+CUST00454,Dustin Shaw,Male,35,Los Angeles,2025-04-15,2025-06-02,33.35,4.0,dustin.shaw850@yahoo.com,Home & Kitchen,Credit Card
+CUST00455,Theodore Rodriguez,Male,27,Sialkot,2022-12-06,2025-01-17,125.37,5.0,theodore.rodriguez618@gmail.com,Electronics,Credit Card
+CUST00456,Lisa King,Female,38,Peshawar,2023-12-11,2026-03-14,141.2,5.0,lisa.king742@yahoo.com,Automotive,Debit Card
+CUST00457,Tina Stevens,Female,20,Manchester,2023-07-05,2024-09-05,21.97,5.0,tina.stevens341@hotmail.com,Beauty & Personal Care,Credit Card
+CUST00458,Melinda Abbott,Female,55,Peshawar,2025-02-11,2025-08-25,97.23,5.0,melinda.abbott121@hotmail.com,Toys & Games,Debit Card
+CUST00459,Brandon Gray,Male,36,Sydney,2024-09-19,2025-04-17,36.13,4.0,brandon.gray246@gmail.com,Automotive,Cash on Delivery
+CUST00460,Michele Miller,Female,41,Gujranwala,2025-11-12,2026-02-18,29.12,4.0,michele.miller665@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00461,Keith Hodge,Male,24,Sialkot,2022-12-05,2024-12-11,71.75,4.0,keith.hodge510@hotmail.com,Toys & Games,Credit Card
+CUST00462,David Valenzuela,Male,26,Manchester,2025-04-07,2026-05-02,202.85,5.0,david.valenzuela937@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00463,Amber Jones,Female,28,New York,2026-03-07,2026-06-21,18.79,1.0,amber.jones885@hotmail.com,Home & Kitchen,PayPal
+CUST00464,Andrew Mcfarland,Male,49,Faisalabad,2023-10-15,2023-11-01,75.76,3.0,andrew.mcfarland958@gmail.com,Furniture,Mobile Wallet
+CUST00465,Nicole Marquez,Female,26,Houston,2024-02-11,2024-12-10,81.68,3.0,nicole.marquez338@gmail.com,Home & Kitchen,Bank Transfer
+CUST00466,Kristy Knight,Female,36,Singapore,2025-11-18,2026-06-20,58.14,3.0,kristy.knight564@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00467,Evelyn Campos,Female,22,Manchester,2023-02-07,2025-11-08,29.94,4.0,evelyn.campos751@hotmail.com,Sports & Outdoors,Debit Card
+CUST00468,Jonathan Mccann,Male,18,Faisalabad,2022-10-06,2025-10-30,105.34,4.0,jonathan.mccann939@yahoo.com,Automotive,PayPal
+CUST00469,Billy Jacobs,Male,60,Karachi,2024-12-16,2026-06-06,24.09,1.0,billy.jacobs868@hotmail.com,Clothing,PayPal
+CUST00470,Patricia Johnson,Female,34,Karachi,2023-08-17,2023-08-31,141.83,4.0,patricia.johnson863@yahoo.com,Home & Kitchen,Credit Card
+CUST00471,Henry Pugh MD,Other,30,Faisalabad,2025-03-20,2025-03-25,101.25,3.0,henry.pugh.md467@hotmail.com,Sports & Outdoors,Credit Card
+CUST00472,Patricia Phillips,Female,35,Sydney,2023-07-09,2026-03-25,61.01,5.0,patricia.phillips17@gmail.com,Electronics,Mobile Wallet
+CUST00473,Christian Dawson,Male,41,Dubai,2025-01-14,2026-03-12,114.39,1.0,christian.dawson543@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00474,Isaac Davis,Male,32,Gujranwala,2026-04-01,2026-04-04,33.78,4.0,isaac.davis715@yahoo.com,Books,Debit Card
+CUST00475,Derrick Anderson,Male,22,Rawalpindi,2023-04-16,2023-10-31,217.4,4.0,derrick.anderson247@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST00476,Kayla Garcia,Other,48,Toronto,2022-11-27,2024-04-27,102.23,5.0,kayla.garcia274@hotmail.com,Books,Credit Card
+CUST00477,Kyle Nguyen,Male,64,Los Angeles,2024-01-24,2025-03-15,50.9,,kyle.nguyen250@yahoo.com,Home & Kitchen,Cash on Delivery
+CUST00478,Peggy Hardy,Female,35,Islamabad,2024-09-29,2024-11-01,20.48,2.0,peggy.hardy389@gmail.com,Books,Mobile Wallet
+CUST00479,Christopher James,Male,30,Manchester,2023-02-05,2023-05-31,27.3,4.0,christopher.james720@yahoo.com,Groceries,Credit Card
+CUST00480,Charles Jackson,Male,35,Manchester,2023-08-20,2026-01-25,107.42,4.0,charles.jackson340@yahoo.com,Furniture,Credit Card
+CUST00481,Mr. David Wright,Other,18,Toronto,2025-01-01,2025-02-14,37.27,3.0,mr..david.wright923@hotmail.com,Furniture,Bank Transfer
+CUST00482,Judith Taylor,Female,23,Sialkot,2022-07-31,2022-11-04,58.58,5.0,judith.taylor701@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00483,Lisa Brock,Female,41,Singapore,2023-11-05,2025-09-09,21.03,1.0,lisa.brock952@yahoo.com,Sports & Outdoors,Credit Card
+CUST00484,Samantha Curtis,Female,32,Peshawar,2024-11-18,2026-07-13,255.1,3.0,samantha.curtis841@yahoo.com,Books,Credit Card
+CUST00485,Travis Harris,Male,28,Gujranwala,2023-10-14,2024-03-29,46.07,4.0,travis.harris581@yahoo.com,Books,PayPal
+CUST00486,Mr. Michael Henry,Male,27,Dubai,2024-10-23,2025-09-28,50.79,4.0,mr..michael.henry758@gmail.com,Groceries,PayPal
+CUST00487,Diana Hartman,Female,35,Islamabad,2023-12-26,2025-05-22,34.61,,diana.hartman355@hotmail.com,Electronics,Credit Card
+CUST00488,Zachary White,Other,40,Houston,2025-07-24,2025-11-20,194.72,5.0,zachary.white349@gmail.com,Furniture,Mobile Wallet
+CUST00489,Joel Erickson,Male,40,Sydney,2024-04-09,2025-05-21,523.12,5.0,joel.erickson335@yahoo.com,Electronics,PayPal
+CUST00490,Benjamin Abbott,Male,18,Sialkot,2025-09-01,2026-04-20,54.47,4.0,benjamin.abbott365@hotmail.com,Automotive,Bank Transfer
+CUST00491,Mark Allen,Male,49,Houston,2025-02-18,2025-08-28,50.15,5.0,mark.allen677@hotmail.com,Books,Credit Card
+CUST00492,Jamie Cole,Female,28,Sydney,2024-11-23,2025-09-22,6.48,5.0,jamie.cole731@hotmail.com,Clothing,Credit Card
+CUST00493,Jonathon Knapp,Male,45,Sialkot,2025-04-06,2025-06-24,32.56,4.0,jonathon.knapp803@hotmail.com,Groceries,PayPal
+CUST00494,Warren Miles,Male,18,Chicago,2025-09-26,2026-03-08,78.65,4.0,warren.miles94@hotmail.com,Electronics,Cash on Delivery
+CUST00495,Bradley Mack,Male,23,London,2025-02-17,2026-02-21,64.86,5.0,bradley.mack105@yahoo.com,Groceries,Credit Card
+CUST00496,Lisa Hart,Female,49,Multan,2025-01-30,2026-04-17,57.82,4.0,lisa.hart569@hotmail.com,Automotive,Bank Transfer
+CUST00497,Paul Sheppard,Male,20,Rawalpindi,2024-03-28,2024-04-24,64.32,2.0,paul.sheppard568@gmail.com,Clothing,Mobile Wallet
+CUST00498,Daniel Burgess,Male,32,Sydney,2024-09-27,2025-08-26,311.23,5.0,daniel.burgess13@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00499,Jeremy Myers,Male,24,Chicago,2025-07-31,2025-09-13,8.6,5.0,jeremy.myers573@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST00500,Brittany Cuevas,Female,26,Toronto,2024-06-11,2024-12-02,170.02,5.0,brittany.cuevas174@yahoo.com,Groceries,Cash on Delivery
+CUST00501,Tonya Wilson,Female,18,Gujranwala,2026-03-29,2026-05-03,46.24,4.0,tonya.wilson65@gmail.com,Groceries,Bank Transfer
+CUST00502,Grace Mueller,Female,60,Sialkot,2024-08-05,2025-10-11,38.66,3.0,grace.mueller802@yahoo.com,Clothing,Cash on Delivery
+CUST00503,Jessica Horton,Female,38,Sialkot,2023-10-21,2026-06-14,136.94,3.0,jessica.horton641@yahoo.com,Toys & Games,Mobile Wallet
+CUST00504,Michelle Johnson,Female,35,Sydney,2023-11-24,2024-06-12,33.85,4.0,michelle.johnson139@gmail.com,Beauty & Personal Care,Credit Card
+CUST00505,Christopher Riggs,Male,36,Chicago,2023-07-06,2025-05-17,314.16,5.0,christopher.riggs390@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00506,Erin Simmons,Female,30,New York,2024-05-13,2025-07-28,78.74,5.0,erin.simmons881@yahoo.com,Furniture,Debit Card
+CUST00507,Cody Sandoval,Male,25,Gujranwala,2024-02-08,2025-01-02,214.63,4.0,cody.sandoval712@hotmail.com,Home & Kitchen,Bank Transfer
+CUST00508,Craig Vargas,Male,49,New York,2024-01-29,2024-07-29,36.92,5.0,craig.vargas992@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00509,Diana Padilla,Female,29,Manchester,2025-09-03,2026-06-25,45.04,5.0,diana.padilla334@hotmail.com,Books,Cash on Delivery
+CUST00510,Shane Lopez,Male,49,Chicago,2023-10-31,2024-11-08,127.37,2.0,shane.lopez578@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST00511,Michael Burns,Male,42,Dubai,2026-05-04,2026-05-28,217.03,5.0,michael.burns564@yahoo.com,Electronics,PayPal
+CUST00512,Logan Matthews,Male,31,London,2023-12-01,2025-11-26,53.21,3.0,logan.matthews817@yahoo.com,Beauty & Personal Care,PayPal
+CUST00513,Robin Mccarthy,Female,42,Islamabad,2023-09-20,2026-01-05,200.77,5.0,robin.mccarthy143@hotmail.com,Beauty & Personal Care,Debit Card
+CUST00514,Megan Edwards,Female,27,Sialkot,2023-06-28,2024-05-09,153.71,5.0,megan.edwards809@gmail.com,Books,Credit Card
+CUST00515,Michael Dixon,Other,52,London,2024-03-11,2025-11-14,336.75,4.0,michael.dixon411@gmail.com,Automotive,Mobile Wallet
+CUST00516,Jenny Tucker,Female,41,Houston,2024-08-28,2026-03-08,175.08,1.0,jenny.tucker992@hotmail.com,Sports & Outdoors,PayPal
+CUST00517,Christopher Jackson,Male,41,Dubai,2023-09-08,2024-03-01,55.18,2.0,christopher.jackson255@gmail.com,Sports & Outdoors,Debit Card
+CUST00518,Jerry Brown,Male,22,Sydney,2023-12-17,2024-02-01,11.36,4.0,jerry.brown661@gmail.com,Books,Cash on Delivery
+CUST00519,Cory Cruz,Male,41,,2024-10-02,2025-01-19,76.17,1.0,cory.cruz265@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST00520,Michael Perry,Male,32,Toronto,2025-11-04,2026-02-26,51.98,4.0,michael.perry401@yahoo.com,Toys & Games,PayPal
+CUST00521,Krystal Flynn,Female,18,Singapore,2023-06-02,2026-03-23,151.67,3.0,krystal.flynn26@gmail.com,Toys & Games,Credit Card
+CUST00522,Kimberly Jackson,Female,32,Gujranwala,2024-05-06,2025-07-06,86.0,5.0,kimberly.jackson88@hotmail.com,Clothing,PayPal
+CUST00523,Kathleen Dixon,Female,49,Faisalabad,2024-10-18,2025-10-10,58.79,4.0,kathleen.dixon467@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST00524,Samantha Richardson,Female,42,Manchester,2025-10-11,2026-04-08,191.74,4.0,samantha.richardson449@gmail.com,Toys & Games,Cash on Delivery
+CUST00525,Jeremy Robinson,Male,38,Islamabad,2024-03-21,2025-01-23,68.53,1.0,jeremy.robinson728@hotmail.com,Clothing,Credit Card
+CUST00526,Nicole Evans,Female,39,New York,2026-06-21,2026-07-12,37.11,2.0,nicole.evans820@yahoo.com,Groceries,PayPal
+CUST00527,Shannon Miller,Female,35,Quetta,2025-12-11,2026-04-23,17.41,3.0,shannon.miller164@gmail.com,Sports & Outdoors,Mobile Wallet
+CUST00528,Cynthia Cochran,Female,38,Houston,2024-11-09,2026-02-26,308.58,3.0,cynthia.cochran415@yahoo.com,Groceries,Debit Card
+CUST00529,Lisa Patterson,Female,18,Houston,2024-12-19,2026-01-29,71.56,1.0,lisa.patterson629@gmail.com,Home & Kitchen,Bank Transfer
+CUST00530,Renee Hudson,Female,44,Singapore,2024-08-21,2025-11-04,93.98,4.0,renee.hudson722@hotmail.com,Home & Kitchen,Debit Card
+CUST00531,Erica Padilla,Female,27,Sialkot,2023-09-09,2024-01-16,102.54,4.0,erica.padilla819@yahoo.com,Automotive,Debit Card
+CUST00532,Jose Mccullough,Male,32,Los Angeles,2025-09-30,2026-03-16,31.02,3.0,jose.mccullough117@gmail.com,Beauty & Personal Care,PayPal
+CUST00533,Dr. Tamara Riddle,Female,38,Manchester,2025-12-13,2026-04-28,18.91,5.0,dr..tamara.riddle321@gmail.com,Furniture,Bank Transfer
+CUST00534,Brandi Thomas,Female,20,Sydney,2023-10-25,2024-11-30,99.5,4.0,brandi.thomas357@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00535,Michael Burns,Male,38,Sydney,2024-10-25,2025-04-20,246.99,5.0,michael.burns723@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00536,James Jones,Male,25,Singapore,2025-09-01,2025-10-15,119.52,5.0,james.jones321@gmail.com,Clothing,Debit Card
+CUST00537,Nicole Neal,Female,18,Gujranwala,2025-12-28,2026-01-27,24.64,3.0,nicole.neal711@yahoo.com,Groceries,Mobile Wallet
+CUST00538,Garrett Smith,Male,43,Chicago,2025-08-02,2026-03-05,47.68,4.0,garrett.smith589@hotmail.com,Books,Bank Transfer
+CUST00539,William Reid,Other,25,Multan,2025-04-14,2025-12-20,10.13,4.0,william.reid711@gmail.com,Groceries,Mobile Wallet
+CUST00540,Jennifer Donaldson,Female,37,Multan,2025-10-14,2026-06-22,154.37,3.0,jennifer.donaldson192@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00541,Ronald Morgan,Male,55,Sydney,2024-10-26,2024-12-20,33.93,5.0,ronald.morgan975@hotmail.com,Electronics,Bank Transfer
+CUST00542,Richard Shannon,Male,18,Faisalabad,2025-07-16,2025-10-24,207.75,5.0,richard.shannon987@gmail.com,Automotive,Mobile Wallet
+CUST00543,Rachel Stevens,Female,37,Manchester,2023-01-15,2025-05-02,31.43,5.0,rachel.stevens426@gmail.com,Toys & Games,Bank Transfer
+CUST00544,April Rubio,Female,28,Multan,2023-05-07,2023-10-24,78.74,4.0,april.rubio815@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00545,Sonia Turner,Female,57,Karachi,2025-12-24,2026-03-05,364.29,3.0,sonia.turner296@yahoo.com,Groceries,Bank Transfer
+CUST00546,Heather Miller,Female,47,Singapore,2025-02-26,2026-03-14,113.67,5.0,heather.miller508@hotmail.com,Automotive,Mobile Wallet
+CUST00547,James Torres,Male,34,Rawalpindi,2025-04-17,2026-02-05,217.28,2.0,james.torres794@gmail.com,Automotive,Cash on Delivery
+CUST00548,Brandon Davis,Male,32,Dubai,2023-05-23,2023-08-17,44.35,,brandon.davis452@gmail.com,Automotive,Debit Card
+CUST00549,Courtney Frazier,Female,46,Houston,2022-08-04,2023-03-02,123.2,5.0,courtney.frazier670@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00550,Barbara Dalton,Female,21,Karachi,2025-04-10,2025-11-27,56.02,3.0,barbara.dalton883@yahoo.com,Clothing,Bank Transfer
+CUST00551,James Cross,Male,24,Rawalpindi,2022-12-15,2024-04-14,59.04,3.0,james.cross756@yahoo.com,Furniture,PayPal
+CUST00552,Edwin Reyes,Male,53,Los Angeles,2025-09-27,2026-05-05,117.65,3.0,edwin.reyes143@gmail.com,Home & Kitchen,Debit Card
+CUST00553,Megan Jones,Other,37,Karachi,2024-10-05,2026-05-12,112.07,4.0,megan.jones288@hotmail.com,Furniture,Mobile Wallet
+CUST00554,Jeremiah Bowen,Male,49,Multan,2025-01-05,2025-12-03,112.61,5.0,jeremiah.bowen300@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00555,Luis Ramos,Male,48,Sialkot,2023-05-28,2026-04-16,50.71,5.0,luis.ramos696@gmail.com,Clothing,Debit Card
+CUST00556,Bryce Blair,Male,57,Houston,2023-12-07,2026-07-05,267.45,2.0,bryce.blair284@yahoo.com,Groceries,PayPal
+CUST00557,Charles Hill,Male,18,Faisalabad,2022-11-19,2024-04-14,23.17,3.0,charles.hill330@hotmail.com,Home & Kitchen,PayPal
+CUST00558,Nathan Mitchell,Male,36,Chicago,2026-03-29,2026-05-31,13.58,3.0,nathan.mitchell648@gmail.com,Beauty & Personal Care,PayPal
+CUST00559,Matthew Turner,Male,47,Houston,2024-07-31,2025-08-20,55.96,4.0,matthew.turner649@hotmail.com,Clothing,Bank Transfer
+CUST00560,Jenna Lucas,Female,41,Toronto,2025-08-16,2026-01-06,41.29,5.0,jenna.lucas899@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00561,Brian Porter,Male,21,Manchester,2024-11-17,2025-10-19,63.66,4.0,brian.porter890@hotmail.com,Clothing,PayPal
+CUST00562,Adam Ward,Male,34,London,2023-10-17,2025-07-29,328.66,5.0,adam.ward367@yahoo.com,Clothing,Mobile Wallet
+CUST00563,Keith Diaz,Male,45,Chicago,2025-03-25,2025-07-15,134.33,5.0,keith.diaz845@yahoo.com,Home & Kitchen,Bank Transfer
+CUST00564,Randy Smith,Male,23,Sialkot,2022-10-26,2024-08-18,87.5,5.0,randy.smith346@yahoo.com,Automotive,Mobile Wallet
+CUST00565,Tammy Fry,Female,39,Faisalabad,2024-02-11,2025-09-13,74.39,5.0,tammy.fry808@yahoo.com,Sports & Outdoors,PayPal
+CUST00566,Jonathan Perry,Male,33,Karachi,2025-04-21,2025-05-15,55.52,2.0,jonathan.perry803@gmail.com,Toys & Games,Credit Card
+CUST00567,Joshua Hernandez,Male,39,Rawalpindi,2022-11-18,2023-10-08,54.65,4.0,joshua.hernandez1@gmail.com,Books,Debit Card
+CUST00568,Dalton Morton,Male,45,Faisalabad,2024-08-27,2026-06-24,32.37,4.0,dalton.morton896@yahoo.com,Beauty & Personal Care,Credit Card
+CUST00569,Phillip Santos,Male,28,Los Angeles,2025-01-27,2025-10-11,65.85,2.0,phillip.santos681@yahoo.com,Groceries,Credit Card
+CUST00570,Nicholas Mathis,Male,18,Chicago,2022-10-12,2026-04-16,147.77,4.0,nicholas.mathis717@gmail.com,Home & Kitchen,Bank Transfer
+CUST00571,Brian Salazar,Male,37,Islamabad,2022-10-08,2023-04-21,72.14,1.0,brian.salazar489@hotmail.com,Clothing,Debit Card
+CUST00572,Natalie Wilson,Female,18,Singapore,2025-04-30,2025-08-24,41.42,4.0,natalie.wilson456@hotmail.com,Electronics,Credit Card
+CUST00573,Kathleen Reed,Female,21,New York,2024-07-31,2024-12-02,111.09,5.0,kathleen.reed433@hotmail.com,Groceries,Bank Transfer
+CUST00574,Jacqueline Brady,Female,40,Islamabad,2025-12-22,2026-02-19,64.58,4.0,jacqueline.brady749@hotmail.com,Clothing,Credit Card
+CUST00575,Patricia Johnson,Female,25,New York,2025-09-18,2026-03-26,50.21,5.0,patricia.johnson141@yahoo.com,Books,Debit Card
+CUST00576,Dennis Proctor,Male,26,Faisalabad,2025-01-04,2025-03-16,32.16,4.0,dennis.proctor9@yahoo.com,Furniture,PayPal
+CUST00577,Heather Porter,Female,47,Multan,2024-10-10,2026-01-04,732.79,4.0,heather.porter219@yahoo.com,Groceries,Bank Transfer
+CUST00578,Raymond Shannon,Male,40,Sydney,2025-03-12,2026-02-27,124.44,4.0,raymond.shannon223@gmail.com,Clothing,Credit Card
+CUST00579,Jordan Williams,Male,39,Faisalabad,2025-12-07,2026-06-18,340.48,2.0,jordan.williams748@gmail.com,Books,Cash on Delivery
+CUST00580,Jack Mora,Male,22,Houston,2023-04-04,2025-01-08,5.0,5.0,jack.mora254@gmail.com,Beauty & Personal Care,PayPal
+CUST00581,Thomas Yang,Male,29,Islamabad,2024-03-13,2024-11-23,407.08,4.0,thomas.yang615@yahoo.com,Furniture,Cash on Delivery
+CUST00582,Thomas Flores,Male,42,Lahore,2025-10-16,2026-03-20,424.85,3.0,thomas.flores622@hotmail.com,Automotive,Debit Card
+CUST00583,Jonathan Winters,Male,51,Chicago,2023-04-04,2024-11-30,70.2,4.0,jonathan.winters803@hotmail.com,Home & Kitchen,Bank Transfer
+CUST00584,Troy Jones MD,Male,27,Chicago,2023-08-29,2024-04-16,32.48,3.0,troy.jones.md654@yahoo.com,Furniture,Credit Card
+CUST00585,Juan Smith,Male,48,Toronto,2023-05-05,2023-05-30,33.4,5.0,juan.smith957@hotmail.com,Sports & Outdoors,Debit Card
+CUST00586,Nancy Sanchez,Female,38,Chicago,2023-12-30,2026-05-30,53.14,5.0,nancy.sanchez431@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00587,Dr. Morgan Payne PhD,Female,30,Multan,2023-02-22,2025-10-14,105.67,5.0,dr..morgan.payne.phd789@yahoo.com,Clothing,Credit Card
+CUST00588,Joshua Fields,Male,45,Singapore,2025-04-09,2025-05-14,62.17,1.0,joshua.fields221@gmail.com,Electronics,Credit Card
+CUST00589,April Sandoval,Female,23,Chicago,2025-11-17,2026-03-27,66.36,3.0,april.sandoval730@hotmail.com,Automotive,Bank Transfer
+CUST00590,Christine Bird,Female,29,Houston,2024-03-13,2026-03-02,187.47,,christine.bird656@gmail.com,Automotive,Mobile Wallet
+CUST00591,Mrs. Diana Williams,Female,18,Sydney,2023-06-18,2024-04-26,79.88,3.0,mrs..diana.williams318@hotmail.com,Clothing,Mobile Wallet
+CUST00592,Stephanie Ellis,Female,57,Peshawar,2025-06-26,2025-09-14,176.27,4.0,stephanie.ellis401@hotmail.com,Furniture,PayPal
+CUST00593,Brandi Wilkins,Female,44,Islamabad,2022-11-06,2024-08-03,56.11,5.0,brandi.wilkins748@hotmail.com,Home & Kitchen,Credit Card
+CUST00594,Mary Anderson,Female,40,Quetta,2023-09-12,2024-03-07,31.13,5.0,mary.anderson119@yahoo.com,Toys & Games,Mobile Wallet
+CUST00595,Jenna Decker,Female,45,Sydney,2023-10-31,2023-12-27,45.38,4.0,jenna.decker760@yahoo.com,Groceries,Credit Card
+CUST00596,Angela Harris,Female,30,Lahore,2025-08-11,2025-10-21,46.37,5.0,angela.harris168@hotmail.com,Toys & Games,Cash on Delivery
+CUST00597,Brian Cole,Male,38,Toronto,2023-10-14,2025-03-27,132.27,5.0,brian.cole739@gmail.com,Beauty & Personal Care,Debit Card
+CUST00598,Vincent Clark,Male,59,Los Angeles,2023-10-06,2024-02-13,25.51,5.0,vincent.clark895@yahoo.com,Beauty & Personal Care,PayPal
+CUST00599,Brandon Aguirre,Male,37,Rawalpindi,2023-09-30,2023-11-30,82.86,4.0,brandon.aguirre440@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00600,Amanda Huff,Female,34,Islamabad,2023-11-03,2024-07-30,100.2,5.0,amanda.huff591@gmail.com,Clothing,Bank Transfer
+CUST00601,Tracy Foster,Other,48,London,2022-09-30,2025-08-12,242.04,4.0,tracy.foster512@yahoo.com,Furniture,Debit Card
+CUST00602,William Johnson,Male,32,Los Angeles,2024-02-20,2024-07-31,161.93,3.0,william.johnson106@yahoo.com,Furniture,PayPal
+CUST00603,Joshua Davis,Male,35,Rawalpindi,2022-12-14,2024-03-26,52.45,5.0,joshua.davis3@gmail.com,Electronics,Credit Card
+CUST00604,Amy Norman,Female,41,Quetta,2023-06-05,2023-09-08,89.41,4.0,amy.norman393@gmail.com,Groceries,Debit Card
+CUST00605,Jaime Mccoy,Male,25,Karachi,2025-01-29,2026-04-04,114.07,3.0,jaime.mccoy255@hotmail.com,Books,PayPal
+CUST00606,Sylvia Jones,Female,37,New York,2026-06-17,2026-07-05,218.29,5.0,sylvia.jones586@gmail.com,Sports & Outdoors,Credit Card
+CUST00607,Jill Anderson,Female,31,Toronto,2026-02-06,2026-02-20,11.48,3.0,jill.anderson824@yahoo.com,Automotive,Credit Card
+CUST00608,Terri Williams,Female,18,Chicago,2026-03-05,2026-03-23,38.59,5.0,terri.williams887@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00609,Jennifer Johnson,Female,29,New York,2025-03-25,2025-05-09,162.95,4.0,jennifer.johnson9@gmail.com,Sports & Outdoors,Debit Card
+CUST00610,Terry Hill,Male,45,Gujranwala,2024-04-20,2025-11-19,109.08,5.0,terry.hill758@gmail.com,Furniture,Debit Card
+CUST00611,Manuel Sanchez,Male,28,London,2023-09-17,2025-10-11,46.08,4.0,manuel.sanchez506@yahoo.com,Home & Kitchen,PayPal
+CUST00612,John Miller,Male,54,Dubai,2024-01-21,2026-03-10,49.89,5.0,john.miller155@yahoo.com,Electronics,Bank Transfer
+CUST00613,Stacey Fox,Female,18,Lahore,2025-01-09,2025-09-05,204.28,4.0,stacey.fox652@hotmail.com,Electronics,Cash on Delivery
+CUST00614,Virginia Casey,Female,39,Lahore,2023-12-17,2026-02-02,65.25,5.0,virginia.casey870@hotmail.com,Beauty & Personal Care,Credit Card
+CUST00615,Hailey Cunningham,Female,39,Peshawar,2023-10-25,2025-04-20,32.75,5.0,hailey.cunningham430@yahoo.com,Toys & Games,Credit Card
+CUST00616,Francis Robinson,Male,29,Faisalabad,2026-01-23,2026-04-05,79.92,2.0,francis.robinson944@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST00617,William Moreno,Male,30,Houston,2025-07-23,2026-07-17,106.89,5.0,william.moreno470@gmail.com,Clothing,Mobile Wallet
+CUST00618,Mrs. Mary Adams,Female,45,Rawalpindi,2025-10-02,2026-06-18,19.86,3.0,mrs..mary.adams840@hotmail.com,Books,Credit Card
+CUST00619,Whitney Robinson,Female,18,Singapore,2025-11-14,2026-04-09,74.68,2.0,whitney.robinson679@yahoo.com,Groceries,Debit Card
+CUST00620,Ryan Bruce,Male,41,Gujranwala,2023-03-30,2024-09-15,78.38,5.0,ryan.bruce949@hotmail.com,Books,PayPal
+CUST00621,Nancy Howard,Female,43,New York,2024-11-14,2025-10-06,121.6,4.0,nancy.howard240@hotmail.com,Clothing,Debit Card
+CUST00622,Theresa Elliott,Female,39,Faisalabad,2024-10-04,2026-05-26,53.67,2.0,theresa.elliott109@gmail.com,Groceries,Bank Transfer
+CUST00623,Rita Waller,Female,23,London,2024-09-04,2025-07-23,76.33,4.0,rita.waller549@gmail.com,Sports & Outdoors,Debit Card
+CUST00624,Brandon Hall,Male,48,London,2023-05-31,2025-02-21,59.84,4.0,brandon.hall873@hotmail.com,Clothing,Credit Card
+CUST00625,Evelyn Mendez,Female,38,Multan,2025-09-18,2026-02-21,62.99,5.0,evelyn.mendez714@yahoo.com,Furniture,Credit Card
+CUST00626,Thomas Richard,Male,28,Peshawar,2023-10-28,2026-03-02,61.47,5.0,thomas.richard152@gmail.com,Clothing,PayPal
+CUST00627,Michele Thomas,Female,32,Quetta,2022-12-27,2024-12-25,97.47,4.0,michele.thomas51@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00628,Toni Brooks,Female,41,Multan,2026-03-30,2026-04-03,52.79,5.0,toni.brooks876@yahoo.com,Toys & Games,Mobile Wallet
+CUST00629,Gabrielle Morris,Female,45,Dubai,2026-05-18,2026-06-19,41.51,2.0,gabrielle.morris105@hotmail.com,Groceries,Credit Card
+CUST00630,Ricky Yu,Male,39,Lahore,2025-02-04,2025-04-09,348.75,5.0,ricky.yu228@gmail.com,Groceries,Debit Card
+CUST00631,Justin Preston,Male,18,Chicago,2024-12-16,2026-01-02,51.08,5.0,justin.preston961@yahoo.com,Clothing,Mobile Wallet
+CUST00632,Leah Thompson,Female,22,Singapore,2023-10-04,2024-06-26,25.51,5.0,leah.thompson77@hotmail.com,Electronics,Credit Card
+CUST00633,Cassandra Smith,Female,40,Peshawar,2025-04-21,2026-03-18,149.79,4.0,cassandra.smith132@hotmail.com,Clothing,Cash on Delivery
+CUST00634,Wendy Sanford,Female,33,Rawalpindi,2022-09-06,2022-12-03,57.29,5.0,wendy.sanford52@hotmail.com,Groceries,Mobile Wallet
+CUST00635,Rhonda Carr,Female,35,Houston,2025-01-22,2026-03-03,43.8,4.0,rhonda.carr392@gmail.com,Books,Debit Card
+CUST00636,Brenda Mcgee,Other,35,Los Angeles,2023-06-27,2024-09-09,189.75,5.0,brenda.mcgee282@yahoo.com,Beauty & Personal Care,Bank Transfer
+CUST00637,Stephen Davis,Male,39,Faisalabad,2025-05-01,2025-05-19,190.03,4.0,stephen.davis632@hotmail.com,Home & Kitchen,PayPal
+CUST00638,George Smith,Male,46,Gujranwala,2023-05-18,2026-03-05,104.69,4.0,george.smith564@hotmail.com,Toys & Games,Credit Card
+CUST00639,Dawn Rodriguez,Female,42,Islamabad,2022-07-23,2024-02-16,749.03,4.0,dawn.rodriguez430@yahoo.com,Home & Kitchen,PayPal
+CUST00640,Jason Jackson,Male,27,Toronto,2024-03-05,2024-11-16,12.84,4.0,jason.jackson822@yahoo.com,Automotive,Credit Card
+CUST00641,Jaime Poole,Female,45,Chicago,2025-08-23,2026-02-23,82.02,4.0,jaime.poole801@hotmail.com,Toys & Games,Cash on Delivery
+CUST00642,Michael Martin,Male,54,Singapore,2022-11-04,2025-08-29,217.77,4.0,michael.martin277@gmail.com,Groceries,Credit Card
+CUST00643,Emma Lynn,Female,22,New York,2022-11-05,2026-03-12,134.91,3.0,emma.lynn918@gmail.com,Beauty & Personal Care,Credit Card
+CUST00644,Candace Jones,Female,32,Manchester,2026-03-30,2026-06-06,31.22,4.0,candace.jones599@gmail.com,Home & Kitchen,Debit Card
+CUST00645,Victoria Barry,Female,40,Rawalpindi,2025-04-25,2025-08-30,75.87,5.0,victoria.barry273@yahoo.com,Automotive,PayPal
+CUST00646,Carmen Preston,Female,35,Karachi,2023-03-03,2024-05-26,306.6,4.0,carmen.preston817@gmail.com,Books,Cash on Delivery
+CUST00647,Valerie Ortiz,Female,33,Multan,2024-09-21,2025-03-21,56.49,3.0,valerie.ortiz326@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00648,Matthew Evans,Male,27,Lahore,2022-12-06,2024-11-26,64.5,5.0,matthew.evans578@yahoo.com,Groceries,Mobile Wallet
+CUST00649,Ryan Hernandez,Male,32,Peshawar,2023-12-20,2026-04-25,10.37,5.0,ryan.hernandez903@yahoo.com,Toys & Games,Mobile Wallet
+CUST00650,Rodney Weber,Male,18,Gujranwala,2024-06-08,2024-12-05,132.16,4.0,rodney.weber93@gmail.com,Electronics,Debit Card
+CUST00651,Christopher Carter,Male,32,Sydney,2022-11-16,2024-02-08,67.1,1.0,christopher.carter490@gmail.com,Electronics,Cash on Delivery
+CUST00652,James Burns,Male,31,Sydney,2025-02-21,2025-09-16,33.89,5.0,james.burns349@gmail.com,Groceries,Cash on Delivery
+CUST00653,Jasmine Watson,Female,40,Karachi,2024-01-18,2024-02-10,778.82,3.0,jasmine.watson722@gmail.com,Groceries,Credit Card
+CUST00654,Dennis Marshall,Male,33,Toronto,2023-06-10,2025-06-27,122.02,5.0,dennis.marshall383@yahoo.com,Books,Mobile Wallet
+CUST00655,Chris Horton,Male,24,Rawalpindi,2022-12-07,2024-10-27,84.93,4.0,chris.horton140@hotmail.com,Groceries,PayPal
+CUST00656,Joshua Arellano,Male,47,Houston,2024-11-11,2026-03-25,67.98,4.0,joshua.arellano179@hotmail.com,Automotive,PayPal
+CUST00657,Jasmine Mills,Female,30,Sydney,2026-05-03,2026-06-18,37.05,3.0,jasmine.mills604@hotmail.com,Groceries,Bank Transfer
+CUST00658,John Keith,Male,18,Gujranwala,2024-06-02,2026-06-24,16.03,5.0,john.keith131@gmail.com,Groceries,PayPal
+CUST00659,Sarah Johnson,Female,44,Lahore,2024-10-16,2026-05-26,264.59,4.0,sarah.johnson790@hotmail.com,Furniture,Credit Card
+CUST00660,Michael Oliver,Male,29,Multan,2023-01-10,2026-05-28,76.1,4.0,michael.oliver829@yahoo.com,Furniture,Debit Card
+CUST00661,William Stanton,Male,36,Singapore,2025-09-20,2025-11-13,38.35,5.0,william.stanton145@gmail.com,Sports & Outdoors,PayPal
+CUST00662,Angela Vega,Female,31,Islamabad,2023-05-06,2024-09-05,29.9,4.0,angela.vega328@hotmail.com,Groceries,PayPal
+CUST00663,Kurt Flores,Male,24,Islamabad,2025-05-27,2026-07-22,50.59,5.0,kurt.flores655@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00664,Justin Arnold,Male,33,Lahore,2025-11-28,2026-02-04,71.46,3.0,justin.arnold710@hotmail.com,Clothing,Cash on Delivery
+CUST00665,Shane Buchanan,Male,41,Sialkot,2024-12-29,2025-04-19,57.31,5.0,shane.buchanan50@hotmail.com,Books,Bank Transfer
+CUST00666,Ashley Hernandez,Female,21,Houston,2024-10-09,2025-03-29,237.42,5.0,ashley.hernandez505@hotmail.com,Books,Cash on Delivery
+CUST00667,Teresa Buckley,Female,37,Dubai,2024-10-04,2025-10-24,132.03,2.0,teresa.buckley491@gmail.com,Furniture,PayPal
+CUST00668,Sharon Beard,Female,27,Quetta,2025-12-29,2026-02-09,92.33,4.0,sharon.beard819@yahoo.com,Electronics,Cash on Delivery
+CUST00669,Karla Lynch,Female,35,Lahore,2022-09-13,2024-06-27,34.11,3.0,karla.lynch108@yahoo.com,Clothing,Cash on Delivery
+CUST00670,Luke Becker,Male,34,Multan,2024-02-16,2025-03-07,55.3,3.0,luke.becker77@yahoo.com,Automotive,Credit Card
+CUST00671,Gary Young,Male,67,New York,2025-06-23,2026-04-24,43.07,5.0,gary.young915@yahoo.com,Toys & Games,PayPal
+CUST00672,Alejandro Roth,Male,36,Lahore,2023-09-28,2026-02-28,26.45,5.0,alejandro.roth169@yahoo.com,Furniture,Bank Transfer
+CUST00673,Scott Cohen,Male,45,Multan,2026-05-13,2026-05-20,212.43,2.0,scott.cohen211@gmail.com,Home & Kitchen,Bank Transfer
+CUST00674,Valerie Ramos,Female,27,Dubai,2025-10-15,2026-07-19,329.57,3.0,valerie.ramos289@yahoo.com,Beauty & Personal Care,Debit Card
+CUST00675,Lisa Davis,Female,23,,2024-04-14,2024-06-04,24.9,4.0,lisa.davis563@yahoo.com,Toys & Games,Debit Card
+CUST00676,Olivia Camacho,Female,51,Karachi,2025-10-08,2026-04-11,53.25,1.0,olivia.camacho90@hotmail.com,Beauty & Personal Care,PayPal
+CUST00677,Ana Mckinney,Female,18,Sydney,2024-02-19,2025-06-25,35.74,3.0,ana.mckinney27@hotmail.com,Home & Kitchen,Debit Card
+CUST00678,Alyssa Lee,Female,50,Gujranwala,2025-10-25,2025-12-06,14.94,4.0,alyssa.lee119@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00679,Joyce Hull,Female,23,Manchester,2025-04-25,2026-01-01,253.11,5.0,joyce.hull272@yahoo.com,Clothing,PayPal
+CUST00680,John Sanders,Male,21,Dubai,2026-03-03,2026-06-11,54.96,3.0,john.sanders907@hotmail.com,Books,Cash on Delivery
+CUST00681,Jacqueline Wheeler,Female,23,Multan,2023-04-02,2025-10-01,45.28,1.0,jacqueline.wheeler451@yahoo.com,Toys & Games,Cash on Delivery
+CUST00682,Gregory Martin,Male,50,Quetta,2026-01-22,2026-04-01,234.19,4.0,gregory.martin155@hotmail.com,Clothing,Credit Card
+CUST00683,Brandon Johnson,Male,33,Los Angeles,2022-10-01,2025-10-14,35.08,4.0,brandon.johnson775@hotmail.com,Furniture,Debit Card
+CUST00684,Daniel Walker,Male,46,Dubai,2023-06-09,2023-10-12,285.44,5.0,daniel.walker839@gmail.com,Automotive,Bank Transfer
+CUST00685,Jason Smith,Male,57,Dubai,2025-08-11,2026-04-12,44.0,4.0,jason.smith242@hotmail.com,Toys & Games,Cash on Delivery
+CUST00686,Thomas Holland,Male,29,Islamabad,2024-11-28,2026-01-07,65.82,5.0,thomas.holland732@gmail.com,Electronics,Mobile Wallet
+CUST00687,Lisa Hahn,Female,33,Singapore,2025-05-06,2026-01-26,96.38,5.0,lisa.hahn694@hotmail.com,Furniture,Debit Card
+CUST00688,Jeff Bennett,Male,33,Rawalpindi,2023-12-03,2026-01-17,47.8,4.0,jeff.bennett972@yahoo.com,Groceries,Debit Card
+CUST00689,Eric Meyer,Male,18,Peshawar,2024-12-30,2025-05-09,48.45,1.0,eric.meyer81@hotmail.com,Books,Debit Card
+CUST00690,Kayla Bates,Female,43,Faisalabad,2025-11-09,2026-06-11,49.38,4.0,kayla.bates328@yahoo.com,Clothing,Credit Card
+CUST00691,Linda Campbell,Female,18,Chicago,2025-03-27,2026-01-06,17.5,4.0,linda.campbell334@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00692,William Davidson,Male,20,,2025-12-05,2026-07-17,75.84,1.0,william.davidson718@yahoo.com,Furniture,Mobile Wallet
+CUST00693,Tiffany Curtis,Female,53,Toronto,2023-04-17,2025-08-24,83.55,2.0,tiffany.curtis154@hotmail.com,Groceries,Mobile Wallet
+CUST00694,Stephanie Trujillo,Female,18,Singapore,2025-09-12,2026-07-08,40.92,5.0,stephanie.trujillo963@hotmail.com,Clothing,Credit Card
+CUST00695,Francisco Taylor,Male,19,Singapore,2022-08-27,2023-03-22,30.61,5.0,francisco.taylor889@yahoo.com,Automotive,Cash on Delivery
+CUST00696,Deanna Barnes MD,Other,18,Houston,2022-09-10,2024-03-04,130.73,4.0,deanna.barnes.md498@hotmail.com,Furniture,Mobile Wallet
+CUST00697,Rose Cooper DDS,Female,32,Manchester,2025-03-30,2025-04-19,24.6,3.0,rose.cooper.dds413@hotmail.com,Groceries,Mobile Wallet
+CUST00698,Susan Powers,Female,18,Sydney,2024-07-16,2026-06-14,51.55,5.0,susan.powers40@gmail.com,Books,Cash on Delivery
+CUST00699,Sherri White,Other,38,Quetta,2022-12-08,2023-03-19,149.83,5.0,sherri.white943@gmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00700,Molly Hansen,Female,20,Lahore,2026-02-16,2026-05-14,104.27,5.0,molly.hansen311@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00701,Matthew Walker,Male,34,Manchester,2023-06-06,2023-12-25,40.01,5.0,matthew.walker234@yahoo.com,Groceries,Cash on Delivery
+CUST00702,Stacie Watson,Female,38,London,2024-11-05,2025-09-30,101.59,3.0,stacie.watson427@yahoo.com,Furniture,PayPal
+CUST00703,Julie Delacruz,Female,30,Islamabad,2024-11-03,2025-05-15,85.81,4.0,julie.delacruz936@hotmail.com,Books,PayPal
+CUST00704,Stacy Mason,Female,42,Manchester,2025-12-14,2026-06-27,47.82,4.0,stacy.mason383@yahoo.com,Electronics,Mobile Wallet
+CUST00705,Jennifer Pitts,Female,33,Multan,2023-02-22,2023-07-07,23.21,4.0,jennifer.pitts519@gmail.com,Books,Debit Card
+CUST00706,William Orozco,Other,48,Toronto,2026-06-02,2026-07-09,63.67,1.0,william.orozco198@gmail.com,Home & Kitchen,Credit Card
+CUST00707,Michelle Maxwell,Female,18,Quetta,2024-06-18,2024-07-22,31.23,4.0,michelle.maxwell941@hotmail.com,Sports & Outdoors,PayPal
+CUST00708,Erik Brown MD,Male,27,Peshawar,2023-05-17,2024-11-29,229.75,4.0,erik.brown.md476@gmail.com,Automotive,Bank Transfer
+CUST00709,Brooke Glover,Female,67,Rawalpindi,2025-08-10,2025-08-26,52.31,3.0,brooke.glover501@gmail.com,Furniture,Bank Transfer
+CUST00710,Madeline Powell,Female,34,Multan,2026-05-03,2026-07-03,86.23,4.0,madeline.powell359@yahoo.com,Sports & Outdoors,Debit Card
+CUST00711,Kimberly Cross,Female,39,Sialkot,2026-04-11,2026-07-16,255.37,5.0,kimberly.cross93@yahoo.com,Beauty & Personal Care,Credit Card
+CUST00712,Kiara Smith,Female,32,Chicago,2022-07-27,2022-11-06,58.2,3.0,kiara.smith586@hotmail.com,Home & Kitchen,Debit Card
+CUST00713,Melissa Cooper,Female,48,Quetta,2023-01-22,2024-03-21,55.48,3.0,melissa.cooper420@yahoo.com,Automotive,Credit Card
+CUST00714,Elizabeth Brown,Female,42,Lahore,2022-09-25,2025-05-23,5.0,5.0,elizabeth.brown663@yahoo.com,Groceries,Mobile Wallet
+CUST00715,Kelly Warren,Female,58,Lahore,2024-04-02,2024-11-18,53.66,3.0,kelly.warren825@hotmail.com,Beauty & Personal Care,PayPal
+CUST00716,Mrs. Stephanie Howard MD,Female,25,Sialkot,2026-04-08,2026-06-02,96.19,5.0,mrs..stephanie.howard.md873@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00717,Danny Mercer,Male,48,Sialkot,2023-05-20,2024-08-09,41.33,4.0,danny.mercer694@gmail.com,Automotive,Mobile Wallet
+CUST00718,Christopher Richardson,Male,46,Chicago,2025-02-06,2025-05-22,105.82,1.0,christopher.richardson679@gmail.com,Sports & Outdoors,Mobile Wallet
+CUST00719,Martin Wise,Male,41,Sydney,2024-12-29,2025-10-15,126.99,3.0,martin.wise111@hotmail.com,Toys & Games,Credit Card
+CUST00720,Matthew Valdez Jr.,Male,44,New York,2025-04-04,2025-08-24,131.48,4.0,matthew.valdez.jr.883@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00721,Becky King,Female,42,Gujranwala,2025-04-21,2025-07-27,99.95,3.0,becky.king784@gmail.com,Home & Kitchen,Credit Card
+CUST00722,Lorraine Turner,Female,34,Sydney,2025-02-22,2026-04-12,30.15,5.0,lorraine.turner698@hotmail.com,Groceries,PayPal
+CUST00723,Marcus Haynes,Male,18,Lahore,2024-03-12,2026-01-13,15.34,4.0,marcus.haynes303@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00724,Luke Campbell,Male,25,Chicago,2025-08-17,2026-03-04,50.54,5.0,luke.campbell598@yahoo.com,Furniture,Debit Card
+CUST00725,Christina Baker,Female,35,New York,2024-08-08,2025-03-24,115.32,5.0,christina.baker654@gmail.com,Toys & Games,PayPal
+CUST00726,Jason Martin,Male,35,Los Angeles,2024-09-13,2026-02-15,31.96,4.0,jason.martin175@gmail.com,Automotive,Debit Card
+CUST00727,Karen Young,Female,32,Gujranwala,2022-08-09,2023-02-25,71.83,4.0,karen.young759@gmail.com,Beauty & Personal Care,PayPal
+CUST00728,Russell Caldwell,Male,18,Dubai,2023-02-20,2024-03-01,33.57,5.0,russell.caldwell922@gmail.com,Sports & Outdoors,PayPal
+CUST00729,Benjamin Cummings,Male,45,Islamabad,2026-02-05,2026-04-03,37.83,4.0,benjamin.cummings763@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00730,Virginia Phillips,Female,44,New York,2024-05-16,2025-06-01,56.01,3.0,virginia.phillips302@gmail.com,Toys & Games,Credit Card
+CUST00731,Shane Phelps,Male,18,Manchester,2023-12-19,2024-02-12,59.19,5.0,shane.phelps598@hotmail.com,Furniture,Mobile Wallet
+CUST00732,Nancy Davis,Female,35,Islamabad,2025-07-10,2026-03-09,85.6,5.0,nancy.davis513@gmail.com,Clothing,PayPal
+CUST00733,Charles Holland,Male,24,Chicago,2023-11-04,2025-04-30,90.16,3.0,charles.holland56@yahoo.com,Groceries,Debit Card
+CUST00734,Debra Quinn,Female,18,Peshawar,2024-01-06,2024-12-22,78.69,4.0,debra.quinn584@yahoo.com,Toys & Games,Debit Card
+CUST00735,Jennifer Rivers,Female,27,New York,2023-08-14,2024-08-18,79.06,5.0,jennifer.rivers500@yahoo.com,Sports & Outdoors,PayPal
+CUST00736,Karen Fisher,Female,44,Multan,2026-01-10,2026-04-01,27.77,,karen.fisher5@gmail.com,Toys & Games,Cash on Delivery
+CUST00737,Melissa Brown,Female,37,Peshawar,2026-03-31,2026-07-07,228.77,5.0,melissa.brown591@gmail.com,Groceries,Bank Transfer
+CUST00738,Susan Webb,Female,39,Islamabad,2024-10-13,2025-02-23,42.18,4.0,susan.webb649@yahoo.com,Books,Bank Transfer
+CUST00739,James Howard,Male,18,Houston,2022-09-01,2025-05-06,65.02,4.0,james.howard39@hotmail.com,Automotive,Debit Card
+CUST00740,Nicholas Snow,Male,28,Los Angeles,2024-06-12,2024-06-27,76.49,5.0,nicholas.snow776@yahoo.com,Automotive,Debit Card
+CUST00741,Jennifer Williams,Female,27,Lahore,2023-07-31,2023-08-09,67.62,4.0,jennifer.williams255@yahoo.com,Home & Kitchen,PayPal
+CUST00742,Sean Warren,Male,31,Los Angeles,2025-06-20,2025-11-27,76.68,2.0,sean.warren393@hotmail.com,Automotive,Mobile Wallet
+CUST00743,Vanessa Santiago,Female,24,Gujranwala,2023-11-18,2024-05-08,183.65,2.0,vanessa.santiago47@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00744,Luke Reynolds,Male,18,London,2025-05-26,2026-06-03,31.9,4.0,luke.reynolds537@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00745,Megan Cruz,Female,47,Faisalabad,2025-11-03,2026-04-28,36.7,5.0,megan.cruz502@hotmail.com,Sports & Outdoors,Debit Card
+CUST00746,Lisa Smith,Female,45,Multan,2026-03-20,2026-07-20,58.93,5.0,lisa.smith832@hotmail.com,Books,Credit Card
+CUST00747,Samuel Booth,Male,34,Quetta,2022-11-06,2024-02-09,396.84,5.0,samuel.booth135@yahoo.com,Home & Kitchen,PayPal
+CUST00748,Gary Ramirez,Male,52,Lahore,2024-07-16,2026-03-12,153.48,4.0,gary.ramirez127@hotmail.com,Sports & Outdoors,PayPal
+CUST00749,Jamie Young,Male,41,Karachi,2024-05-08,2025-05-28,31.98,5.0,jamie.young262@hotmail.com,Automotive,Mobile Wallet
+CUST00750,Shannon West,Female,36,Karachi,2023-01-07,2026-05-08,79.65,5.0,shannon.west678@yahoo.com,Clothing,PayPal
+CUST00751,Albert Powell,Male,37,Lahore,2022-09-11,2022-12-19,51.61,5.0,albert.powell427@hotmail.com,Toys & Games,Bank Transfer
+CUST00752,Ann Munoz,Female,33,Rawalpindi,2024-12-23,2026-07-07,44.47,3.0,ann.munoz719@yahoo.com,Groceries,Debit Card
+CUST00753,Kristina Pena,Female,18,Lahore,2024-05-04,2025-03-09,67.71,4.0,kristina.pena104@yahoo.com,Automotive,Cash on Delivery
+CUST00754,Anthony Walker,Male,28,Sydney,2024-05-02,2026-01-13,22.23,5.0,anthony.walker429@hotmail.com,Clothing,Mobile Wallet
+CUST00755,Kyle Moran,Male,49,Sydney,2023-12-23,2024-04-22,49.99,3.0,kyle.moran804@yahoo.com,Clothing,Bank Transfer
+CUST00756,Olivia Walker,Female,42,Peshawar,2023-11-22,2025-08-07,23.93,3.0,olivia.walker270@hotmail.com,Automotive,Debit Card
+CUST00757,Mr. Joseph Park,Male,31,Los Angeles,2022-09-25,2025-01-12,92.63,3.0,mr..joseph.park41@gmail.com,Automotive,Bank Transfer
+CUST00758,Samantha Newton,Female,18,Peshawar,2024-02-27,2026-02-01,139.23,5.0,samantha.newton339@yahoo.com,Home & Kitchen,Credit Card
+CUST00759,Cody Conrad,Male,50,Lahore,2024-02-04,2025-12-23,138.25,2.0,cody.conrad114@yahoo.com,Furniture,PayPal
+CUST00760,Connor Morgan,Male,20,Manchester,2025-07-09,2025-09-24,292.48,,connor.morgan799@gmail.com,Automotive,Credit Card
+CUST00761,Sara Chapman,Female,37,Rawalpindi,2025-07-30,2025-12-09,58.36,4.0,sara.chapman468@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00762,Kevin Gordon,Male,28,London,2026-05-01,2026-05-08,57.6,2.0,kevin.gordon179@gmail.com,Electronics,Cash on Delivery
+CUST00763,Anthony Mcconnell,Male,18,Los Angeles,2025-11-03,2026-04-13,74.23,4.0,anthony.mcconnell119@yahoo.com,Clothing,Credit Card
+CUST00764,Priscilla Kent,Female,32,Lahore,2025-04-06,2026-06-17,27.25,3.0,priscilla.kent663@gmail.com,Groceries,Cash on Delivery
+CUST00765,Betty Hughes,Female,44,Los Angeles,2024-11-27,2026-02-19,7.62,5.0,betty.hughes275@yahoo.com,Clothing,Cash on Delivery
+CUST00766,Janice Petty,Female,34,New York,2026-02-21,2026-04-09,52.64,2.0,janice.petty410@gmail.com,Toys & Games,Cash on Delivery
+CUST00767,Victor Waller,Other,59,Chicago,2024-04-30,2026-04-07,81.02,5.0,victor.waller820@gmail.com,Books,PayPal
+CUST00768,Lance Tanner,Male,43,Multan,2024-07-24,2024-11-17,127.28,3.0,lance.tanner744@hotmail.com,Electronics,Debit Card
+CUST00769,Emily Doyle,Female,32,Rawalpindi,2024-09-21,2025-11-22,79.28,5.0,emily.doyle495@gmail.com,Furniture,PayPal
+CUST00770,Marcus Roberts,Male,36,London,2023-11-28,2024-06-01,268.84,4.0,marcus.roberts798@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00771,Michael Hester,Male,46,Lahore,2023-04-02,2023-12-26,19.76,4.0,michael.hester500@hotmail.com,Clothing,Bank Transfer
+CUST00772,Erica Wilson,Other,37,London,2023-12-08,2024-01-25,83.06,2.0,erica.wilson671@yahoo.com,Sports & Outdoors,Credit Card
+CUST00773,Terri Mckinney,Female,18,Toronto,2025-03-12,2026-04-09,28.71,5.0,terri.mckinney742@hotmail.com,Furniture,Debit Card
+CUST00774,Ryan Stokes,Male,33,New York,2024-08-08,2026-01-22,15.2,4.0,ryan.stokes718@gmail.com,Furniture,Credit Card
+CUST00775,Amy Brown,Female,26,Houston,2023-08-08,2024-12-30,64.26,4.0,amy.brown680@gmail.com,Books,Debit Card
+CUST00776,Melinda Thomas MD,Female,35,Dubai,2025-08-17,2026-06-27,82.07,2.0,melinda.thomas.md659@gmail.com,Groceries,Mobile Wallet
+CUST00777,Amanda Cervantes,Other,32,Manchester,2022-12-15,2025-09-26,37.15,5.0,amanda.cervantes77@hotmail.com,Toys & Games,Cash on Delivery
+CUST00778,Sean Newton,Male,30,Quetta,2024-10-02,2025-09-06,50.1,5.0,sean.newton52@gmail.com,Automotive,Debit Card
+CUST00779,Rebecca Horton,Female,39,Dubai,2025-04-08,2026-03-04,237.86,4.0,rebecca.horton837@gmail.com,Home & Kitchen,Credit Card
+CUST00780,James Frye,Male,40,London,2026-05-18,2026-07-14,186.07,5.0,james.frye459@yahoo.com,Clothing,Bank Transfer
+CUST00781,Mr. Patrick Harris,Male,20,London,2025-12-16,2026-03-07,143.12,2.0,mr..patrick.harris510@yahoo.com,Electronics,Credit Card
+CUST00782,Thomas Bush,Male,32,Chicago,2025-02-02,2026-04-01,101.47,1.0,thomas.bush563@hotmail.com,Electronics,Credit Card
+CUST00783,Larry Parsons,Male,38,Sydney,2026-05-01,2026-07-20,116.5,4.0,larry.parsons912@yahoo.com,Automotive,Mobile Wallet
+CUST00784,William Jones,Male,24,Peshawar,2026-04-29,2026-07-22,437.28,5.0,william.jones974@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00785,James Patterson,Male,35,Karachi,2024-09-25,2025-05-12,112.86,5.0,james.patterson340@gmail.com,Automotive,Mobile Wallet
+CUST00786,Ryan Smith,Male,59,Sydney,2024-05-19,2025-09-16,67.1,5.0,ryan.smith373@gmail.com,Toys & Games,Credit Card
+CUST00787,Timothy Carlson,Male,45,Rawalpindi,2025-08-02,2026-07-06,38.25,3.0,timothy.carlson350@hotmail.com,Sports & Outdoors,PayPal
+CUST00788,Matthew Henry,Male,18,Gujranwala,2024-10-18,2026-05-02,265.1,4.0,matthew.henry719@yahoo.com,Clothing,Credit Card
+CUST00789,Michael Fox,Male,32,Multan,2026-04-21,2026-06-24,22.0,3.0,michael.fox735@hotmail.com,Books,Credit Card
+CUST00790,Jonathan Perry,Male,29,Sialkot,2024-08-28,2026-05-16,113.26,3.0,jonathan.perry124@gmail.com,Books,Debit Card
+CUST00791,Stephen Alvarado,Other,35,London,2023-11-07,2026-03-01,89.9,5.0,stephen.alvarado734@yahoo.com,Sports & Outdoors,Credit Card
+CUST00792,Paul Moreno,Male,59,Houston,2026-06-17,2026-06-20,19.55,5.0,paul.moreno858@hotmail.com,Furniture,Credit Card
+CUST00793,Michael Griffin,Male,36,London,2026-02-05,2026-06-03,69.22,5.0,michael.griffin980@hotmail.com,Automotive,Debit Card
+CUST00794,David Williams,Male,40,Manchester,2026-01-09,2026-01-11,67.85,4.0,david.williams50@yahoo.com,Automotive,Bank Transfer
+CUST00795,Theresa Cruz,Female,33,Singapore,2024-09-02,2026-01-10,21.78,5.0,theresa.cruz800@yahoo.com,Groceries,PayPal
+CUST00796,Kelly Townsend,Female,43,Singapore,2024-07-26,2025-01-20,20.82,5.0,kelly.townsend132@hotmail.com,Clothing,Bank Transfer
+CUST00797,Amanda Villanueva,Female,37,Sydney,2023-04-23,2025-02-11,22.58,4.0,amanda.villanueva394@hotmail.com,Books,Mobile Wallet
+CUST00798,Anne Bonilla,Female,31,Quetta,2025-08-01,2025-12-20,66.64,4.0,anne.bonilla352@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00799,Austin Santiago,Male,42,Faisalabad,2025-08-01,2025-10-11,55.33,4.0,austin.santiago717@hotmail.com,Automotive,Cash on Delivery
+CUST00800,Brian Medina,Male,19,Dubai,2025-04-22,2026-07-07,114.9,4.0,brian.medina755@hotmail.com,Automotive,PayPal
+CUST00801,Matthew Case,Male,40,Peshawar,2025-06-24,2025-10-05,126.81,3.0,matthew.case732@gmail.com,Beauty & Personal Care,PayPal
+CUST00802,Mitchell Johnson,Male,29,Los Angeles,2022-11-03,2023-08-02,62.83,5.0,mitchell.johnson666@gmail.com,Groceries,Mobile Wallet
+CUST00803,Kristin Andrews,Female,25,Dubai,2023-06-12,2025-04-03,90.48,5.0,kristin.andrews780@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00804,Jerry Sullivan,Male,43,Manchester,2023-10-17,2025-06-05,56.65,4.0,jerry.sullivan684@yahoo.com,Books,PayPal
+CUST00805,Kimberly May,Other,18,Dubai,2024-12-22,2025-10-11,15.75,5.0,kimberly.may433@hotmail.com,Electronics,Mobile Wallet
+CUST00806,Mercedes Jones,Female,18,Rawalpindi,2026-03-11,2026-03-18,165.13,4.0,mercedes.jones55@gmail.com,Electronics,Debit Card
+CUST00807,Melissa Obrien,Female,39,Sialkot,2023-08-28,2024-07-23,16.09,5.0,melissa.obrien700@yahoo.com,Beauty & Personal Care,Debit Card
+CUST00808,Rodney Johnson,Male,20,Karachi,2023-03-02,2024-10-27,128.73,3.0,rodney.johnson555@gmail.com,Electronics,Cash on Delivery
+CUST00809,James Salinas,Male,18,London,2024-09-09,2024-12-23,68.67,4.0,james.salinas692@hotmail.com,Automotive,Debit Card
+CUST00810,Michael Sloan,Male,30,Dubai,2025-09-01,2026-03-20,123.68,3.0,michael.sloan804@hotmail.com,Beauty & Personal Care,PayPal
+CUST00811,Tina Smith,Female,18,Karachi,2025-12-24,2026-04-01,397.44,4.0,tina.smith980@gmail.com,Sports & Outdoors,Mobile Wallet
+CUST00812,Abigail Carlson,Female,54,Karachi,2024-08-28,2024-09-11,73.25,5.0,abigail.carlson208@gmail.com,Furniture,Bank Transfer
+CUST00813,Paul Berger,Male,44,Quetta,2023-11-26,2026-06-17,51.34,4.0,paul.berger727@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00814,Sarah Thomas,Female,32,Dubai,2023-04-11,2024-05-18,152.85,5.0,sarah.thomas988@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00815,Cheyenne White,Female,30,London,2025-09-08,2025-12-08,5.0,5.0,cheyenne.white77@gmail.com,Groceries,Debit Card
+CUST00816,Timothy Gamble,Male,19,Toronto,2024-05-12,2024-09-12,92.51,4.0,timothy.gamble439@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00817,Michael King,Male,30,Sialkot,2023-04-30,2024-01-22,99.43,3.0,michael.king867@hotmail.com,Beauty & Personal Care,Credit Card
+CUST00818,Gary Anderson,Male,18,New York,2025-02-13,2026-06-06,79.76,5.0,gary.anderson159@gmail.com,Electronics,Debit Card
+CUST00819,Andrea Lee,Female,29,New York,2024-06-16,2026-02-18,157.9,2.0,andrea.lee955@yahoo.com,Furniture,PayPal
+CUST00820,Elizabeth Silva,Female,43,Gujranwala,2024-10-08,2026-02-23,195.05,5.0,elizabeth.silva564@yahoo.com,Sports & Outdoors,Credit Card
+CUST00821,Tyler Jackson,Male,36,New York,2023-10-13,2025-04-04,171.96,3.0,tyler.jackson189@gmail.com,Automotive,Credit Card
+CUST00822,Martin Hill,Male,28,Toronto,2023-12-18,2024-05-30,61.97,4.0,martin.hill550@hotmail.com,Books,Credit Card
+CUST00823,Shawn Ford,Male,43,Los Angeles,2023-12-17,2024-07-31,6.67,5.0,shawn.ford680@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00824,Brian Brewer,Male,21,Los Angeles,2022-11-16,2024-07-10,25.1,3.0,brian.brewer771@yahoo.com,Furniture,Mobile Wallet
+CUST00825,Charles Ryan,Male,49,Manchester,2023-08-02,2023-08-21,139.56,2.0,charles.ryan355@hotmail.com,Toys & Games,Debit Card
+CUST00826,Angela Smith,Female,18,Sydney,2024-07-16,2026-04-14,36.24,3.0,angela.smith41@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00827,Kent Hammond,Male,45,Rawalpindi,2023-05-22,2025-07-21,112.36,3.0,kent.hammond742@gmail.com,Beauty & Personal Care,Credit Card
+CUST00828,Joshua Lutz,Male,44,Toronto,2024-05-27,2025-06-15,53.18,4.0,joshua.lutz521@gmail.com,Toys & Games,Bank Transfer
+CUST00829,Courtney Barton,Female,52,Karachi,2025-06-05,2025-11-04,14.18,5.0,courtney.barton198@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00830,Kathryn Davis,Female,36,Islamabad,2023-12-24,2024-04-01,32.22,3.0,kathryn.davis980@gmail.com,Automotive,Mobile Wallet
+CUST00831,Sarah Drake,Female,40,Lahore,2024-12-16,2025-02-22,39.95,3.0,sarah.drake645@gmail.com,Home & Kitchen,PayPal
+CUST00832,Brenda Moore,Female,42,Houston,2024-10-09,2025-01-24,17.24,3.0,brenda.moore849@hotmail.com,Books,PayPal
+CUST00833,Walter Fitzgerald,Male,46,Islamabad,2024-06-12,2026-07-17,137.42,5.0,walter.fitzgerald25@yahoo.com,Toys & Games,PayPal
+CUST00834,Philip Hall,Male,58,New York,2023-08-04,2023-10-21,1095.46,2.0,philip.hall56@gmail.com,Groceries,Cash on Delivery
+CUST00835,Daniel Velez,Male,47,,2023-12-20,2024-03-02,163.36,4.0,daniel.velez234@yahoo.com,Beauty & Personal Care,Bank Transfer
+CUST00836,Stephen Williams,Male,37,Chicago,2025-02-04,2026-05-12,104.37,4.0,stephen.williams444@gmail.com,Sports & Outdoors,Credit Card
+CUST00837,Kelly Gallegos,Female,29,Chicago,2025-10-28,2025-12-28,122.6,4.0,kelly.gallegos657@yahoo.com,Furniture,Credit Card
+CUST00838,Laura Bennett,Female,28,Singapore,2024-01-14,2024-03-01,24.78,5.0,laura.bennett75@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00839,Russell Black,Male,47,Rawalpindi,2024-01-11,2024-11-03,155.06,5.0,russell.black309@gmail.com,Furniture,Credit Card
+CUST00840,Heather Parrish,Female,34,Gujranwala,2024-06-17,2025-09-09,121.74,4.0,heather.parrish842@yahoo.com,Electronics,Bank Transfer
+CUST00841,Aaron Macias,Male,40,Multan,2024-04-11,2025-10-10,41.21,3.0,aaron.macias765@gmail.com,Books,Mobile Wallet
+CUST00842,Maria Lewis,Female,31,Gujranwala,2023-04-15,2024-02-05,62.52,3.0,maria.lewis909@yahoo.com,Sports & Outdoors,Credit Card
+CUST00843,Ruth Guerrero,Female,34,Dubai,2024-03-06,2025-09-26,100.42,3.0,ruth.guerrero43@yahoo.com,Electronics,Mobile Wallet
+CUST00844,John Mendoza,Male,45,Sydney,2023-05-19,2025-08-04,111.91,4.0,john.mendoza970@gmail.com,Clothing,Cash on Delivery
+CUST00845,Jennifer Sanchez,Female,56,Peshawar,2023-01-21,2024-12-26,69.13,3.0,jennifer.sanchez928@hotmail.com,Automotive,Debit Card
+CUST00846,Lori Williams,Female,40,Multan,2024-10-17,2025-04-24,41.54,3.0,lori.williams855@gmail.com,Beauty & Personal Care,Debit Card
+CUST00847,Tammy Black,Female,23,Rawalpindi,2024-02-22,2024-08-26,51.84,5.0,tammy.black581@hotmail.com,Electronics,Mobile Wallet
+CUST00848,Sherry Luna,Female,29,London,2025-10-09,2026-07-18,30.68,2.0,sherry.luna688@gmail.com,Clothing,Cash on Delivery
+CUST00849,Lawrence Ruiz,Male,39,Rawalpindi,2024-06-10,2024-12-30,138.22,5.0,lawrence.ruiz499@gmail.com,Sports & Outdoors,Cash on Delivery
+CUST00850,Lindsay Norton,Female,43,Faisalabad,2025-10-08,2026-02-06,19.5,2.0,lindsay.norton635@gmail.com,Clothing,Debit Card
+CUST00851,Kayla Jackson,Female,35,New York,2025-03-29,2025-12-03,37.5,4.0,kayla.jackson632@yahoo.com,Beauty & Personal Care,PayPal
+CUST00852,Benjamin Gray,Male,22,Singapore,2023-01-27,2023-12-06,19.74,4.0,benjamin.gray374@gmail.com,Sports & Outdoors,Bank Transfer
+CUST00853,Shannon Gordon,Female,49,Multan,2024-03-13,2024-03-18,30.52,4.0,shannon.gordon805@gmail.com,Home & Kitchen,PayPal
+CUST00854,Christopher Valenzuela,Male,28,Houston,2024-11-26,2025-09-06,14.34,5.0,christopher.valenzuela138@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST00855,Autumn Olson,Female,29,London,2023-01-24,2025-07-25,57.57,4.0,autumn.olson313@hotmail.com,Toys & Games,Mobile Wallet
+CUST00856,Aaron Pace,Male,36,Rawalpindi,2025-03-19,2025-06-17,104.75,4.0,aaron.pace84@yahoo.com,Beauty & Personal Care,Debit Card
+CUST00857,Jacqueline Williams,Female,20,Dubai,2024-08-18,2025-03-08,106.58,3.0,jacqueline.williams908@gmail.com,Clothing,PayPal
+CUST00858,John Mack,Male,30,Islamabad,2023-12-05,2026-06-06,84.29,1.0,john.mack520@hotmail.com,Electronics,Mobile Wallet
+CUST00859,Ryan Johnston,Male,28,Singapore,2024-03-21,2025-05-10,14.86,5.0,ryan.johnston218@yahoo.com,Electronics,Mobile Wallet
+CUST00860,David Trevino,Other,35,Sialkot,2023-08-31,2026-04-24,33.7,5.0,david.trevino153@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST00861,Colin Fletcher,Male,53,Quetta,2025-08-24,2026-06-22,38.4,5.0,colin.fletcher298@hotmail.com,Groceries,Bank Transfer
+CUST00862,Kelly Brooks,Female,18,Toronto,2023-05-11,2026-03-22,28.89,2.0,kelly.brooks373@yahoo.com,Automotive,Credit Card
+CUST00863,Brian Simmons,Male,25,Quetta,2024-11-05,2025-04-24,36.73,5.0,brian.simmons144@yahoo.com,Toys & Games,Debit Card
+CUST00864,Jessica Diaz,Female,23,Multan,2023-08-20,2024-06-15,27.02,5.0,jessica.diaz496@hotmail.com,Sports & Outdoors,Credit Card
+CUST00865,Christina Arnold,Female,36,Quetta,2024-09-26,2026-02-08,95.23,3.0,christina.arnold271@gmail.com,Sports & Outdoors,Debit Card
+CUST00866,Justin King,Male,28,Karachi,2023-10-03,2025-08-18,52.22,3.0,justin.king930@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00867,Jennifer Taylor,Female,52,Manchester,2025-12-09,2026-04-05,204.99,5.0,jennifer.taylor41@gmail.com,Sports & Outdoors,Credit Card
+CUST00868,Jeremy Lyons,Male,44,Toronto,2023-03-10,2024-09-21,23.73,5.0,jeremy.lyons270@gmail.com,Furniture,Mobile Wallet
+CUST00869,Rachel Owen,Female,18,Singapore,2024-12-16,2025-06-13,153.46,4.0,rachel.owen388@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST00870,Christopher Oconnell,Male,47,Islamabad,2022-07-29,2025-06-22,85.14,3.0,christopher.oconnell997@gmail.com,Home & Kitchen,Mobile Wallet
+CUST00871,Kaitlyn Burke,Female,32,Chicago,2022-11-25,2024-11-17,85.55,5.0,kaitlyn.burke354@yahoo.com,Toys & Games,Bank Transfer
+CUST00872,Angela Johnson,Female,47,Sydney,2024-01-22,2024-01-29,191.07,4.0,angela.johnson143@yahoo.com,Toys & Games,Debit Card
+CUST00873,Joseph Dawson,Male,35,Quetta,2024-11-22,2025-02-09,52.97,4.0,joseph.dawson288@gmail.com,Home & Kitchen,Debit Card
+CUST00874,Jeffrey Harris,Male,41,Multan,2025-02-16,2025-07-28,63.06,4.0,jeffrey.harris735@hotmail.com,Clothing,PayPal
+CUST00875,Andrew Greene,Male,30,Quetta,2024-07-29,2025-09-27,97.36,5.0,andrew.greene738@gmail.com,Clothing,Bank Transfer
+CUST00876,Megan Ward,Female,34,Manchester,2025-02-13,2026-06-19,57.0,3.0,megan.ward166@gmail.com,Books,Credit Card
+CUST00877,Donald Ross,Male,38,Quetta,2025-03-06,2025-03-29,79.1,2.0,donald.ross607@yahoo.com,Groceries,Debit Card
+CUST00878,Joseph Mclaughlin,Male,29,Toronto,2022-10-28,2023-01-17,15.71,5.0,joseph.mclaughlin151@gmail.com,Electronics,Debit Card
+CUST00879,Molly Hansen,Female,35,Sialkot,2024-11-02,2025-05-06,61.68,4.0,molly.hansen416@yahoo.com,Furniture,Mobile Wallet
+CUST00880,Mrs. Lisa Lee,Female,19,Lahore,2026-03-13,2026-05-25,124.06,5.0,mrs..lisa.lee222@hotmail.com,Toys & Games,Mobile Wallet
+CUST00881,Carrie Hunter,Female,39,Manchester,2024-09-28,2026-02-04,111.18,3.0,carrie.hunter851@hotmail.com,Books,Mobile Wallet
+CUST00882,Travis Pratt,Male,25,Faisalabad,2026-04-21,2026-07-05,35.82,5.0,travis.pratt187@hotmail.com,Furniture,PayPal
+CUST00883,Kenneth Benson,Male,55,Toronto,2026-05-04,2026-06-07,50.87,3.0,kenneth.benson703@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST00884,Dana Morgan,Female,28,Sydney,2025-08-04,2026-06-03,82.72,2.0,dana.morgan388@hotmail.com,Books,Debit Card
+CUST00885,Laurie Johnson,Female,39,Rawalpindi,2023-01-04,2023-02-07,100.21,3.0,laurie.johnson881@gmail.com,Automotive,PayPal
+CUST00886,Rachel Robinson,Female,35,Houston,2025-04-20,2026-06-18,130.11,3.0,rachel.robinson99@yahoo.com,Groceries,Bank Transfer
+CUST00887,Harry Nichols,Male,52,Sydney,2025-04-19,2026-02-21,123.13,1.0,harry.nichols803@yahoo.com,Automotive,Mobile Wallet
+CUST00888,Anna Nunez,Female,25,Rawalpindi,2025-10-08,2025-11-25,69.0,4.0,anna.nunez134@gmail.com,Furniture,Mobile Wallet
+CUST00889,Christopher Edwards,Male,36,Lahore,2023-05-30,2025-10-30,132.93,4.0,christopher.edwards380@hotmail.com,Electronics,PayPal
+CUST00890,Theresa Vega,Female,25,Toronto,2026-02-13,2026-06-03,19.24,3.0,theresa.vega822@yahoo.com,Toys & Games,Bank Transfer
+CUST00891,Cynthia Allen,Female,48,Los Angeles,2023-08-05,2024-02-22,118.76,4.0,cynthia.allen261@gmail.com,Toys & Games,Debit Card
+CUST00892,David Montgomery,Male,18,Islamabad,2023-03-02,2024-10-03,124.42,4.0,david.montgomery557@gmail.com,Books,Cash on Delivery
+CUST00893,Angela Sosa,Female,18,Peshawar,2024-06-26,2024-07-02,10.68,5.0,angela.sosa809@gmail.com,Electronics,Mobile Wallet
+CUST00894,Kimberly Williams,Female,28,Toronto,2024-06-11,2024-10-10,144.55,4.0,kimberly.williams385@hotmail.com,Home & Kitchen,PayPal
+CUST00895,Steven Ibarra,Male,26,New York,2024-10-21,2025-12-14,66.93,,steven.ibarra159@yahoo.com,Books,PayPal
+CUST00896,Victoria Moon,Female,29,Singapore,2023-08-27,2025-01-28,244.51,,victoria.moon549@gmail.com,Books,Mobile Wallet
+CUST00897,Bethany Fox,Female,26,Los Angeles,2024-03-18,2025-12-05,42.81,3.0,bethany.fox697@hotmail.com,Books,Debit Card
+CUST00898,Gregory Dalton,Male,44,Houston,2025-08-05,2026-05-15,90.56,5.0,gregory.dalton495@yahoo.com,Groceries,Cash on Delivery
+CUST00899,Melissa Stevens DDS,Female,26,Dubai,2022-08-07,2025-09-17,89.75,4.0,melissa.stevens.dds315@gmail.com,Furniture,Cash on Delivery
+CUST00900,Brian Ward,Male,21,Chicago,2025-12-06,2026-06-13,31.73,3.0,brian.ward885@gmail.com,Clothing,PayPal
+CUST00901,Cynthia Ruiz,Female,18,Quetta,2024-12-15,2026-03-18,107.72,5.0,cynthia.ruiz973@yahoo.com,Groceries,Credit Card
+CUST00902,Jeff Barnes,Male,40,Peshawar,2025-07-02,2026-03-20,109.13,4.0,jeff.barnes347@yahoo.com,Automotive,Mobile Wallet
+CUST00903,Douglas White,Male,21,Karachi,2023-01-25,2023-12-21,19.55,4.0,douglas.white652@hotmail.com,Electronics,Credit Card
+CUST00904,Robin Le,Female,32,Faisalabad,2025-09-14,2026-05-14,30.99,5.0,robin.le446@hotmail.com,Clothing,Credit Card
+CUST00905,Jane Thomas,Female,18,Sialkot,2026-04-24,2026-05-23,67.55,4.0,jane.thomas624@gmail.com,Electronics,PayPal
+CUST00906,Alexandra Fisher,Female,46,Chicago,2023-01-30,2025-04-30,102.97,4.0,alexandra.fisher534@hotmail.com,Beauty & Personal Care,PayPal
+CUST00907,Michelle Floyd,Female,30,Sydney,2023-09-24,2024-01-20,279.17,5.0,michelle.floyd840@hotmail.com,Groceries,PayPal
+CUST00908,Amber Garcia,Female,40,Manchester,2023-03-12,2025-08-28,28.97,1.0,amber.garcia871@gmail.com,Automotive,Cash on Delivery
+CUST00909,John Soto,Male,22,Peshawar,2024-04-25,2024-05-30,130.25,5.0,john.soto523@yahoo.com,Automotive,PayPal
+CUST00910,Isaac Grant,Male,46,Quetta,2025-09-23,2025-12-19,152.42,5.0,isaac.grant369@yahoo.com,Home & Kitchen,PayPal
+CUST00911,Barbara Dillon,Female,31,Lahore,2026-04-30,2026-05-21,97.76,2.0,barbara.dillon283@gmail.com,Books,Cash on Delivery
+CUST00912,Matthew Ryan,Male,32,Chicago,2026-05-23,2026-06-18,50.52,4.0,matthew.ryan531@yahoo.com,Electronics,PayPal
+CUST00913,Megan Freeman,Female,18,Islamabad,2025-06-09,2025-07-26,114.42,4.0,megan.freeman744@gmail.com,Automotive,Mobile Wallet
+CUST00914,Dustin Welch,Male,18,Los Angeles,2023-02-14,2025-01-26,40.11,5.0,dustin.welch284@gmail.com,Home & Kitchen,Mobile Wallet
+CUST00915,Timothy Fisher,Male,36,Peshawar,2024-12-14,2026-03-25,99.54,5.0,timothy.fisher589@yahoo.com,Electronics,Cash on Delivery
+CUST00916,Andrea Martin,Female,18,Multan,2023-06-13,2025-09-24,12.28,4.0,andrea.martin573@yahoo.com,Clothing,Mobile Wallet
+CUST00917,Michelle Jacobs,Female,48,Gujranwala,2024-02-07,2025-01-21,172.38,5.0,michelle.jacobs823@yahoo.com,Automotive,Cash on Delivery
+CUST00918,Todd Adkins,Male,18,Dubai,2024-08-05,2026-03-17,66.89,3.0,todd.adkins454@yahoo.com,Books,Mobile Wallet
+CUST00919,Catherine Johnson,Female,41,Manchester,2025-05-28,2026-06-27,491.41,3.0,catherine.johnson348@hotmail.com,Toys & Games,PayPal
+CUST00920,Patrick Brady,Male,23,London,2023-05-19,2023-07-15,83.92,4.0,patrick.brady265@yahoo.com,Clothing,Bank Transfer
+CUST00921,Arthur Johns,Male,40,Quetta,2024-09-13,2025-05-07,32.28,5.0,arthur.johns423@gmail.com,Sports & Outdoors,Mobile Wallet
+CUST00922,Joseph Ferrell,Male,45,Dubai,2022-12-17,2023-01-06,53.99,5.0,joseph.ferrell270@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST00923,Matthew Mcclure,Male,18,Islamabad,2023-10-07,2024-11-19,84.24,5.0,matthew.mcclure841@gmail.com,Sports & Outdoors,Credit Card
+CUST00924,Jeremy Martinez,Male,66,Dubai,2024-08-13,2025-02-12,24.51,4.0,jeremy.martinez363@gmail.com,Home & Kitchen,Mobile Wallet
+CUST00925,Mary Dalton,Female,21,Sialkot,2023-10-30,2024-05-05,141.8,5.0,mary.dalton700@yahoo.com,Home & Kitchen,Bank Transfer
+CUST00926,Seth Donovan,Male,38,Peshawar,2024-09-13,2025-05-12,324.65,5.0,seth.donovan894@gmail.com,Beauty & Personal Care,Debit Card
+CUST00927,Miss Cassandra Harper,Female,39,Quetta,2025-01-10,2025-08-06,90.42,5.0,miss.cassandra.harper857@hotmail.com,Furniture,Cash on Delivery
+CUST00928,Jessica Bowman,Female,48,Faisalabad,2024-08-23,2024-12-11,37.97,2.0,jessica.bowman81@yahoo.com,Toys & Games,Mobile Wallet
+CUST00929,Darren Davis,Male,39,Lahore,2023-10-05,2025-11-26,51.02,5.0,darren.davis981@yahoo.com,Electronics,Bank Transfer
+CUST00930,Elizabeth Smith,Female,25,Los Angeles,2025-09-30,2026-03-11,62.98,4.0,elizabeth.smith903@gmail.com,Furniture,Cash on Delivery
+CUST00931,John Smith,Male,31,Manchester,2026-03-02,2026-04-18,155.5,5.0,john.smith938@yahoo.com,Automotive,Cash on Delivery
+CUST00932,Pamela Yates,Female,27,Chicago,2024-11-22,2025-07-08,80.65,5.0,pamela.yates132@gmail.com,Electronics,Mobile Wallet
+CUST00933,Colin Khan,Male,31,Houston,2024-04-07,2025-08-10,223.98,5.0,colin.khan34@gmail.com,Automotive,Cash on Delivery
+CUST00934,Omar Price,Other,18,Chicago,2024-01-14,2026-06-14,116.48,5.0,omar.price179@yahoo.com,Toys & Games,Credit Card
+CUST00935,Mario Black,Male,19,Toronto,2025-09-08,2026-05-02,17.75,4.0,mario.black9@hotmail.com,Electronics,PayPal
+CUST00936,Michael Mitchell,Male,27,Peshawar,2025-06-19,2025-12-31,9.16,4.0,michael.mitchell334@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST00937,Sarah White,Female,50,Sialkot,2023-09-09,2024-09-27,159.37,4.0,sarah.white243@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST00938,Jesse Graves,Male,42,Sydney,2024-06-25,2025-06-12,23.95,4.0,jesse.graves511@yahoo.com,Books,Debit Card
+CUST00939,Amber Nichols,Female,38,Houston,2023-04-14,2025-05-16,260.27,4.0,amber.nichols411@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00940,Calvin Gonzales,Male,40,Multan,2022-08-02,2025-10-16,247.21,3.0,calvin.gonzales590@gmail.com,Home & Kitchen,Credit Card
+CUST00941,Katherine Peterson,Female,44,Sialkot,2023-10-10,2026-01-11,116.94,3.0,katherine.peterson443@yahoo.com,Books,Debit Card
+CUST00942,Mrs. Raven Rivera DVM,Female,39,Faisalabad,2026-04-13,2026-07-17,30.72,3.0,mrs..raven.rivera.dvm826@gmail.com,Electronics,Debit Card
+CUST00943,Jenna Daniels,Female,26,Houston,2023-04-07,2026-01-25,107.33,3.0,jenna.daniels915@yahoo.com,Automotive,Mobile Wallet
+CUST00944,Ronald Martinez,Male,38,,2025-07-25,2026-04-01,101.18,4.0,ronald.martinez576@gmail.com,Furniture,Credit Card
+CUST00945,Vanessa Wright,Female,41,Chicago,2026-06-14,2026-06-21,244.09,5.0,vanessa.wright62@gmail.com,Home & Kitchen,Cash on Delivery
+CUST00946,Patricia Boyd,Female,37,Manchester,2026-05-27,2026-07-20,155.58,4.0,patricia.boyd461@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00947,Tonya Mayer,Female,33,Los Angeles,2023-03-05,2025-03-12,22.3,4.0,tonya.mayer955@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST00948,Teresa Meyer,Female,24,Lahore,2023-07-19,2025-11-09,37.08,2.0,teresa.meyer889@hotmail.com,Furniture,Debit Card
+CUST00949,Isaac Williams,Male,25,Singapore,2025-03-02,2025-12-22,35.92,4.0,isaac.williams552@gmail.com,Groceries,Cash on Delivery
+CUST00950,Jeffrey Smith,Male,35,Los Angeles,2025-08-31,2026-02-14,150.21,5.0,jeffrey.smith500@hotmail.com,Toys & Games,Credit Card
+CUST00951,Richard Smith,Male,37,Chicago,2022-09-20,2026-02-28,43.32,3.0,richard.smith647@hotmail.com,Groceries,Debit Card
+CUST00952,Kyle Watson,Male,41,New York,2022-11-27,2025-04-09,168.6,4.0,kyle.watson586@gmail.com,Books,Credit Card
+CUST00953,Melissa Morgan,Female,46,Islamabad,2026-05-09,2026-05-30,24.81,4.0,melissa.morgan322@hotmail.com,Sports & Outdoors,PayPal
+CUST00954,Henry Moore,Male,37,Gujranwala,2024-08-27,2025-05-28,109.72,4.0,henry.moore405@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST00955,David Holden,Male,25,Los Angeles,2025-08-23,2026-06-20,38.53,4.0,david.holden462@yahoo.com,Books,Debit Card
+CUST00956,Jessica Lee,Female,40,Multan,2025-04-03,2026-06-15,19.48,1.0,jessica.lee746@yahoo.com,Home & Kitchen,PayPal
+CUST00957,David Williams,Male,47,Sialkot,2025-04-28,2026-05-14,108.14,5.0,david.williams82@hotmail.com,Home & Kitchen,Debit Card
+CUST00958,Melissa Lopez,Female,26,Chicago,2023-04-15,2023-11-12,112.6,,melissa.lopez960@yahoo.com,Toys & Games,Mobile Wallet
+CUST00959,John Dillon,Male,23,Karachi,2024-11-24,2024-12-21,242.56,5.0,john.dillon537@hotmail.com,Clothing,Credit Card
+CUST00960,Joseph Cole,Male,39,Sialkot,2025-10-06,2025-12-25,16.31,2.0,joseph.cole954@hotmail.com,Books,Cash on Delivery
+CUST00961,Aaron Little,Male,20,Quetta,2024-01-15,2024-09-25,190.22,5.0,aaron.little454@gmail.com,Groceries,Debit Card
+CUST00962,Lisa Diaz,Female,31,Toronto,2024-12-25,2025-06-18,128.85,1.0,lisa.diaz680@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST00963,Mary Ryan,Female,29,Manchester,2024-01-27,2025-05-20,119.12,5.0,mary.ryan554@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00964,Pamela Moore,Female,44,London,2023-08-31,2024-06-03,115.73,,pamela.moore715@yahoo.com,Automotive,Debit Card
+CUST00965,Ashley Mills,Female,33,Singapore,2022-10-25,2026-03-02,42.38,4.0,ashley.mills767@gmail.com,Furniture,Bank Transfer
+CUST00966,Andre Rodriguez,Male,34,Toronto,2023-04-22,2026-04-20,59.08,4.0,andre.rodriguez356@gmail.com,Toys & Games,Mobile Wallet
+CUST00967,Sara Barrett,Female,18,Quetta,2024-08-12,2024-11-12,118.69,4.0,sara.barrett375@hotmail.com,Books,Cash on Delivery
+CUST00968,Amber Walker,Female,42,Faisalabad,2025-05-14,2025-10-17,220.53,1.0,amber.walker536@gmail.com,Groceries,Cash on Delivery
+CUST00969,Christine Henry,Female,47,Gujranwala,2026-01-15,2026-05-16,410.77,4.0,christine.henry705@gmail.com,Toys & Games,Bank Transfer
+CUST00970,Margaret Ward,Female,37,Gujranwala,2025-06-19,2025-06-24,170.81,5.0,margaret.ward818@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00971,Rebecca Brown,Female,56,Quetta,2024-12-20,2024-12-28,42.82,4.0,rebecca.brown194@hotmail.com,Books,Mobile Wallet
+CUST00972,Benjamin Torres,Male,40,Houston,2026-04-03,2026-05-24,18.93,3.0,benjamin.torres733@hotmail.com,Books,Bank Transfer
+CUST00973,Molly Schmidt,Female,32,Quetta,2023-04-19,2024-10-09,110.44,2.0,molly.schmidt641@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST00974,Laura Meza,Female,42,Sydney,2024-09-28,2025-07-04,147.93,3.0,laura.meza761@hotmail.com,Automotive,Cash on Delivery
+CUST00975,Ashley Fowler,Female,34,Houston,2023-12-16,2024-06-26,37.05,5.0,ashley.fowler187@yahoo.com,Groceries,Cash on Delivery
+CUST00976,Jessica Garcia,Female,22,Rawalpindi,2025-08-29,2026-07-22,253.03,4.0,jessica.garcia464@hotmail.com,Beauty & Personal Care,PayPal
+CUST00977,Gail Moore,Female,35,Sydney,2026-06-19,2026-07-21,21.13,3.0,gail.moore20@yahoo.com,Groceries,Credit Card
+CUST00978,Stephanie Pierce,Female,47,Dubai,2026-06-17,2026-06-19,223.03,3.0,stephanie.pierce105@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST00979,Mark Mckenzie,Male,39,Faisalabad,2023-10-27,2025-10-29,26.58,4.0,mark.mckenzie9@gmail.com,Home & Kitchen,Credit Card
+CUST00980,Cindy Cannon,Female,41,Faisalabad,2026-03-08,2026-03-12,30.21,4.0,cindy.cannon351@yahoo.com,Books,Cash on Delivery
+CUST00981,Jesse Moyer,Male,46,Manchester,2022-07-22,2024-08-21,102.14,4.0,jesse.moyer811@gmail.com,Electronics,Cash on Delivery
+CUST00982,Kyle Holmes DVM,Male,53,Islamabad,2023-09-26,2024-07-22,143.82,2.0,kyle.holmes.dvm795@yahoo.com,Books,Credit Card
+CUST00983,Cindy Edwards PhD,Female,23,Dubai,2026-04-01,2026-06-01,1049.17,3.0,cindy.edwards.phd918@yahoo.com,Beauty & Personal Care,Bank Transfer
+CUST00984,Jorge Duncan,Male,37,Lahore,2024-10-16,2025-02-18,23.67,5.0,jorge.duncan732@gmail.com,Home & Kitchen,Bank Transfer
+CUST00985,Henry Taylor,Male,36,London,2023-12-29,2024-09-08,132.79,5.0,henry.taylor35@hotmail.com,Home & Kitchen,Bank Transfer
+CUST00986,Dawn Evans,Female,29,Rawalpindi,2024-10-15,2026-04-02,58.22,5.0,dawn.evans214@hotmail.com,Toys & Games,Bank Transfer
+CUST00987,Nicholas Cummings,Male,25,Gujranwala,2025-08-29,2026-02-11,58.32,3.0,nicholas.cummings746@gmail.com,Electronics,PayPal
+CUST00988,Stephanie Warner,Female,21,Dubai,2025-10-06,2026-06-30,116.8,2.0,stephanie.warner493@gmail.com,Beauty & Personal Care,Debit Card
+CUST00989,Elizabeth Cross,Female,33,Los Angeles,2024-10-23,2024-12-16,80.7,5.0,elizabeth.cross224@gmail.com,Clothing,Debit Card
+CUST00990,Tammy Cook,Female,45,Houston,2025-12-31,2026-03-25,37.77,1.0,tammy.cook814@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST00991,Sean Kane,Other,38,Rawalpindi,2023-06-11,2025-08-30,71.33,5.0,sean.kane10@hotmail.com,Electronics,Mobile Wallet
+CUST00992,Timothy Walters,Male,28,Manchester,2025-01-11,2025-06-19,55.88,4.0,timothy.walters92@gmail.com,Home & Kitchen,Debit Card
+CUST00993,Andrew Fernandez,Other,39,Manchester,2023-02-21,2023-08-28,88.02,5.0,andrew.fernandez347@hotmail.com,Electronics,Credit Card
+CUST00994,Brittany Nunez,Female,32,Los Angeles,2026-06-18,2026-06-28,34.06,5.0,brittany.nunez811@yahoo.com,Clothing,Debit Card
+CUST00995,Kenneth Davis,Male,27,Manchester,2024-03-31,2024-11-25,35.36,4.0,kenneth.davis572@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST00996,George Alvarez,Male,29,Peshawar,2025-06-22,2025-07-03,51.6,5.0,george.alvarez367@hotmail.com,Groceries,Cash on Delivery
+CUST00997,Bradley Shaw,Male,18,Karachi,2025-08-02,2026-04-08,43.97,5.0,bradley.shaw573@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST00998,Karen Gonzalez,Female,20,Manchester,2024-02-07,2024-08-20,26.11,4.0,karen.gonzalez557@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST00999,Luis Fitzgerald,Male,30,London,2023-07-09,2025-01-23,39.56,5.0,luis.fitzgerald614@gmail.com,Automotive,Debit Card
+CUST01000,Jeffrey Cohen,Male,29,Islamabad,2024-10-23,2026-04-20,78.51,3.0,jeffrey.cohen303@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST01001,Jay Bailey,Male,30,Los Angeles,2023-10-23,2025-01-30,89.91,1.0,jay.bailey654@hotmail.com,Automotive,Bank Transfer
+CUST01002,Randy Jackson,Male,34,Multan,2023-12-04,2026-05-27,31.08,1.0,randy.jackson878@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST01003,Jeremiah Glass,Male,51,Quetta,2023-06-21,2025-04-08,85.97,5.0,jeremiah.glass675@hotmail.com,Automotive,Bank Transfer
+CUST01004,Peter Farrell,Male,37,Peshawar,2022-12-29,2025-12-07,752.75,5.0,peter.farrell785@gmail.com,Automotive,Debit Card
+CUST01005,Marc Hernandez,Male,18,Sydney,2025-10-25,2026-03-19,134.72,4.0,marc.hernandez657@yahoo.com,Sports & Outdoors,Credit Card
+CUST01006,Melissa Rodriguez,Female,34,Rawalpindi,2024-04-26,2025-10-14,31.51,5.0,melissa.rodriguez45@gmail.com,Groceries,Debit Card
+CUST01007,Patrick Lewis,Male,20,Karachi,2024-09-10,2025-04-05,8.25,2.0,patrick.lewis197@yahoo.com,Clothing,Credit Card
+CUST01008,Lisa Gay,Female,56,Singapore,2025-04-11,2026-03-06,138.76,5.0,lisa.gay674@hotmail.com,Toys & Games,Mobile Wallet
+CUST01009,Lauren Alvarado,Female,30,Sydney,2022-09-22,2026-01-13,137.73,3.0,lauren.alvarado376@gmail.com,Home & Kitchen,Mobile Wallet
+CUST01010,Christina Horton,Female,31,Islamabad,2023-08-14,2023-09-10,142.69,5.0,christina.horton214@yahoo.com,Toys & Games,Credit Card
+CUST01011,Adam Price,Male,55,London,2023-08-14,2023-12-17,62.35,4.0,adam.price762@hotmail.com,Books,Cash on Delivery
+CUST01012,Ashley Carter,Female,49,Karachi,2026-01-06,2026-06-13,63.07,3.0,ashley.carter42@yahoo.com,Clothing,Cash on Delivery
+CUST01013,James Bray,Male,31,Islamabad,2022-12-11,2024-02-27,172.26,5.0,james.bray100@yahoo.com,Clothing,PayPal
+CUST01014,Kyle Miller,Male,53,Quetta,2023-05-02,2026-04-25,52.11,4.0,kyle.miller198@yahoo.com,Automotive,PayPal
+CUST01015,Micheal Williams,Male,38,Quetta,2026-03-02,2026-04-17,21.55,4.0,micheal.williams572@yahoo.com,Books,PayPal
+CUST01016,Jennifer Moore,Female,61,Rawalpindi,2023-11-30,2026-01-23,57.79,4.0,jennifer.moore367@yahoo.com,Toys & Games,PayPal
+CUST01017,Eric Ferrell,Male,18,Houston,2026-05-22,2026-07-18,145.1,2.0,eric.ferrell812@yahoo.com,Groceries,Mobile Wallet
+CUST01018,Lori Johns,Female,37,Chicago,2026-01-16,2026-05-26,24.84,4.0,lori.johns162@gmail.com,Automotive,Mobile Wallet
+CUST01019,Travis Perez,Male,24,London,2023-11-23,2026-07-06,35.04,,travis.perez323@yahoo.com,Automotive,Cash on Delivery
+CUST01020,Brandon Reyes,Male,28,Los Angeles,2026-04-26,2026-06-18,141.18,5.0,brandon.reyes441@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST01021,Melissa Butler,Female,35,Quetta,2024-10-18,2026-05-18,99.54,,melissa.butler385@yahoo.com,Automotive,PayPal
+CUST01022,Dr. Gary Daniels,Male,49,Sialkot,2023-05-13,2025-05-20,42.02,5.0,dr..gary.daniels459@gmail.com,Books,Credit Card
+CUST01023,Michael Harris,Male,36,Karachi,2023-02-04,2024-09-09,31.17,4.0,michael.harris531@hotmail.com,Groceries,Cash on Delivery
+CUST01024,Kelly Taylor,Female,28,Lahore,2026-06-15,2026-07-05,103.08,5.0,kelly.taylor220@gmail.com,Sports & Outdoors,Credit Card
+CUST01025,Krystal Moore,Female,26,Sialkot,2022-10-27,2025-12-04,36.27,4.0,krystal.moore585@hotmail.com,Furniture,Debit Card
+CUST01026,Bailey Stewart,Female,24,Rawalpindi,2025-12-31,2026-01-10,30.02,4.0,bailey.stewart160@hotmail.com,Groceries,Cash on Delivery
+CUST01027,Fernando Dudley,Male,38,Los Angeles,2026-04-27,2026-07-11,93.48,3.0,fernando.dudley263@yahoo.com,Beauty & Personal Care,Credit Card
+CUST01028,Taylor Shannon,Female,27,Singapore,2026-03-18,2026-05-09,100.74,,taylor.shannon223@yahoo.com,Clothing,PayPal
+CUST01029,Cole Anderson,Male,26,New York,2022-08-28,2025-05-13,52.69,3.0,cole.anderson846@hotmail.com,Furniture,Credit Card
+CUST01030,Lisa Salazar,Female,23,Sydney,2024-11-21,2025-09-25,36.56,1.0,lisa.salazar828@gmail.com,Furniture,Bank Transfer
+CUST01031,Ian Watts,Male,34,Islamabad,2024-06-03,2024-07-31,148.56,5.0,ian.watts343@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST01032,John Banks,Male,27,Houston,2023-04-11,2023-12-14,100.68,5.0,john.banks233@yahoo.com,Furniture,Credit Card
+CUST01033,Brenda Lee,Female,58,Chicago,2022-09-06,2022-12-26,18.9,4.0,brenda.lee43@gmail.com,Sports & Outdoors,Mobile Wallet
+CUST01034,Tiffany Walker,Other,28,,2025-03-08,2025-05-24,232.64,4.0,tiffany.walker715@gmail.com,Home & Kitchen,Debit Card
+CUST01035,Andrea Ho,Female,27,Karachi,2026-06-01,2026-07-15,24.56,5.0,andrea.ho403@hotmail.com,Toys & Games,Mobile Wallet
+CUST01036,Erika Ellis,Female,44,Singapore,2023-07-10,2026-05-09,80.95,2.0,erika.ellis443@yahoo.com,Beauty & Personal Care,Bank Transfer
+CUST01037,Lisa Holloway,Female,27,Faisalabad,2025-05-17,2025-07-24,66.8,4.0,lisa.holloway488@yahoo.com,Furniture,PayPal
+CUST01038,Patrick Wheeler,Male,18,Karachi,2024-08-11,2026-02-24,314.89,4.0,patrick.wheeler88@hotmail.com,Books,Mobile Wallet
+CUST01039,Kelly Hayes,Female,18,Houston,2025-10-17,2025-12-23,50.84,5.0,kelly.hayes493@gmail.com,Automotive,Debit Card
+CUST01040,David Medina,Male,28,Manchester,2026-05-29,2026-06-24,89.71,5.0,david.medina201@gmail.com,Automotive,Mobile Wallet
+CUST01041,Kelli Mccoy,Female,25,Toronto,2022-09-30,2024-02-17,40.79,3.0,kelli.mccoy273@yahoo.com,Books,Cash on Delivery
+CUST01042,Stephen Ayala,Male,29,Singapore,2023-09-04,2024-03-06,206.73,2.0,stephen.ayala424@gmail.com,Books,Cash on Delivery
+CUST01043,Lisa Brown,Female,38,,2024-07-30,2025-02-11,44.63,4.0,lisa.brown609@gmail.com,Electronics,Cash on Delivery
+CUST01044,Matthew Davis,Male,43,Multan,2024-07-07,2025-07-01,352.04,4.0,matthew.davis823@gmail.com,Toys & Games,Mobile Wallet
+CUST01045,Teresa Horton,Female,27,Faisalabad,2023-01-31,2025-07-22,57.42,1.0,teresa.horton838@yahoo.com,Home & Kitchen,Debit Card
+CUST01046,Alexander Chavez,Male,36,Los Angeles,2026-01-25,2026-03-06,214.07,5.0,alexander.chavez874@gmail.com,Clothing,Credit Card
+CUST01047,Ann Nguyen,Female,26,Karachi,2025-02-04,2025-10-11,22.55,,ann.nguyen949@hotmail.com,Groceries,Cash on Delivery
+CUST01048,Nathan Martinez,Male,36,Lahore,2023-01-01,2024-12-05,83.68,5.0,nathan.martinez114@yahoo.com,Beauty & Personal Care,Bank Transfer
+CUST01049,Angela Zimmerman,Female,43,Manchester,2025-05-27,2025-06-08,17.89,4.0,angela.zimmerman758@hotmail.com,Automotive,Debit Card
+CUST01050,Caitlin Pierce,Female,45,Peshawar,2022-09-22,2025-10-16,44.26,4.0,caitlin.pierce265@gmail.com,Automotive,Bank Transfer
+CUST01051,Krystal Keller,Female,38,Sydney,2023-02-21,2023-12-08,107.78,5.0,krystal.keller685@gmail.com,Electronics,Bank Transfer
+CUST01052,Michael Barnes,Male,45,Singapore,2023-10-07,2026-04-22,250.99,5.0,michael.barnes45@yahoo.com,Beauty & Personal Care,Debit Card
+CUST01053,Christopher Roach,Other,21,Karachi,2026-04-26,2026-06-02,21.09,3.0,christopher.roach714@gmail.com,Furniture,Cash on Delivery
+CUST01054,David Ellis,Male,18,Karachi,2025-11-27,2026-03-27,46.84,5.0,david.ellis9@hotmail.com,Clothing,Bank Transfer
+CUST01055,Lawrence Snyder,Male,29,Sialkot,2023-05-28,2025-06-04,23.59,5.0,lawrence.snyder20@hotmail.com,Beauty & Personal Care,PayPal
+CUST01056,Jennifer Miller,Female,38,Chicago,2024-11-26,2025-07-21,23.74,5.0,jennifer.miller521@gmail.com,Clothing,Cash on Delivery
+CUST01057,Donald Fuller,Male,34,Manchester,2025-10-07,2026-07-07,103.17,2.0,donald.fuller204@gmail.com,Automotive,Bank Transfer
+CUST01058,Brittany Delgado,Female,32,Dubai,2022-09-12,2022-10-27,15.37,1.0,brittany.delgado945@gmail.com,Automotive,Cash on Delivery
+CUST01059,Sara Evans,Female,44,New York,2026-02-28,2026-07-04,138.99,4.0,sara.evans161@gmail.com,Electronics,Cash on Delivery
+CUST01060,Wendy Martin,Female,23,Los Angeles,2023-09-01,2025-08-29,321.38,4.0,wendy.martin242@hotmail.com,Automotive,Cash on Delivery
+CUST01061,Kurt Cobb,Male,31,Karachi,2023-04-01,2024-09-10,113.81,5.0,kurt.cobb912@yahoo.com,Electronics,Mobile Wallet
+CUST01062,Heather Johnson,Female,25,Sialkot,2025-07-25,2025-11-18,38.56,3.0,heather.johnson919@yahoo.com,Books,PayPal
+CUST01063,James Jones,Male,24,Faisalabad,2024-03-24,2024-06-22,12.23,5.0,james.jones534@hotmail.com,Furniture,PayPal
+CUST01064,Kaitlin Martinez,Female,39,Quetta,2025-12-02,2026-03-19,39.91,3.0,kaitlin.martinez157@yahoo.com,Books,Cash on Delivery
+CUST01065,Kelly Dominguez,Female,34,Sydney,2024-12-13,2025-11-16,12.61,4.0,kelly.dominguez135@gmail.com,Home & Kitchen,PayPal
+CUST01066,William Rice,Male,18,Faisalabad,2022-11-24,2026-02-26,398.84,4.0,william.rice820@hotmail.com,Home & Kitchen,Debit Card
+CUST01067,Timothy Andersen,Male,36,Gujranwala,2023-09-05,2024-06-08,26.9,4.0,timothy.andersen931@hotmail.com,Groceries,PayPal
+CUST01068,Debbie Andrews,Female,50,Singapore,2024-12-29,2025-06-09,31.13,4.0,debbie.andrews571@gmail.com,Automotive,PayPal
+CUST01069,Kathleen Daniel,Female,57,Rawalpindi,2024-07-03,2025-01-08,138.23,4.0,kathleen.daniel901@gmail.com,Groceries,PayPal
+CUST01070,Crystal Roberts,Female,18,Lahore,2023-04-24,2025-02-05,28.11,5.0,crystal.roberts424@gmail.com,Books,Cash on Delivery
+CUST01071,Mario Wilson,Male,40,London,2025-11-16,2026-05-26,105.19,5.0,mario.wilson916@hotmail.com,Beauty & Personal Care,Debit Card
+CUST01072,Mr. Gene Castro DDS,Male,21,Peshawar,2022-08-07,2023-03-14,584.36,3.0,mr..gene.castro.dds27@gmail.com,Furniture,Mobile Wallet
+CUST01073,David Jones,Male,36,Sialkot,2023-09-24,2025-01-09,36.18,4.0,david.jones237@hotmail.com,Electronics,Cash on Delivery
+CUST01074,Abigail Jennings,Female,35,Islamabad,2023-11-22,2025-10-27,55.09,5.0,abigail.jennings138@hotmail.com,Automotive,Mobile Wallet
+CUST01075,Toni Collier,Female,18,Manchester,2023-04-25,2025-05-30,112.62,3.0,toni.collier397@yahoo.com,Toys & Games,Bank Transfer
+CUST01076,Karen Wells,Female,18,Faisalabad,2022-09-10,2023-08-12,30.74,3.0,karen.wells34@gmail.com,Books,Credit Card
+CUST01077,Mark Mcclain,Male,36,Sialkot,2024-08-28,2025-10-25,50.83,3.0,mark.mcclain688@yahoo.com,Home & Kitchen,Debit Card
+CUST01078,Robert Reilly,Male,41,Islamabad,2022-10-10,2023-10-08,20.05,5.0,robert.reilly450@hotmail.com,Furniture,Bank Transfer
+CUST01079,Nathaniel Stewart,Male,18,New York,2024-08-26,2025-12-08,168.31,5.0,nathaniel.stewart438@gmail.com,Books,Credit Card
+CUST01080,Evelyn Hendricks,Female,33,Sydney,2025-09-02,2026-03-16,219.91,5.0,evelyn.hendricks404@gmail.com,Furniture,PayPal
+CUST01081,Mr. Andre Terrell,Male,48,Singapore,2025-01-03,2026-07-07,41.81,4.0,mr..andre.terrell897@gmail.com,Electronics,Mobile Wallet
+CUST01082,James Larson,Male,18,Rawalpindi,2025-12-10,2026-04-05,5.21,4.0,james.larson899@yahoo.com,Electronics,Debit Card
+CUST01083,Emily Johnson,Female,28,Toronto,2024-03-05,2025-09-07,20.67,4.0,emily.johnson753@yahoo.com,Electronics,Mobile Wallet
+CUST01084,Jacqueline Gallegos,Female,30,Chicago,2023-09-28,2024-01-07,188.39,3.0,jacqueline.gallegos451@hotmail.com,Books,Cash on Delivery
+CUST01085,Brian Glover,Male,39,Gujranwala,2025-08-08,2026-04-02,56.37,3.0,brian.glover302@gmail.com,Furniture,Credit Card
+CUST01086,Alexander Webb,Male,37,Toronto,2024-07-06,2024-11-29,99.91,4.0,alexander.webb662@gmail.com,Toys & Games,Credit Card
+CUST01087,Karen Russo,Female,34,Toronto,2023-10-09,2024-02-02,41.99,3.0,karen.russo600@yahoo.com,Automotive,Debit Card
+CUST01088,Shane Short,Male,40,Chicago,2026-03-25,2026-05-17,27.55,4.0,shane.short26@hotmail.com,Groceries,Bank Transfer
+CUST01089,Christine Johnson MD,Other,55,Singapore,2025-12-10,2026-06-11,104.5,5.0,christine.johnson.md904@gmail.com,Toys & Games,Credit Card
+CUST01090,Timothy Mcdaniel,Male,23,Sialkot,2024-11-18,2025-10-16,55.37,5.0,timothy.mcdaniel929@gmail.com,Groceries,PayPal
+CUST01091,Stacy Garcia,Female,37,Rawalpindi,2025-07-22,2025-09-07,103.41,2.0,stacy.garcia461@hotmail.com,Sports & Outdoors,Credit Card
+CUST01092,Kenneth Collins,Male,43,Toronto,2026-01-18,2026-07-19,10.54,4.0,kenneth.collins811@yahoo.com,Automotive,Mobile Wallet
+CUST01093,Dustin Patel,Male,39,Multan,2025-07-31,2026-02-10,97.99,4.0,dustin.patel45@hotmail.com,Groceries,Cash on Delivery
+CUST01094,Brittany Hill,Female,18,Singapore,2022-08-12,2026-04-24,35.22,5.0,brittany.hill167@hotmail.com,Groceries,Debit Card
+CUST01095,Brian Daniels,Male,22,Karachi,2024-09-15,2025-11-19,13.35,4.0,brian.daniels748@yahoo.com,Toys & Games,Cash on Delivery
+CUST01096,Michele Campbell,Female,28,Multan,2023-07-07,2024-03-04,80.15,5.0,michele.campbell984@gmail.com,Home & Kitchen,Credit Card
+CUST01097,Steven Fernandez,Male,30,Sydney,2022-10-02,2024-03-04,48.68,1.0,steven.fernandez510@gmail.com,Toys & Games,Mobile Wallet
+CUST01098,Megan Rodriguez,Female,33,Lahore,2022-10-06,2026-03-05,41.41,5.0,megan.rodriguez244@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST01099,Michael Vance,Male,36,Manchester,2025-01-07,2026-04-17,166.72,4.0,michael.vance82@hotmail.com,Furniture,Mobile Wallet
+CUST01100,Luis Edwards,Male,56,Lahore,2025-10-03,2026-02-06,67.8,5.0,luis.edwards285@hotmail.com,Furniture,PayPal
+CUST01101,Rhonda Miller,Female,39,Dubai,2026-03-03,2026-04-26,52.97,1.0,rhonda.miller152@yahoo.com,Electronics,PayPal
+CUST01102,Anna Lang,Female,37,Los Angeles,2025-04-16,2025-05-05,124.39,3.0,anna.lang34@gmail.com,Furniture,Mobile Wallet
+CUST01103,Melinda Mckinney,Female,52,Gujranwala,2024-05-17,2025-04-22,40.23,5.0,melinda.mckinney51@gmail.com,Clothing,Bank Transfer
+CUST01104,Briana Huang,Female,26,Multan,2023-07-26,2024-06-21,342.49,5.0,briana.huang626@yahoo.com,Furniture,Mobile Wallet
+CUST01105,Melissa Ortega,Female,31,Dubai,2025-08-23,2025-11-22,85.34,5.0,melissa.ortega768@yahoo.com,Furniture,Cash on Delivery
+CUST01106,Amanda Alvarez,Female,49,Karachi,2023-12-06,2024-03-11,75.67,5.0,amanda.alvarez331@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST01107,Douglas Bailey,Male,43,Islamabad,2024-10-21,2026-01-02,55.03,5.0,douglas.bailey67@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST01108,Robert Robles,Male,34,Faisalabad,2023-10-31,2024-03-04,199.75,5.0,robert.robles282@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST01109,Elizabeth Murray,Female,43,Houston,2024-11-13,2026-05-05,13.62,3.0,elizabeth.murray215@gmail.com,Furniture,Credit Card
+CUST01110,Joshua Dickson,Male,33,Rawalpindi,2024-01-22,2025-08-30,97.29,5.0,joshua.dickson645@yahoo.com,Automotive,Credit Card
+CUST01111,Melissa Reynolds,Female,50,Manchester,2026-05-24,2026-07-10,23.08,5.0,melissa.reynolds957@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST01112,Kimberly Young,Female,33,Sydney,2025-02-24,2026-01-15,112.38,3.0,kimberly.young589@gmail.com,Furniture,Cash on Delivery
+CUST01113,Michelle Copeland,Female,35,Faisalabad,2023-01-01,2026-06-13,49.27,4.0,michelle.copeland533@hotmail.com,Toys & Games,Bank Transfer
+CUST01114,Kristen Short,Female,26,Multan,2023-03-31,2024-07-20,92.32,5.0,kristen.short199@yahoo.com,Electronics,Credit Card
+CUST01115,Ashley Cervantes,Female,40,Lahore,2025-07-29,2026-03-25,23.65,4.0,ashley.cervantes121@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST01116,Matthew Brown,Male,40,Houston,2023-05-29,2025-09-23,12.39,1.0,matthew.brown359@gmail.com,Automotive,PayPal
+CUST01117,Steven Fields,Male,31,Peshawar,2022-07-22,2022-08-15,49.17,4.0,steven.fields707@gmail.com,Beauty & Personal Care,Cash on Delivery
+CUST01118,Jesse Carter,Male,39,Islamabad,2024-12-18,2025-10-30,83.62,4.0,jesse.carter564@yahoo.com,Sports & Outdoors,Credit Card
+CUST01119,Michael Stewart,Male,24,Rawalpindi,2024-10-15,2025-09-22,54.47,4.0,michael.stewart742@hotmail.com,Furniture,Mobile Wallet
+CUST01120,Tony Graham,Male,47,Lahore,2026-05-28,2026-07-21,295.85,3.0,tony.graham339@yahoo.com,Sports & Outdoors,PayPal
+CUST01121,Kevin Carr MD,Male,30,Manchester,2025-11-15,2026-07-08,42.24,4.0,kevin.carr.md37@yahoo.com,Groceries,Bank Transfer
+CUST01122,Stephanie Faulkner,Female,33,Faisalabad,2022-07-23,2026-01-28,129.76,4.0,stephanie.faulkner886@hotmail.com,Automotive,Cash on Delivery
+CUST01123,Ian Callahan,Male,36,London,2025-12-11,2026-06-30,41.76,5.0,ian.callahan951@gmail.com,Electronics,Mobile Wallet
+CUST01124,Kevin Garrett,Male,35,Gujranwala,2025-05-05,2026-02-19,46.05,5.0,kevin.garrett324@yahoo.com,Automotive,Mobile Wallet
+CUST01125,Joshua Bates,Male,26,Lahore,2024-05-31,2024-12-31,164.7,4.0,joshua.bates340@gmail.com,Sports & Outdoors,Credit Card
+CUST01126,Ryan Ward,Male,18,Faisalabad,2024-03-10,2024-12-23,256.07,5.0,ryan.ward348@yahoo.com,Books,PayPal
+CUST01127,Meagan Taylor MD,Other,18,Dubai,2022-08-13,2023-07-19,90.64,4.0,meagan.taylor.md399@hotmail.com,Groceries,Mobile Wallet
+CUST01128,Mary Proctor,Female,40,Rawalpindi,2023-02-01,2024-10-25,52.41,5.0,mary.proctor323@gmail.com,Electronics,Cash on Delivery
+CUST01129,Jason Bryant,Male,27,Houston,2025-08-23,2025-10-07,71.02,4.0,jason.bryant244@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST01130,Marcus Gibson,Male,40,Gujranwala,2024-03-19,2024-10-27,101.8,4.0,marcus.gibson180@yahoo.com,Clothing,Cash on Delivery
+CUST01131,Darius Coleman,Male,42,Karachi,2022-08-01,2023-09-19,40.7,5.0,darius.coleman455@yahoo.com,Automotive,Credit Card
+CUST01132,Cynthia Shaw,Female,33,Manchester,2024-02-29,2025-07-26,29.76,3.0,cynthia.shaw349@hotmail.com,Toys & Games,PayPal
+CUST01133,Andrew Johnson,Male,43,Toronto,2024-06-12,2025-04-26,33.2,5.0,andrew.johnson147@yahoo.com,Clothing,Mobile Wallet
+CUST01134,John Vaughn,Male,18,Faisalabad,2023-02-10,2024-04-06,47.59,5.0,john.vaughn471@hotmail.com,Books,PayPal
+CUST01135,Scott Christensen,Male,43,Toronto,2023-08-25,2024-04-19,7.9,1.0,scott.christensen955@hotmail.com,Electronics,PayPal
+CUST01136,Steve Davis,Male,50,Sydney,2024-05-28,2024-08-26,88.4,4.0,steve.davis911@hotmail.com,Electronics,Credit Card
+CUST01137,Mary Sutton,Female,32,Toronto,2024-08-31,2026-07-07,57.24,5.0,mary.sutton24@hotmail.com,Furniture,Cash on Delivery
+CUST01138,Anthony Cooper,Male,21,Peshawar,2025-08-09,2026-01-21,13.78,3.0,anthony.cooper294@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST01139,Susan Berry,Female,53,New York,2023-11-08,2026-01-08,30.77,4.0,susan.berry121@yahoo.com,Beauty & Personal Care,Debit Card
+CUST01140,Dr. Dylan Johnson,Male,19,Multan,2026-03-03,2026-05-13,134.08,2.0,dr..dylan.johnson982@hotmail.com,Furniture,Mobile Wallet
+CUST01141,Rachel Green,Female,31,Toronto,2025-01-07,2025-04-22,115.47,3.0,rachel.green359@hotmail.com,Automotive,Cash on Delivery
+CUST01142,Anthony Mooney,Male,18,Sialkot,2025-09-21,2025-12-03,42.47,5.0,anthony.mooney824@hotmail.com,Beauty & Personal Care,Mobile Wallet
+CUST01143,Kari Martinez,Female,41,Quetta,2022-11-08,2023-10-25,160.08,2.0,kari.martinez628@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST01144,Lisa Hill,Female,21,London,2023-07-24,2023-11-05,49.52,3.0,lisa.hill483@hotmail.com,Electronics,Credit Card
+CUST01145,Carrie Vargas,Female,51,Chicago,2023-02-23,2023-06-14,23.87,2.0,carrie.vargas402@yahoo.com,Groceries,PayPal
+CUST01146,Christopher Patton,Male,45,Sydney,2023-06-24,2025-12-24,346.08,4.0,christopher.patton320@gmail.com,Sports & Outdoors,Debit Card
+CUST01147,Shannon Cooper,Female,31,Dubai,2022-11-19,2023-04-29,12.89,5.0,shannon.cooper774@gmail.com,Toys & Games,Mobile Wallet
+CUST01148,Samantha Monroe,Female,18,Faisalabad,2025-07-03,2025-08-20,12.28,5.0,samantha.monroe942@yahoo.com,Toys & Games,Credit Card
+CUST01149,David Alexander,Male,48,London,2025-01-19,2025-12-03,80.54,5.0,david.alexander728@gmail.com,Toys & Games,Bank Transfer
+CUST01150,Ryan Brown,Male,37,Quetta,2023-08-04,2024-11-05,97.8,3.0,ryan.brown918@gmail.com,Furniture,Cash on Delivery
+CUST01151,Julie Alvarez,Female,52,Los Angeles,2024-06-02,2025-07-09,87.0,3.0,julie.alvarez940@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST01152,Michael Price,Male,23,London,2023-08-01,2026-04-26,36.26,1.0,michael.price487@hotmail.com,Clothing,Cash on Delivery
+CUST01153,Alexandra Ho,Female,42,Manchester,2024-04-24,2025-08-10,46.69,5.0,alexandra.ho290@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST01154,Joseph Blanchard,Male,45,Singapore,2022-12-08,2023-08-26,100.09,4.0,joseph.blanchard416@hotmail.com,Clothing,Cash on Delivery
+CUST01155,Tyler Reynolds,Male,45,Dubai,2026-02-24,2026-03-15,304.78,5.0,tyler.reynolds546@yahoo.com,Toys & Games,Bank Transfer
+CUST01156,Debra Garcia,Female,43,Singapore,2025-02-12,2026-04-12,331.5,3.0,debra.garcia250@yahoo.com,Automotive,Debit Card
+CUST01157,Michael Allen,Male,46,Manchester,2025-03-09,2025-09-22,33.47,2.0,michael.allen214@gmail.com,Furniture,Bank Transfer
+CUST01158,Michael Kaiser,Male,22,Houston,2023-10-13,2025-05-16,131.86,5.0,michael.kaiser558@gmail.com,Home & Kitchen,Debit Card
+CUST01159,Sandra Smith,Female,25,Islamabad,2022-12-08,2026-02-26,126.33,5.0,sandra.smith118@gmail.com,Furniture,Mobile Wallet
+CUST01160,Gregory Hardy,Male,38,London,2023-07-17,2025-05-14,27.41,4.0,gregory.hardy842@gmail.com,Toys & Games,Debit Card
+CUST01161,Anna Mays,Female,31,Gujranwala,2025-02-15,2026-04-07,9.94,,anna.mays112@gmail.com,Furniture,Bank Transfer
+CUST01162,Margaret Erickson,Female,29,New York,2023-01-09,2025-10-18,10.77,4.0,margaret.erickson63@hotmail.com,Clothing,Debit Card
+CUST01163,Matthew Yoder,Male,32,Faisalabad,2024-10-09,2026-05-27,49.92,5.0,matthew.yoder652@gmail.com,Electronics,Debit Card
+CUST01164,Michael King,Male,22,Faisalabad,2024-05-20,2025-08-27,372.51,4.0,michael.king400@gmail.com,Furniture,Mobile Wallet
+CUST01165,Tammy Hill,Female,28,London,2024-03-24,2024-10-11,30.47,3.0,tammy.hill899@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST01166,Erica Martin,Female,37,Singapore,2022-11-04,2024-07-20,155.11,5.0,erica.martin960@gmail.com,Books,PayPal
+CUST01167,Faith Brown,Female,25,Los Angeles,2026-04-19,2026-05-01,66.72,4.0,faith.brown627@yahoo.com,Automotive,Bank Transfer
+CUST01168,Benjamin Krause,Male,18,Faisalabad,2023-05-05,2024-12-28,172.92,2.0,benjamin.krause923@yahoo.com,Automotive,Credit Card
+CUST01169,Katherine Thomas,Female,22,Lahore,2025-07-26,2026-07-22,51.85,4.0,katherine.thomas368@gmail.com,Clothing,Cash on Delivery
+CUST01170,Ashley Alexander,Female,37,Lahore,2023-07-27,2024-11-20,12.53,4.0,ashley.alexander605@gmail.com,Books,PayPal
+CUST01171,Laura King,Female,36,New York,2024-04-20,2026-04-19,76.49,4.0,laura.king391@yahoo.com,Books,Mobile Wallet
+CUST01172,Margaret Fitzpatrick,Female,39,Peshawar,2025-02-27,2026-02-02,76.19,3.0,margaret.fitzpatrick143@yahoo.com,Home & Kitchen,Mobile Wallet
+CUST01173,Gary Myers,Male,42,Chicago,2022-07-27,2024-08-03,23.95,5.0,gary.myers158@hotmail.com,Beauty & Personal Care,PayPal
+CUST01174,Katherine Graham,Female,32,Faisalabad,2025-11-10,2025-12-15,69.51,1.0,katherine.graham664@gmail.com,Electronics,Debit Card
+CUST01175,April Finley,Female,48,Manchester,2025-10-04,2026-05-16,21.74,5.0,april.finley140@yahoo.com,Clothing,Debit Card
+CUST01176,Kimberly Frey,Female,24,Houston,2023-11-11,2026-04-10,47.46,4.0,kimberly.frey808@yahoo.com,Furniture,Bank Transfer
+CUST01177,Mark Benjamin,Male,25,Sydney,2022-11-28,2023-12-02,86.35,4.0,mark.benjamin435@hotmail.com,Automotive,Bank Transfer
+CUST01178,Gerald Randall,Male,45,Chicago,2025-07-14,2026-01-12,127.62,3.0,gerald.randall435@yahoo.com,Furniture,Credit Card
+CUST01179,Christopher Williams,Male,19,Singapore,2024-01-22,2025-06-16,33.71,5.0,christopher.williams243@gmail.com,Automotive,Cash on Delivery
+CUST01180,James Rodriguez,Male,49,Houston,2025-04-02,2026-07-21,75.25,4.0,james.rodriguez376@yahoo.com,Electronics,Credit Card
+CUST01181,Mackenzie Moss,Female,42,Singapore,2023-02-07,2025-10-24,803.83,5.0,mackenzie.moss116@gmail.com,Furniture,Bank Transfer
+CUST01182,Zachary Allen,Male,18,Islamabad,2024-01-29,2024-06-23,146.76,5.0,zachary.allen540@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST01183,Kathryn Hanna,Female,18,Toronto,2025-09-25,2025-11-05,39.03,4.0,kathryn.hanna625@gmail.com,Clothing,Debit Card
+CUST01184,Anthony French,Male,27,Manchester,2022-09-21,2026-04-05,51.46,,anthony.french984@gmail.com,Clothing,PayPal
+CUST01185,Matthew Mills,Male,34,Dubai,2026-03-28,2026-07-09,85.39,4.0,matthew.mills628@hotmail.com,Electronics,Cash on Delivery
+CUST01186,Lauren Buckley,Female,50,Dubai,2022-09-12,2022-10-05,90.4,4.0,lauren.buckley525@gmail.com,Toys & Games,Mobile Wallet
+CUST01187,Alec Meadows,Male,25,New York,2024-12-22,2026-02-27,15.34,4.0,alec.meadows818@gmail.com,Beauty & Personal Care,Cash on Delivery
+CUST01188,Bianca Jackson,Female,21,Multan,2022-10-01,2022-12-13,185.6,5.0,bianca.jackson612@yahoo.com,Beauty & Personal Care,PayPal
+CUST01189,Brent Carr,Male,23,Singapore,2025-10-29,2026-03-12,89.48,2.0,brent.carr485@gmail.com,Furniture,Debit Card
+CUST01190,Ashley Crawford,Female,48,Singapore,2025-09-07,2025-10-04,173.34,5.0,ashley.crawford299@gmail.com,Furniture,Credit Card
+CUST01191,Christina Rogers,Female,34,Gujranwala,2025-10-30,2026-07-06,176.8,2.0,christina.rogers518@hotmail.com,Clothing,Cash on Delivery
+CUST01192,Erika Daugherty,Female,20,Sialkot,2024-10-23,2025-03-08,99.94,4.0,erika.daugherty282@gmail.com,Beauty & Personal Care,Credit Card
+CUST01193,Vincent Lewis,Male,29,,2022-09-25,2026-02-13,13.95,3.0,vincent.lewis606@gmail.com,Groceries,PayPal
+CUST01194,Barbara Thomas,Female,30,London,2024-03-07,2025-03-21,97.01,5.0,barbara.thomas268@hotmail.com,Home & Kitchen,Bank Transfer
+CUST01195,Christopher Sanchez,Male,65,Multan,2024-10-31,2026-04-25,37.41,5.0,christopher.sanchez352@gmail.com,Clothing,Debit Card
+CUST01196,Sarah Salazar,Female,37,Sydney,2025-08-07,2025-10-25,29.56,5.0,sarah.salazar771@gmail.com,Books,Bank Transfer
+CUST01197,Angela Smith,Female,42,Quetta,2026-03-08,2026-06-29,21.26,5.0,angela.smith172@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST01198,Stacie Butler,Female,34,Los Angeles,2025-09-19,2025-10-17,39.24,4.0,stacie.butler774@yahoo.com,Clothing,Credit Card
+CUST01199,Christine Bowman,Female,24,Multan,2024-08-08,2025-11-27,25.24,4.0,christine.bowman309@yahoo.com,Toys & Games,PayPal
+CUST01200,Carrie Holt,Female,54,Dubai,2024-11-21,2025-07-19,111.79,4.0,carrie.holt723@hotmail.com,Books,Bank Transfer
+CUST01201,Travis Burton,Male,28,Sialkot,2025-08-14,2025-10-28,467.6,4.0,travis.burton446@yahoo.com,Electronics,Cash on Delivery
+CUST01202,Justin Lee,Male,41,London,2026-06-02,2026-06-27,335.87,5.0,justin.lee985@gmail.com,Automotive,PayPal
+CUST01203,Scott Hatfield,Male,30,Karachi,2024-07-17,2024-10-25,57.97,5.0,scott.hatfield653@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST01204,Mary Hill,Female,22,Sydney,2023-04-25,2024-11-04,201.74,4.0,mary.hill274@gmail.com,Clothing,Cash on Delivery
+CUST01205,Tracy Wells,Female,52,Singapore,2023-03-31,2025-06-10,39.6,4.0,tracy.wells692@hotmail.com,Home & Kitchen,PayPal
+CUST01206,Anthony Diaz,Male,43,Singapore,2023-05-17,2024-06-20,58.95,4.0,anthony.diaz694@yahoo.com,Groceries,Cash on Delivery
+CUST01207,Robert Chang,Male,37,Dubai,2022-09-21,2022-10-13,27.63,5.0,robert.chang852@hotmail.com,Clothing,Credit Card
+CUST01208,Joshua Moore,Other,27,Houston,2022-09-01,2023-03-21,57.45,4.0,joshua.moore702@hotmail.com,Toys & Games,Cash on Delivery
+CUST01209,Steven Griffith,Male,19,Quetta,2024-11-16,2025-09-03,68.02,3.0,steven.griffith35@yahoo.com,Electronics,Mobile Wallet
+CUST01210,Nicole Villanueva,Female,21,Islamabad,2023-06-16,2023-10-11,14.61,5.0,nicole.villanueva673@gmail.com,Home & Kitchen,Mobile Wallet
+CUST01211,Brent Rojas,Male,32,Rawalpindi,2025-12-17,2026-06-17,158.22,5.0,brent.rojas89@yahoo.com,Furniture,Debit Card
+CUST01212,Benjamin Richards,Male,26,Chicago,2022-10-07,2026-06-13,386.81,5.0,benjamin.richards664@yahoo.com,Furniture,Debit Card
+CUST01213,Tanya Gibson,Female,37,Rawalpindi,2024-01-27,2026-01-09,105.61,3.0,tanya.gibson302@gmail.com,Toys & Games,PayPal
+CUST01214,Cheyenne Howard,Female,34,Islamabad,2023-08-11,2026-02-25,22.74,5.0,cheyenne.howard284@yahoo.com,Books,PayPal
+CUST01215,Melissa Brown,Female,18,New York,2023-02-02,2024-07-14,255.02,3.0,melissa.brown76@yahoo.com,Beauty & Personal Care,Credit Card
+CUST01216,Christopher Cooper,Male,31,Chicago,2026-01-10,2026-04-20,27.99,4.0,christopher.cooper62@hotmail.com,Beauty & Personal Care,Cash on Delivery
+CUST01217,Robert Cisneros,Male,24,Multan,2026-02-06,2026-05-30,122.58,2.0,robert.cisneros951@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST01218,Dr. Brandon Vincent,Male,60,Chicago,2024-06-21,2024-12-21,194.71,4.0,dr..brandon.vincent112@gmail.com,Groceries,Mobile Wallet
+CUST01219,Sara Ramirez,Female,18,Houston,2025-05-31,2025-09-20,152.59,4.0,sara.ramirez109@hotmail.com,Toys & Games,PayPal
+CUST01220,Danielle Hamilton,Female,25,Sialkot,2023-06-05,2024-01-03,71.55,1.0,danielle.hamilton73@hotmail.com,Furniture,PayPal
+CUST01221,Susan Villanueva,Female,32,Sialkot,2024-03-10,2026-05-15,137.49,4.0,susan.villanueva919@gmail.com,Toys & Games,Debit Card
+CUST01222,John Mack,Male,34,Lahore,2022-09-08,2022-11-25,62.3,5.0,john.mack273@hotmail.com,Groceries,PayPal
+CUST01223,Robert Horton,Male,25,New York,2022-12-09,2025-02-18,77.89,4.0,robert.horton528@yahoo.com,Toys & Games,Bank Transfer
+CUST01224,Kristin Smith,Female,41,Houston,2025-06-03,2025-12-27,254.73,5.0,kristin.smith800@gmail.com,Clothing,Mobile Wallet
+CUST01225,Elizabeth Holland,Female,34,Quetta,2022-11-28,2022-12-05,31.56,4.0,elizabeth.holland706@yahoo.com,Toys & Games,Credit Card
+CUST01226,Candice Stevens,Female,40,Singapore,2024-10-15,2026-04-17,111.36,,candice.stevens368@hotmail.com,Sports & Outdoors,PayPal
+CUST01227,Jesse Ingram,Male,41,Gujranwala,2025-12-23,2026-04-05,32.07,2.0,jesse.ingram982@yahoo.com,Clothing,Cash on Delivery
+CUST01228,Seth Sims,Male,40,Dubai,2025-04-24,2026-07-05,6.83,5.0,seth.sims83@gmail.com,Toys & Games,Cash on Delivery
+CUST01229,Andrea Barry,Female,37,Peshawar,2023-11-10,2024-05-09,102.04,4.0,andrea.barry991@gmail.com,Books,PayPal
+CUST01230,Nicole Wolfe,Female,26,Peshawar,2024-12-14,2025-10-17,46.4,5.0,nicole.wolfe918@hotmail.com,Clothing,PayPal
+CUST01231,Richard Miller,Male,19,Los Angeles,2026-01-02,2026-05-07,264.11,2.0,richard.miller648@hotmail.com,Toys & Games,PayPal
+CUST01232,Jose Kent,Male,45,Peshawar,2023-12-24,2024-05-16,80.4,1.0,jose.kent26@gmail.com,Furniture,Debit Card
+CUST01233,Jacob Harvey,Male,31,Manchester,2023-12-27,2025-01-29,18.09,2.0,jacob.harvey554@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST01234,Michael Castro,Male,40,Dubai,2025-08-01,2026-03-20,97.16,5.0,michael.castro17@gmail.com,Electronics,Cash on Delivery
+CUST01235,Cynthia Wilson DDS,Female,48,Karachi,2026-03-26,2026-05-09,40.31,5.0,cynthia.wilson.dds44@hotmail.com,Books,Credit Card
+CUST01236,Michele Mullins,Female,40,Peshawar,2025-07-14,2026-06-14,179.68,5.0,michele.mullins470@yahoo.com,Automotive,Debit Card
+CUST01237,Debra Frazier,Female,18,Singapore,2023-08-22,2024-12-12,321.2,5.0,debra.frazier38@gmail.com,Groceries,Bank Transfer
+CUST01238,Jodi Mason,Female,62,Lahore,2025-10-21,2026-06-20,148.43,5.0,jodi.mason634@yahoo.com,Electronics,Debit Card
+CUST01239,Michael Patel,Male,48,Faisalabad,2023-09-13,2023-10-13,380.61,3.0,michael.patel52@hotmail.com,Beauty & Personal Care,Credit Card
+CUST01240,Michael Steele,Male,36,London,2026-05-21,2026-06-30,38.37,3.0,michael.steele606@gmail.com,Clothing,Credit Card
+CUST01241,Stacey Miller,Female,18,Rawalpindi,2024-02-01,2025-06-25,75.12,4.0,stacey.miller631@gmail.com,Home & Kitchen,Credit Card
+CUST01242,Tina Rodriguez,Female,33,Peshawar,2023-08-20,2026-01-09,32.31,4.0,tina.rodriguez856@hotmail.com,Books,Cash on Delivery
+CUST01243,Chris Harris,Male,28,Rawalpindi,2026-04-14,2026-07-11,40.72,4.0,chris.harris141@gmail.com,Sports & Outdoors,Debit Card
+CUST01244,Wayne Weaver,Male,33,Karachi,2023-01-26,2026-05-25,40.26,3.0,wayne.weaver65@yahoo.com,Clothing,Cash on Delivery
+CUST01245,Nancy Smith,Female,18,Faisalabad,2023-04-18,2025-08-16,49.16,3.0,nancy.smith379@gmail.com,Automotive,Debit Card
+CUST01246,Crystal Meza,Female,35,London,2025-01-29,2025-10-06,23.23,5.0,crystal.meza42@yahoo.com,Groceries,Credit Card
+CUST01247,Matthew Buchanan,Male,36,Sydney,2024-06-16,2025-07-07,34.43,5.0,matthew.buchanan17@hotmail.com,Toys & Games,Credit Card
+CUST01248,Sarah Wallace,Female,36,Lahore,2023-09-30,2023-10-15,167.53,3.0,sarah.wallace92@gmail.com,Furniture,Cash on Delivery
+CUST01249,Elizabeth Mccormick,Female,60,Houston,2023-06-11,2026-02-10,114.06,5.0,elizabeth.mccormick212@yahoo.com,Groceries,PayPal
+CUST01250,Dr. Anthony Gomez,Male,29,Sialkot,2024-05-04,2025-10-22,54.77,4.0,dr..anthony.gomez245@gmail.com,Groceries,Mobile Wallet
+CUST01251,Christopher Nichols,Male,18,Karachi,2023-04-08,2024-04-11,74.27,5.0,christopher.nichols627@gmail.com,Clothing,PayPal
+CUST01252,Michael Estrada,Male,46,Gujranwala,2023-02-26,2025-02-08,10.02,4.0,michael.estrada572@gmail.com,Home & Kitchen,Debit Card
+CUST01253,Xavier Andrews,Male,21,Rawalpindi,2024-04-12,2025-10-07,328.05,5.0,xavier.andrews634@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST01254,Kristina Johnson,Female,30,Toronto,2023-10-18,2024-05-30,62.94,4.0,kristina.johnson642@yahoo.com,Home & Kitchen,Cash on Delivery
+CUST01255,Jerry Cantrell,Male,36,Karachi,2024-08-23,2025-03-10,105.29,2.0,jerry.cantrell153@gmail.com,Toys & Games,Bank Transfer
+CUST01256,Jennifer Porter,Female,23,Multan,2023-02-15,2024-01-09,15.83,5.0,jennifer.porter45@yahoo.com,Electronics,PayPal
+CUST01257,Christopher Cordova,Male,42,Los Angeles,2024-09-10,2025-06-29,170.06,3.0,christopher.cordova258@hotmail.com,Sports & Outdoors,Mobile Wallet
+CUST01258,Michele Wells,Female,44,London,2023-09-09,2023-12-07,63.86,2.0,michele.wells54@hotmail.com,Automotive,Debit Card
+CUST01259,Robert Chandler,Male,24,Multan,2026-03-02,2026-03-10,20.47,4.0,robert.chandler119@yahoo.com,Clothing,Debit Card
+CUST01260,Monique Mccullough,Female,35,London,2023-02-06,2026-06-04,69.83,4.0,monique.mccullough430@hotmail.com,Home & Kitchen,PayPal
+CUST01261,Alexander Williamson,Male,18,New York,2023-06-02,2024-09-16,14.41,5.0,alexander.williamson334@yahoo.com,Home & Kitchen,Credit Card
+CUST01262,Anthony Davidson,Other,41,Quetta,2024-11-02,2025-12-30,41.25,5.0,anthony.davidson385@gmail.com,Home & Kitchen,Credit Card
+CUST01263,Randall Gonzalez,Male,28,Manchester,2022-11-18,2026-03-01,281.25,4.0,randall.gonzalez912@yahoo.com,Books,Debit Card
+CUST01264,Tina Daugherty,Female,40,Peshawar,2024-02-06,2025-10-23,102.3,4.0,tina.daugherty397@yahoo.com,Sports & Outdoors,Debit Card
+CUST01265,Lisa Harding,Female,36,London,2026-02-10,2026-04-01,47.96,4.0,lisa.harding999@yahoo.com,Beauty & Personal Care,Debit Card
+CUST01266,Mike Patterson,Male,50,New York,2024-01-25,2024-06-04,9.07,1.0,mike.patterson583@gmail.com,Electronics,Cash on Delivery
+CUST01267,Gregory Madden,Male,36,Faisalabad,2025-12-24,2026-01-22,67.06,5.0,gregory.madden470@gmail.com,Books,Debit Card
+CUST01268,Stephen Figueroa,Male,23,New York,2024-03-07,2024-10-19,288.95,5.0,stephen.figueroa619@yahoo.com,Groceries,PayPal
+CUST01269,Robert Waller,Male,51,Sydney,2024-03-19,2024-09-10,23.29,4.0,robert.waller567@yahoo.com,Home & Kitchen,Credit Card
+CUST01270,Laurie Miller,Female,18,Houston,2023-05-15,2026-04-18,25.89,4.0,laurie.miller222@yahoo.com,Furniture,Bank Transfer
+CUST01271,Kelly Rogers DVM,Female,20,London,2024-11-13,2025-08-26,84.54,1.0,kelly.rogers.dvm439@yahoo.com,Home & Kitchen,Debit Card
+CUST01272,Jason Rocha,Male,60,New York,2024-03-06,2025-05-25,280.06,4.0,jason.rocha914@hotmail.com,Furniture,Debit Card
+CUST01273,Keith Melendez,Male,49,Singapore,2023-05-03,2023-05-14,38.03,4.0,keith.melendez46@yahoo.com,Electronics,Bank Transfer
+CUST01274,Katherine Carson,Female,45,Toronto,2023-09-27,2023-12-05,25.29,4.0,katherine.carson404@hotmail.com,Toys & Games,PayPal
+CUST01275,Kristin Ford,Female,42,Rawalpindi,2022-08-29,2025-03-13,140.51,4.0,kristin.ford86@gmail.com,Automotive,Credit Card
+CUST01276,Elizabeth Davidson,Female,21,Houston,2025-01-17,2025-08-29,64.57,3.0,elizabeth.davidson303@gmail.com,Home & Kitchen,PayPal
+CUST01277,Steven Butler,Male,56,Islamabad,2024-06-24,2024-07-11,17.69,4.0,steven.butler313@hotmail.com,Groceries,PayPal
+CUST01278,Alyssa Hubbard,Female,18,London,2024-06-26,2026-02-01,64.78,5.0,alyssa.hubbard25@gmail.com,Toys & Games,Bank Transfer
+CUST01279,Heidi Castillo,Female,35,Faisalabad,2024-04-06,2026-03-28,48.23,4.0,heidi.castillo809@yahoo.com,Sports & Outdoors,PayPal
+CUST01280,Karen Benson,Female,33,London,2023-01-09,2023-01-12,20.71,5.0,karen.benson73@hotmail.com,Books,PayPal
+CUST01281,Alan Green,Male,45,New York,2024-10-31,2026-04-28,449.67,1.0,alan.green437@gmail.com,Beauty & Personal Care,PayPal
+CUST01282,Shawn Taylor,Male,46,Sydney,2023-03-12,2026-03-27,69.86,4.0,shawn.taylor213@yahoo.com,Clothing,Mobile Wallet
+CUST01283,Mark Friedman,Male,46,New York,2022-09-29,2023-01-20,78.75,4.0,mark.friedman932@yahoo.com,Sports & Outdoors,Credit Card
+CUST01284,Taylor Palmer,Female,31,Rawalpindi,2025-07-22,2026-02-04,217.19,4.0,taylor.palmer634@gmail.com,Electronics,Cash on Delivery
+CUST01285,Linda Jackson,Female,36,Los Angeles,2023-10-26,2024-04-23,140.33,4.0,linda.jackson722@yahoo.com,Clothing,Mobile Wallet
+CUST01286,Michael Turner,Male,25,Peshawar,2025-03-28,2025-06-07,37.55,5.0,michael.turner245@hotmail.com,Automotive,Credit Card
+CUST01287,Joseph Bell,Male,41,,2023-02-12,2026-05-16,12.79,5.0,joseph.bell720@gmail.com,Home & Kitchen,PayPal
+CUST01288,Jacqueline Washington,Female,58,Quetta,2023-11-20,2024-10-14,22.18,4.0,jacqueline.washington274@gmail.com,Automotive,PayPal
+CUST01289,Christopher Walker,Male,18,Houston,2023-04-17,2024-11-05,72.58,2.0,christopher.walker382@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST01290,Ronald Fox,Male,49,Manchester,2024-08-21,2026-01-17,46.68,4.0,ronald.fox126@hotmail.com,Toys & Games,PayPal
+CUST01291,Robert Butler,Male,51,Dubai,2026-02-21,2026-07-08,193.31,5.0,robert.butler463@gmail.com,Furniture,Cash on Delivery
+CUST01292,Tammy Mendoza,Female,62,Islamabad,2023-10-10,2024-04-20,17.61,5.0,tammy.mendoza469@yahoo.com,Clothing,Credit Card
+CUST01293,Jessica Huerta,Female,40,Chicago,2024-08-08,2025-02-08,79.76,3.0,jessica.huerta980@yahoo.com,Clothing,Credit Card
+CUST01294,Eric Garner,Other,23,Multan,2023-01-07,2024-07-26,165.08,2.0,eric.garner152@gmail.com,Toys & Games,Debit Card
+CUST01295,Brenda Perez,Female,31,Peshawar,2023-01-17,2025-12-19,100.06,5.0,brenda.perez24@gmail.com,Beauty & Personal Care,Bank Transfer
+CUST01296,Jeff Hines Jr.,Male,59,Dubai,2022-08-17,2023-05-15,66.73,4.0,jeff.hines.jr.431@yahoo.com,Toys & Games,PayPal
+CUST01297,Andrew Rodriguez,Male,44,Lahore,2025-08-29,2026-01-26,135.26,3.0,andrew.rodriguez23@hotmail.com,Home & Kitchen,Mobile Wallet
+CUST01298,John Kerr,Male,18,New York,2022-09-21,2025-01-12,45.89,4.0,john.kerr672@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST01299,Nicole Patton,Other,41,Singapore,2026-02-27,2026-07-13,78.95,5.0,nicole.patton456@gmail.com,Toys & Games,Cash on Delivery
+CUST01300,Curtis Lambert,Male,43,Singapore,2022-09-01,2023-05-30,129.18,5.0,curtis.lambert314@gmail.com,Groceries,Cash on Delivery
+CUST01301,Teresa Rush,Female,33,Quetta,2023-12-01,2025-04-10,97.05,4.0,teresa.rush296@gmail.com,Electronics,Debit Card
+CUST01302,Richard Austin,Male,49,Los Angeles,2024-07-13,2025-05-01,149.18,4.0,richard.austin171@gmail.com,Furniture,Debit Card
+CUST01303,Laura Smith,Female,35,Dubai,2023-05-28,2025-01-02,17.91,3.0,laura.smith180@gmail.com,Groceries,Debit Card
+CUST01304,Mr. Paul Smith,Male,57,Quetta,2025-05-24,2025-07-23,28.41,1.0,mr..paul.smith325@gmail.com,Furniture,Debit Card
+CUST01305,Sarah Wells,Female,28,London,2025-04-16,2025-08-28,18.61,4.0,sarah.wells211@gmail.com,Automotive,PayPal
+CUST01306,Tyler White,Male,42,Karachi,2023-12-11,2025-10-23,37.68,4.0,tyler.white353@yahoo.com,Groceries,Cash on Delivery
+CUST01307,Kayla Russell,Female,51,London,2025-07-15,2026-04-18,35.75,5.0,kayla.russell547@yahoo.com,Beauty & Personal Care,Credit Card
+CUST01308,Ashley Taylor,Female,30,Lahore,2025-07-16,2026-02-09,93.04,5.0,ashley.taylor787@hotmail.com,Groceries,Bank Transfer
+CUST01309,Miranda Miller,Female,18,New York,2024-06-27,2024-12-04,23.54,1.0,miranda.miller757@yahoo.com,Automotive,Mobile Wallet
+CUST01310,Kyle Collins,Male,23,New York,2026-05-18,2026-06-25,64.62,4.0,kyle.collins297@yahoo.com,Furniture,PayPal
+CUST01311,Jason Mercer,Male,46,Faisalabad,2024-03-25,2026-06-22,39.32,4.0,jason.mercer929@gmail.com,Toys & Games,Cash on Delivery
+CUST01312,Rebekah Crosby,Female,44,Rawalpindi,2023-12-29,2026-01-17,45.24,4.0,rebekah.crosby42@gmail.com,Groceries,PayPal
+CUST01313,Mrs. Ashley Kim DDS,Female,28,Dubai,2022-11-20,2023-07-18,97.6,4.0,mrs..ashley.kim.dds412@gmail.com,Furniture,Debit Card
+CUST01314,Melissa Madden,Female,36,London,2025-06-16,2025-12-16,92.55,2.0,melissa.madden57@gmail.com,Furniture,PayPal
+CUST01315,William Morgan,Male,61,Peshawar,2024-11-19,2026-07-10,67.22,4.0,william.morgan801@yahoo.com,Beauty & Personal Care,Debit Card
+CUST01316,Sara Hardy,Female,30,Lahore,2023-08-24,2024-02-12,34.63,4.0,sara.hardy457@hotmail.com,Clothing,Mobile Wallet
+CUST01317,Linda Avila,Female,33,Chicago,2025-09-10,2025-12-19,90.61,4.0,linda.avila618@yahoo.com,Furniture,Mobile Wallet
+CUST01318,Mary Clements,Female,43,Karachi,2026-06-04,2026-07-17,113.45,4.0,mary.clements152@hotmail.com,Books,Cash on Delivery
+CUST01319,Patricia Rodriguez,Female,44,Chicago,2023-07-15,2025-08-17,45.44,1.0,patricia.rodriguez354@yahoo.com,Sports & Outdoors,Cash on Delivery
+CUST01320,Tommy Johnson,Male,47,London,2025-06-11,2026-03-26,146.22,2.0,tommy.johnson746@gmail.com,Toys & Games,PayPal
+CUST01321,Alyssa White,Female,41,Houston,2024-12-03,2026-03-02,47.91,3.0,alyssa.white826@yahoo.com,Books,PayPal
+CUST01322,Marco Davis,Male,35,Houston,2022-11-08,2023-08-21,58.25,5.0,marco.davis613@hotmail.com,Clothing,Debit Card
+CUST01323,Ricky Harris,Male,30,Peshawar,2025-02-23,2025-12-31,171.57,4.0,ricky.harris889@yahoo.com,Automotive,Cash on Delivery
+CUST01324,Joshua Pacheco,Male,37,Islamabad,2024-09-02,2026-04-30,201.6,5.0,joshua.pacheco91@gmail.com,Electronics,Bank Transfer
+CUST01325,Andre Jordan,Male,36,Sialkot,2026-02-20,2026-06-07,338.96,3.0,andre.jordan474@yahoo.com,Furniture,Debit Card
+CUST01326,Sarah Ramos,Female,50,Peshawar,2022-09-11,2023-09-27,58.18,5.0,sarah.ramos297@gmail.com,Automotive,Bank Transfer
+CUST01327,Shannon Turner,Female,27,Karachi,2025-04-27,2026-06-23,88.52,5.0,shannon.turner855@yahoo.com,Furniture,Cash on Delivery
+CUST01328,Emily Price,Female,49,Manchester,2025-07-19,2026-05-02,172.71,5.0,emily.price230@hotmail.com,Electronics,Credit Card
+CUST01329,Matthew Jennings,Male,39,Faisalabad,2024-10-17,2025-07-13,115.28,4.0,matthew.jennings656@yahoo.com,Toys & Games,Credit Card
+CUST01330,Christopher Brown,Male,46,Gujranwala,2023-08-02,2025-12-04,54.57,3.0,christopher.brown929@hotmail.com,Home & Kitchen,Credit Card
+CUST01331,Mr. Harold Levine,Male,35,Rawalpindi,2023-10-23,2025-12-15,78.93,3.0,mr..harold.levine994@gmail.com,Clothing,Mobile Wallet
+CUST01332,Bethany Richardson,Female,24,Los Angeles,2025-09-22,2026-07-17,31.4,4.0,bethany.richardson447@hotmail.com,Beauty & Personal Care,PayPal
+CUST01333,Stephanie Peterson,Female,46,Manchester,2022-12-08,2023-08-10,34.58,4.0,stephanie.peterson751@yahoo.com,Furniture,Credit Card
+CUST01334,Jason Brown II,Male,40,Sialkot,2023-06-22,2024-05-21,69.1,4.0,jason.brown.ii150@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST01335,Thomas Jones,Male,18,Faisalabad,2023-10-01,2025-10-02,21.59,3.0,thomas.jones280@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST01336,Kimberly Johnson,Female,47,Los Angeles,2025-02-17,2025-04-08,57.84,3.0,kimberly.johnson543@yahoo.com,Clothing,Mobile Wallet
+CUST01337,Stephanie Adams,Female,21,Peshawar,2025-04-12,2026-05-10,68.17,4.0,stephanie.adams784@hotmail.com,Clothing,Mobile Wallet
+CUST01338,Eugene Hudson,Other,32,Multan,2023-10-26,2025-05-05,60.6,4.0,eugene.hudson324@gmail.com,Beauty & Personal Care,Cash on Delivery
+CUST01339,Ariel Leonard,Female,18,Los Angeles,2023-11-14,2024-02-21,320.95,4.0,ariel.leonard361@hotmail.com,Groceries,Credit Card
+CUST01340,Michael Jackson,Male,27,Faisalabad,2023-09-23,2025-04-22,112.67,4.0,michael.jackson497@yahoo.com,Books,Cash on Delivery
+CUST01341,Madison Dickson,Female,23,Multan,2022-11-06,2023-06-04,345.34,3.0,madison.dickson516@hotmail.com,Home & Kitchen,Debit Card
+CUST01342,Derek Evans,Male,45,Dubai,2024-10-19,2026-07-10,31.65,5.0,derek.evans976@gmail.com,Automotive,Mobile Wallet
+CUST01343,Tina Robbins,Female,45,Dubai,2024-10-26,2025-02-20,14.81,4.0,tina.robbins939@hotmail.com,Clothing,Credit Card
+CUST01344,Austin Solis,Other,44,Faisalabad,2024-06-01,2024-06-19,59.75,4.0,austin.solis320@gmail.com,Sports & Outdoors,Debit Card
+CUST01345,Billy Colon,Male,18,London,2024-07-13,2026-03-17,46.17,4.0,billy.colon994@yahoo.com,Sports & Outdoors,Debit Card
+CUST01346,Joshua Gonzalez,Male,26,Gujranwala,2024-02-17,2024-03-18,106.61,5.0,joshua.gonzalez122@hotmail.com,Home & Kitchen,Debit Card
+CUST01347,Michael Kelley,Male,36,Faisalabad,2026-01-02,2026-06-28,51.44,3.0,michael.kelley129@hotmail.com,Home & Kitchen,Debit Card
+CUST01348,Shari Ray,Female,23,Islamabad,2023-05-22,2025-10-09,56.64,5.0,shari.ray803@hotmail.com,Clothing,Credit Card
+CUST01349,Debra Little,Female,20,Lahore,2025-09-21,2026-05-27,17.45,5.0,debra.little44@yahoo.com,Home & Kitchen,Credit Card
+CUST01350,Molly Brown,Female,27,Karachi,2023-05-05,2026-03-22,89.68,4.0,molly.brown481@yahoo.com,Clothing,Cash on Delivery
+CUST01351,Chris Jennings,Male,33,Karachi,2023-09-24,2024-02-07,44.33,4.0,chris.jennings11@yahoo.com,Clothing,Credit Card
+CUST01352,Shannon Pruitt,Female,26,Sydney,2025-01-14,2025-08-13,11.34,4.0,shannon.pruitt205@yahoo.com,Groceries,PayPal
+CUST01353,Donna Martin,Female,48,Los Angeles,2025-03-30,2025-04-14,68.39,2.0,donna.martin867@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST01354,Ashley Lee,Female,38,Los Angeles,2023-07-08,2025-06-29,65.36,3.0,ashley.lee513@yahoo.com,Furniture,Debit Card
+CUST01355,Kristin Graham,Female,37,Toronto,2025-02-01,2025-04-12,15.44,2.0,kristin.graham593@gmail.com,Electronics,Mobile Wallet
+CUST01356,Dominic Johnson,Other,23,Peshawar,2025-08-25,2025-12-02,215.54,5.0,dominic.johnson176@yahoo.com,Automotive,Credit Card
+CUST01357,Christopher Phelps,Male,18,Rawalpindi,2026-05-01,2026-05-29,41.87,5.0,christopher.phelps872@yahoo.com,Toys & Games,Cash on Delivery
+CUST01358,Amy Mosley,Female,47,Singapore,2023-10-14,2024-04-21,42.61,4.0,amy.mosley981@yahoo.com,Clothing,Debit Card
+CUST01359,Steven Russell,Male,22,Los Angeles,2023-12-24,2025-01-16,32.76,4.0,steven.russell527@hotmail.com,Home & Kitchen,Bank Transfer
+CUST01360,James Larsen,Male,18,Rawalpindi,2025-11-08,2026-04-18,101.94,2.0,james.larsen113@gmail.com,Automotive,Debit Card
+CUST01361,Nicholas Fitzpatrick,Male,46,Manchester,2024-08-06,2025-08-11,50.84,5.0,nicholas.fitzpatrick571@hotmail.com,Electronics,Credit Card
+CUST01362,Tara King,Female,18,New York,2026-01-07,2026-05-14,61.72,2.0,tara.king291@gmail.com,Toys & Games,Mobile Wallet
+CUST01363,Raymond Edwards,Male,22,Gujranwala,2025-10-25,2026-06-10,25.72,3.0,raymond.edwards418@hotmail.com,Beauty & Personal Care,Bank Transfer
+CUST01364,Paul Young,Male,40,Peshawar,2024-03-18,2024-05-29,40.63,5.0,paul.young822@gmail.com,Toys & Games,PayPal
+CUST01365,Daniel Hill,Male,24,Los Angeles,2024-02-26,2024-08-28,88.91,1.0,daniel.hill691@hotmail.com,Toys & Games,PayPal
+CUST01366,Joseph Lyons,Male,37,Rawalpindi,2022-12-30,2025-03-21,215.5,4.0,joseph.lyons675@hotmail.com,Clothing,Credit Card
+CUST01367,Michael Richmond,Male,32,Faisalabad,2025-12-31,2026-04-12,81.31,4.0,michael.richmond605@gmail.com,Clothing,PayPal
+CUST01368,Michelle Underwood,Female,35,Multan,2022-08-21,2023-01-01,49.75,4.0,michelle.underwood204@hotmail.com,Sports & Outdoors,Debit Card
+CUST01369,Nancy Lindsey,Female,27,Sydney,2022-10-08,2025-01-13,29.91,2.0,nancy.lindsey859@hotmail.com,Books,PayPal
+CUST01370,Juan Parker,Male,18,Manchester,2026-04-23,2026-05-29,15.8,5.0,juan.parker785@yahoo.com,Furniture,Mobile Wallet
+CUST01371,Melinda Nichols,Female,40,Sialkot,2023-06-25,2025-09-22,30.53,4.0,melinda.nichols683@yahoo.com,Furniture,Bank Transfer
+CUST01372,Theodore Long,Male,35,Manchester,2026-05-21,2026-06-23,11.34,3.0,theodore.long787@yahoo.com,Toys & Games,Credit Card
+CUST01373,Taylor Sherman,Female,44,Rawalpindi,2023-09-20,2025-02-15,214.96,4.0,taylor.sherman237@gmail.com,Groceries,Credit Card
+CUST01374,Mark Suarez,Male,24,Rawalpindi,2025-07-23,2025-08-20,72.81,5.0,mark.suarez511@yahoo.com,Electronics,Debit Card
+CUST01375,Donald Miller,Male,28,Chicago,2025-08-10,2026-06-16,61.24,5.0,donald.miller157@yahoo.com,Beauty & Personal Care,Mobile Wallet
+CUST01376,Jason Randall,Male,30,Sydney,2025-05-13,2025-07-02,59.66,5.0,jason.randall677@gmail.com,Automotive,Bank Transfer
+CUST01377,Michael Hunter,Male,41,London,2023-12-07,2024-07-01,59.1,3.0,michael.hunter510@hotmail.com,Toys & Games,Mobile Wallet
+CUST01378,Joshua Murphy,Male,30,Sialkot,2025-04-11,2026-01-14,84.98,4.0,joshua.murphy881@gmail.com,Automotive,Mobile Wallet
+CUST01379,Catherine Ramos,Other,50,Lahore,2025-01-24,2025-02-26,40.09,5.0,catherine.ramos902@gmail.com,Clothing,Bank Transfer
+CUST01380,Mark Edwards,Male,20,London,2022-11-16,2024-08-22,103.42,5.0,mark.edwards454@gmail.com,Toys & Games,Credit Card
+CUST01381,Micheal Saunders,Male,38,Karachi,2025-02-04,2025-08-05,144.84,4.0,micheal.saunders882@gmail.com,Beauty & Personal Care,PayPal
+CUST01382,Melissa Sparks,Female,32,Multan,2023-10-22,2025-03-09,41.45,4.0,melissa.sparks320@yahoo.com,Books,Bank Transfer
+CUST01383,Casey Thompson,Male,18,Rawalpindi,2024-11-16,2026-06-22,218.8,5.0,casey.thompson676@yahoo.com,Automotive,PayPal
+CUST01384,Craig Perry,Male,49,Dubai,2023-04-08,2026-06-23,93.86,4.0,craig.perry576@yahoo.com,Groceries,Mobile Wallet
+CUST01385,Stephen Walker,Male,31,Karachi,2026-04-08,2026-05-29,49.23,3.0,stephen.walker606@hotmail.com,Books,Mobile Wallet
+CUST01386,Mark Meadows,Male,46,Los Angeles,2026-05-15,2026-06-21,19.4,4.0,mark.meadows29@gmail.com,Furniture,Credit Card
+CUST01387,Sarah Williams,Female,23,Faisalabad,2024-12-22,2026-01-02,236.15,4.0,sarah.williams760@hotmail.com,Furniture,Credit Card
+CUST01388,Ann Richardson,Female,33,New York,2026-04-07,2026-05-26,18.36,2.0,ann.richardson354@gmail.com,Sports & Outdoors,Bank Transfer
+CUST01389,Kelly Ayala,Female,31,Los Angeles,2026-03-11,2026-03-26,137.14,5.0,kelly.ayala254@hotmail.com,Home & Kitchen,PayPal
+CUST01390,Courtney Harris,Female,30,Gujranwala,2026-04-05,2026-06-20,58.2,2.0,courtney.harris705@yahoo.com,Clothing,Cash on Delivery
+CUST01391,Kathleen Anderson,Female,27,Rawalpindi,2025-11-28,2026-02-23,19.2,3.0,kathleen.anderson552@hotmail.com,Sports & Outdoors,Credit Card
+CUST01392,Roger Acosta,Male,29,London,2023-04-18,2025-08-31,32.77,4.0,roger.acosta924@gmail.com,Books,Cash on Delivery
+CUST01393,Charles Roberts,Male,22,Lahore,2023-07-31,2026-03-19,64.01,4.0,charles.roberts325@hotmail.com,Books,Mobile Wallet
+CUST01394,David Aguilar,Male,38,Chicago,2025-02-02,2025-12-30,295.38,,david.aguilar828@gmail.com,Toys & Games,Credit Card
+CUST01395,Brandi Morris,Female,53,Peshawar,2025-04-08,2025-09-28,585.69,4.0,brandi.morris831@hotmail.com,Sports & Outdoors,Debit Card
+CUST01396,James Henderson,Male,21,Sydney,2024-11-22,2025-09-25,17.65,4.0,james.henderson447@gmail.com,Home & Kitchen,Bank Transfer
+CUST01397,Amy Cook,Female,39,Islamabad,2023-06-23,2026-06-25,59.01,3.0,amy.cook272@yahoo.com,Electronics,Cash on Delivery
+CUST01398,Dr. Tracy George PhD,Female,46,Singapore,2022-09-25,2024-12-27,82.99,5.0,dr..tracy.george.phd640@yahoo.com,Clothing,PayPal
+CUST01399,James Madden,Male,32,Singapore,2025-03-08,2025-04-26,14.84,4.0,james.madden280@gmail.com,Clothing,Mobile Wallet
+CUST01400,Mr. Kevin Green,Male,38,Toronto,2024-07-11,2025-11-10,78.1,4.0,mr..kevin.green356@yahoo.com,Clothing,PayPal
+CUST01401,Carlos Stewart,Male,38,Gujranwala,2024-08-19,2026-01-18,60.85,5.0,carlos.stewart444@gmail.com,Automotive,Cash on Delivery
+CUST01402,Erik Good,Male,18,Peshawar,2024-07-05,2025-09-03,57.63,4.0,erik.good640@yahoo.com,Automotive,Bank Transfer
+CUST01403,Tammy Campbell,Female,53,Dubai,2025-12-27,2026-02-12,95.41,5.0,tammy.campbell643@hotmail.com,Automotive,Debit Card
+CUST01404,Tammy Black,Female,25,Singapore,2024-04-05,2025-08-30,11.97,3.0,tammy.black986@gmail.com,Toys & Games,Cash on Delivery
+CUST01405,Wendy Gallagher,Female,49,Dubai,2023-02-23,2025-07-31,40.46,5.0,wendy.gallagher745@hotmail.com,Electronics,Mobile Wallet
+CUST01406,Jessica Lopez,Female,51,Peshawar,2022-10-08,2024-10-24,126.41,4.0,jessica.lopez247@gmail.com,Groceries,PayPal
+CUST01407,Debbie Mccarthy,Female,31,Gujranwala,2024-04-06,2025-06-26,178.45,4.0,debbie.mccarthy881@yahoo.com,Clothing,PayPal
+CUST01408,Herbert Fletcher,Male,55,Peshawar,2024-06-15,2025-08-12,28.55,3.0,herbert.fletcher294@yahoo.com,Groceries,Cash on Delivery
+CUST01409,Nathan Hernandez,Male,26,Sydney,2023-12-04,2024-08-02,213.25,4.0,nathan.hernandez117@gmail.com,Groceries,Debit Card
+CUST01410,Catherine Jackson,Female,42,Lahore,2024-07-19,2025-03-28,34.36,5.0,catherine.jackson318@yahoo.com,Toys & Games,Bank Transfer
+CUST01411,Mary Lewis,Female,27,Dubai,2026-06-19,2026-07-17,28.86,4.0,mary.lewis928@gmail.com,Electronics,Debit Card
+CUST01412,Laura Butler,Female,18,Multan,2022-11-08,2024-05-20,61.4,3.0,laura.butler265@yahoo.com,Beauty & Personal Care,PayPal
+CUST01413,Stacy Johnson,Other,24,Dubai,2025-03-22,2025-06-21,6.49,4.0,stacy.johnson44@hotmail.com,Toys & Games,Credit Card
+CUST01414,Jacqueline Hickman,Female,57,Karachi,2022-12-20,2023-06-10,81.6,,jacqueline.hickman306@yahoo.com,Clothing,Bank Transfer
+CUST01415,Brad Rivas,Male,22,Los Angeles,2025-02-19,2025-05-23,58.45,4.0,brad.rivas860@yahoo.com,Groceries,Debit Card
+CUST01416,Derrick Barrett,Male,46,Rawalpindi,2023-11-05,2025-06-12,101.11,5.0,derrick.barrett956@gmail.com,Clothing,Mobile Wallet
+CUST01417,Tiffany Nguyen,Female,40,Singapore,2025-06-02,2026-07-04,34.86,5.0,tiffany.nguyen258@hotmail.com,Toys & Games,Credit Card
+CUST01418,Rebecca Anderson,Female,45,Quetta,2025-12-08,2026-05-11,132.26,2.0,rebecca.anderson827@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST01419,Robert Manning,Other,18,Singapore,2024-09-11,2025-10-16,145.16,5.0,robert.manning762@hotmail.com,Home & Kitchen,Bank Transfer
+CUST01420,Jennifer Thompson,Female,30,Peshawar,2026-05-02,2026-05-21,33.27,2.0,jennifer.thompson220@yahoo.com,Beauty & Personal Care,Bank Transfer
+CUST01421,Sarah Martin,Female,18,Houston,2025-08-10,2025-12-19,258.52,5.0,sarah.martin58@yahoo.com,Toys & Games,Mobile Wallet
+CUST01422,Troy Moore,Male,30,Los Angeles,2023-09-22,2024-05-11,151.73,4.0,troy.moore434@yahoo.com,Toys & Games,PayPal
+CUST01423,Tammy Mckee,Female,36,Quetta,2024-12-01,2025-09-12,58.57,5.0,tammy.mckee960@yahoo.com,Groceries,Cash on Delivery
+CUST01424,Sandra Hunt,Female,31,Manchester,2024-06-21,2026-06-24,21.09,4.0,sandra.hunt316@yahoo.com,Electronics,PayPal
+CUST01425,Justin Henderson,Male,38,Sydney,2025-07-08,2025-07-26,348.73,5.0,justin.henderson679@yahoo.com,Electronics,PayPal
+CUST01426,Jessica Simmons,Female,28,Quetta,2022-09-17,2024-02-18,38.47,4.0,jessica.simmons317@yahoo.com,Sports & Outdoors,PayPal
+CUST01427,Mr. Matthew Reeves,Male,42,Rawalpindi,2026-03-14,2026-05-14,12.32,5.0,mr..matthew.reeves398@hotmail.com,Electronics,Bank Transfer
+CUST01428,Kelly Roberts,Female,26,Sialkot,2024-04-07,2025-02-10,365.55,2.0,kelly.roberts843@yahoo.com,Home & Kitchen,Cash on Delivery
+CUST01429,Victoria Sutton,Female,38,Peshawar,2023-09-24,2024-08-18,77.7,5.0,victoria.sutton647@gmail.com,Sports & Outdoors,PayPal
+CUST01430,Elizabeth Williams,Female,27,Houston,2022-11-08,2023-01-17,92.46,3.0,elizabeth.williams83@gmail.com,Toys & Games,Bank Transfer
+CUST01431,Jorge Gutierrez,Male,64,Houston,2024-05-16,2025-04-22,205.89,5.0,jorge.gutierrez898@hotmail.com,Clothing,Debit Card
+CUST01432,Dawn Scott,Female,30,Sialkot,2022-11-16,2025-09-18,24.73,2.0,dawn.scott431@hotmail.com,Furniture,PayPal
+CUST01433,Natalie Ford,Female,35,Dubai,2025-08-20,2026-02-04,74.56,4.0,natalie.ford29@yahoo.com,Electronics,PayPal
+CUST01434,Jennifer Bush,Female,41,Multan,2023-10-14,2025-07-21,25.93,4.0,jennifer.bush657@hotmail.com,Groceries,Credit Card
+CUST01435,Meagan Hanson,Female,32,Chicago,2023-08-05,2024-09-18,633.64,4.0,meagan.hanson322@gmail.com,Furniture,Credit Card
+CUST01436,Angela Hendrix,Female,37,Rawalpindi,2023-07-28,2024-06-16,10.24,3.0,angela.hendrix731@hotmail.com,Groceries,Mobile Wallet
+CUST01437,Joseph Smith,Male,28,Houston,2023-01-04,2024-10-20,105.23,4.0,joseph.smith895@gmail.com,Groceries,Cash on Delivery
+CUST01438,Joe Sullivan,Male,58,Multan,2025-02-17,2026-01-19,33.21,5.0,joe.sullivan204@hotmail.com,Clothing,Bank Transfer
+CUST01439,John Montgomery,Male,40,Los Angeles,2026-05-15,2026-06-08,14.41,4.0,john.montgomery387@yahoo.com,Furniture,Debit Card
+CUST01440,Victor Leonard,Male,18,Lahore,2025-09-15,2025-09-27,68.42,5.0,victor.leonard663@gmail.com,Furniture,PayPal
+CUST01441,Alexis Rodriguez,Female,34,Quetta,2022-08-13,2023-02-12,40.79,5.0,alexis.rodriguez204@gmail.com,Beauty & Personal Care,PayPal
+CUST01442,Daniel Wong,Male,54,Multan,2025-02-05,2025-03-28,92.26,4.0,daniel.wong440@yahoo.com,Furniture,Cash on Delivery
+CUST01443,Shannon Ryan,Female,63,Faisalabad,2022-11-22,2023-05-24,93.63,5.0,shannon.ryan175@yahoo.com,Furniture,Credit Card
+CUST01444,Javier Wilson,Male,18,Lahore,2026-02-02,2026-06-17,37.83,4.0,javier.wilson943@hotmail.com,Toys & Games,PayPal
+CUST01445,Victor Ruiz,Male,26,Manchester,2025-12-03,2026-01-03,38.52,3.0,victor.ruiz209@hotmail.com,Home & Kitchen,Cash on Delivery
+CUST01446,Elizabeth Gallegos,Female,23,Gujranwala,2024-02-02,2026-03-08,79.74,4.0,elizabeth.gallegos134@yahoo.com,Books,Debit Card
+CUST01447,Mark Marquez,Male,49,Sydney,2026-05-23,2026-06-06,55.07,5.0,mark.marquez290@yahoo.com,Home & Kitchen,Bank Transfer
+CUST01448,Kyle Spencer,Male,28,,2023-09-11,2025-12-26,61.6,5.0,kyle.spencer30@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST01449,Jose Hardy,Male,55,Quetta,2026-03-21,2026-06-09,350.55,4.0,jose.hardy255@yahoo.com,Sports & Outdoors,Mobile Wallet
+CUST01450,Antonio Smith,Male,26,London,2024-10-23,2025-01-19,50.08,1.0,antonio.smith137@hotmail.com,Sports & Outdoors,PayPal
+CUST01451,Steven Butler,Male,37,Chicago,2024-05-29,2026-05-03,49.7,3.0,steven.butler393@yahoo.com,Books,PayPal
+CUST01452,Maria West,Other,54,Sydney,2024-04-06,2024-12-25,137.27,2.0,maria.west571@gmail.com,Electronics,Credit Card
+CUST01453,Corey Cooper,Male,26,New York,2023-06-19,2024-10-12,461.11,4.0,corey.cooper363@gmail.com,Furniture,PayPal
+CUST01454,Melinda Dorsey,Female,25,Sydney,2025-11-24,2026-05-25,157.75,5.0,melinda.dorsey47@hotmail.com,Electronics,Cash on Delivery
+CUST01455,Carlos Carter,Male,45,Toronto,2025-05-04,2026-03-18,64.89,4.0,carlos.carter405@yahoo.com,Sports & Outdoors,Debit Card
+CUST01456,Megan Navarro,Female,18,Dubai,2025-09-03,2025-09-25,87.33,4.0,megan.navarro267@gmail.com,Groceries,Mobile Wallet
+CUST01457,Douglas Curry,Male,37,Manchester,2025-03-02,2026-06-22,186.85,4.0,douglas.curry480@gmail.com,Groceries,Credit Card
+CUST01458,Brooke Vasquez,Female,33,New York,2025-08-30,2026-05-29,95.01,4.0,brooke.vasquez267@yahoo.com,Clothing,Cash on Delivery
+CUST01459,Christine Williams,Female,37,Karachi,2022-08-16,2023-05-05,41.01,4.0,christine.williams997@yahoo.com,Beauty & Personal Care,PayPal
+CUST01460,Caitlin Clayton,Female,22,Los Angeles,2026-01-21,2026-05-12,80.3,3.0,caitlin.clayton898@gmail.com,Beauty & Personal Care,Mobile Wallet
+CUST01461,Gail Wilson,Female,28,Sialkot,2023-06-11,2026-05-05,240.79,4.0,gail.wilson915@hotmail.com,Groceries,Cash on Delivery
+CUST01462,Deanna Peterson,Female,43,Manchester,2023-12-12,2026-02-02,85.74,,deanna.peterson570@gmail.com,Toys & Games,Credit Card
+CUST01463,Kristin Kemp,Female,30,Peshawar,2025-11-24,2026-01-02,33.42,2.0,kristin.kemp188@hotmail.com,Electronics,Bank Transfer
+CUST01464,Brian Williams,Male,37,Sialkot,2026-04-06,2026-04-27,87.14,5.0,brian.williams447@yahoo.com,Clothing,Bank Transfer
+CUST01465,Dr. Vanessa Harrington,Female,24,Karachi,2024-12-10,2026-03-08,39.71,4.0,dr..vanessa.harrington727@gmail.com,Automotive,Bank Transfer
+CUST01466,Amanda Garcia,Female,18,London,2025-01-08,2026-05-28,58.53,2.0,amanda.garcia738@gmail.com,Groceries,Credit Card
+CUST01467,Brooke Carter,Female,33,Los Angeles,2024-04-13,2024-07-18,53.45,3.0,brooke.carter291@hotmail.com,Groceries,Debit Card
+CUST01468,Seth Moore,Male,30,Toronto,2023-12-24,2026-04-15,50.65,3.0,seth.moore913@gmail.com,Furniture,Debit Card
+CUST01469,Dakota Montes,Male,30,Singapore,2025-07-26,2025-07-29,250.7,4.0,dakota.montes585@gmail.com,Groceries,Bank Transfer
+CUST01470,Rhonda Peterson,Female,50,Islamabad,2024-07-13,2025-03-23,54.5,5.0,rhonda.peterson694@gmail.com,Clothing,Cash on Delivery
+CUST01471,Michelle Perry,Female,35,Lahore,2025-01-07,2025-10-26,30.77,5.0,michelle.perry697@gmail.com,Clothing,Bank Transfer
+CUST01472,Nicole Fisher,Female,48,Los Angeles,2023-06-13,2024-01-17,47.06,5.0,nicole.fisher158@yahoo.com,Electronics,Credit Card
+CUST01473,Jason Ellis,Male,37,London,2025-11-22,2026-06-23,97.09,5.0,jason.ellis492@hotmail.com,Toys & Games,PayPal
+CUST01474,Allen Thomas,Male,33,Sialkot,2022-08-05,2025-12-04,81.4,5.0,allen.thomas338@hotmail.com,Electronics,PayPal
+CUST01475,Bradley Edwards,Male,47,Sydney,2026-05-27,2026-06-25,133.38,4.0,bradley.edwards750@gmail.com,Furniture,Debit Card
+CUST01476,Jennifer Johnson,Female,42,Peshawar,2026-03-03,2026-03-16,39.22,5.0,jennifer.johnson290@gmail.com,Sports & Outdoors,Credit Card
+CUST01477,Amy Welch,Female,33,Islamabad,2025-05-07,2026-02-12,38.0,5.0,amy.welch391@hotmail.com,Clothing,Bank Transfer
+CUST01478,William Barnes,Male,51,Sialkot,2026-01-09,2026-02-24,148.05,3.0,william.barnes790@hotmail.com,Books,Credit Card
+CUST01479,Elizabeth Newton,Other,49,Lahore,2026-02-12,2026-04-07,42.78,3.0,elizabeth.newton799@gmail.com,Books,Cash on Delivery
+CUST01480,Steven Bishop,Male,32,Faisalabad,2023-02-17,2023-10-22,82.16,3.0,steven.bishop821@yahoo.com,Books,PayPal
+CUST01481,Christine Stephens,Female,26,Gujranwala,2025-08-23,2026-06-28,24.91,3.0,christine.stephens682@hotmail.com,Clothing,Cash on Delivery
+CUST01482,Haley Cain,Female,53,Toronto,2025-02-04,2025-08-28,16.82,4.0,haley.cain907@gmail.com,Books,Bank Transfer
+CUST01483,Bradley Medina,Male,24,Sialkot,2024-01-31,2025-08-30,130.97,4.0,bradley.medina93@hotmail.com,Books,Cash on Delivery
+CUST01484,Cameron Braun,Male,32,Sydney,2023-09-01,2024-09-17,12.17,4.0,cameron.braun437@gmail.com,Clothing,Credit Card
+CUST01485,Erik Peterson,Male,21,Toronto,2025-01-16,2026-01-01,14.68,5.0,erik.peterson693@gmail.com,Home & Kitchen,PayPal
+CUST01486,Robert Vargas,Male,46,Faisalabad,2023-07-02,2026-04-12,80.39,4.0,robert.vargas663@yahoo.com,Automotive,Credit Card
+CUST01487,William Rodriguez,Male,55,Gujranwala,2022-10-15,2025-05-31,164.03,4.0,william.rodriguez929@yahoo.com,Toys & Games,Cash on Delivery
+CUST01488,Jordan Martinez,Male,26,Faisalabad,2025-07-08,2025-09-12,296.07,5.0,jordan.martinez308@gmail.com,Home & Kitchen,Mobile Wallet
+CUST01489,Laura Smith,Female,31,Houston,2023-11-19,2024-09-17,72.87,4.0,laura.smith565@gmail.com,Clothing,Credit Card
+CUST01490,William Cunningham,Male,34,Toronto,2026-01-21,2026-02-18,90.39,4.0,william.cunningham423@hotmail.com,Clothing,Bank Transfer
+CUST01491,Sarah Hall,Female,38,Singapore,2023-09-23,2025-02-23,103.04,4.0,sarah.hall600@hotmail.com,Clothing,Mobile Wallet
+CUST01492,Michelle Chambers,Female,39,Lahore,2025-05-09,2025-07-07,88.28,5.0,michelle.chambers474@hotmail.com,Groceries,Debit Card
+CUST01493,Brian Black,Male,18,Chicago,2023-04-23,2023-07-25,41.95,2.0,brian.black898@yahoo.com,Beauty & Personal Care,Cash on Delivery
+CUST01494,Charles Simmons,Other,28,Singapore,2024-03-02,2026-03-14,83.03,4.0,charles.simmons687@gmail.com,Toys & Games,Mobile Wallet
+CUST01495,Stacy Alvarez,Female,25,Sialkot,2024-04-20,2025-04-05,64.65,5.0,stacy.alvarez893@yahoo.com,Groceries,Debit Card
+CUST01496,Jennifer Hansen,Female,46,Multan,2025-08-09,2025-09-19,54.85,5.0,jennifer.hansen619@yahoo.com,Beauty & Personal Care,PayPal
+CUST01497,Mark Barajas,Male,37,Rawalpindi,2025-04-02,2025-11-11,207.73,4.0,mark.barajas6@yahoo.com,Books,Credit Card
+CUST01498,Jason Martin,Male,35,Lahore,2024-07-14,2025-01-06,102.7,5.0,jason.martin472@yahoo.com,Books,PayPal
+CUST01499,Carl Bush,Male,48,Sydney,2025-12-08,2026-06-12,61.06,4.0,carl.bush634@gmail.com,Furniture,Cash on Delivery
+CUST01500,Jesus Johnson,Male,31,Chicago,2023-03-03,2024-11-12,53.42,2.0,jesus.johnson139@hotmail.com,Electronics,Debit Card
+CUST01501,Trevor Guzman,Male,33,Rawalpindi,2024-02-26,2026-06-11,259.15,1.0,trevor.guzman994@gmail.com,Home & Kitchen,Credit Card
+CUST01502,Dylan Mills,Male,29,Peshawar,2023-01-06,2025-09-18,27.95,4.0,dylan.mills666@yahoo.com,Home & Kitchen,Bank Transfer
+CUST01503,Elizabeth Tucker PhD,Female,19,Dubai,2023-02-10,2024-03-07,63.11,2.0,elizabeth.tucker.phd789@hotmail.com,Toys & Games,Debit Card
+CUST01504,Taylor Torres,Female,56,Manchester,2023-08-31,2026-01-12,48.98,1.0,taylor.torres171@gmail.com,Groceries,PayPal
+CUST01505,Katherine Martinez,Other,23,London,2023-12-02,2025-04-12,161.43,4.0,katherine.martinez881@gmail.com,Toys & Games,Mobile Wallet
+CUST01506,Kenneth Knight,Male,29,Quetta,2026-01-30,2026-03-23,92.16,3.0,kenneth.knight850@yahoo.com,Books,Credit Card
+CUST01507,Nathan Obrien,Male,19,New York,2025-07-16,2025-07-21,380.3,2.0,nathan.obrien868@hotmail.com,Books,Bank Transfer
+CUST01508,Philip Contreras,Male,39,Manchester,2023-02-20,2026-05-21,84.54,4.0,philip.contreras568@hotmail.com,Beauty & Personal Care,Credit Card
+CUST01509,Robert Beck,Male,18,Manchester,2024-02-28,2025-04-13,716.18,4.0,robert.beck606@gmail.com,Furniture,PayPal
+CUST01510,Gerald Williams,Male,48,Manchester,2025-03-07,2025-07-04,16.3,5.0,gerald.williams541@yahoo.com,Electronics,Bank Transfer
+CUST01511,Maria Cline,Female,35,Singapore,2025-04-29,2025-10-08,110.49,4.0,maria.cline275@hotmail.com,Books,Bank Transfer
+CUST01512,Raymond Parker,Male,37,Rawalpindi,2025-01-30,2026-06-21,25.0,4.0,raymond.parker662@hotmail.com,Sports & Outdoors,Bank Transfer
+CUST01513,Corey Montgomery,Male,26,Houston,2024-10-24,2024-11-15,16.21,3.0,corey.montgomery744@gmail.com,Home & Kitchen,Bank Transfer
+CUST01514,Kelly Christensen,Other,36,Los Angeles,2024-07-10,2025-10-02,37.95,3.0,kelly.christensen225@gmail.com,Furniture,PayPal
+CUST01515,Timothy White,Male,32,,2022-08-18,2026-01-03,23.2,5.0,timothy.white733@gmail.com,Toys & Games,Debit Card
+CUST01516,Michele Clay,Female,24,Gujranwala,2024-04-17,2026-04-28,24.2,5.0,michele.clay983@hotmail.com,Books,PayPal
+CUST01517,James Williams,Male,33,Los Angeles,2025-12-06,2026-06-28,98.21,4.0,james.williams995@gmail.com,Groceries,Mobile Wallet
+CUST01518,Catherine Johnson,Female,35,Peshawar,2024-08-15,2025-06-01,110.22,5.0,catherine.johnson89@yahoo.com,Toys & Games,Debit Card
+CUST01519,Brian Garcia,Male,30,Multan,2023-03-19,2024-05-01,15.21,3.0,brian.garcia504@gmail.com,Clothing,Bank Transfer
+CUST01520,Patricia Moore,Female,38,Manchester,2026-04-14,2026-05-23,13.15,3.0,patricia.moore571@hotmail.com,Electronics,Credit Card
+CUST01521,Lisa Nguyen,Female,20,Los Angeles,2022-08-29,2024-02-15,49.31,4.0,lisa.nguyen163@gmail.com,Groceries,Mobile Wallet
+CUST01522,Brett Thomas,Other,34,Karachi,2026-01-19,2026-02-05,192.61,4.0,brett.thomas117@yahoo.com,Furniture,Debit Card
+CUST01523,Samantha Martinez,Female,37,Rawalpindi,2023-05-07,2026-07-01,16.96,3.0,samantha.martinez265@hotmail.com,Sports & Outdoors,Cash on Delivery
+CUST01524,Katherine Goodwin,Female,38,Karachi,2024-01-24,2026-03-23,67.2,5.0,katherine.goodwin274@gmail.com,Groceries,PayPal
+CUST01525,Emily Tran,Female,50,Toronto,2022-10-23,2026-03-14,38.51,5.0,emily.tran724@gmail.com,Electronics,Bank Transfer
+CUST01526,David Mercado,Male,18,London,2023-08-11,2024-03-26,23.07,5.0,david.mercado801@hotmail.com,Furniture,Mobile Wallet
+CUST01527,David Peters,Male,33,Rawalpindi,2025-08-18,2026-06-02,259.59,1.0,david.peters108@yahoo.com,Groceries,PayPal
+CUST01528,Jill Mathis,Female,18,Rawalpindi,2024-07-07,2025-02-03,148.84,5.0,jill.mathis161@gmail.com,Beauty & Personal Care,PayPal
+CUST01529,Victoria Casey,Female,25,London,2024-08-29,2026-01-30,34.85,4.0,victoria.casey892@yahoo.com,Clothing,Debit Card
+CUST01530,Ms. Amanda Hess,Female,36,Los Angeles,2026-04-27,2026-06-09,481.35,5.0,ms..amanda.hess126@hotmail.com,Home & Kitchen,Bank Transfer
+CUST01531,William Smith,Male,35,Houston,2026-03-18,2026-06-25,101.93,5.0,william.smith252@yahoo.com,Toys & Games,Cash on Delivery
+CUST01532,Danielle Frazier,Female,37,Gujranwala,2026-06-20,2026-07-01,24.97,2.0,danielle.frazier382@hotmail.com,Books,Cash on Delivery
+CUST01533,Sara Campbell,Female,54,Quetta,2023-03-09,2024-01-14,116.72,5.0,sara.campbell543@hotmail.com,Books,Debit Card
+CUST01534,Eric Foster,Male,33,Faisalabad,2023-01-13,2025-06-10,29.99,4.0,eric.foster420@gmail.com,Toys & Games,Mobile Wallet
+CUST01535,Zachary Johns,Male,30,Los Angeles,2023-05-19,2023-07-19,109.03,4.0,zachary.johns789@hotmail.com,Electronics,PayPal
+CUST01536,Emily Fleming,Other,44,Toronto,2023-11-24,2026-07-18,51.29,2.0,emily.fleming347@yahoo.com,Sports & Outdoors,Bank Transfer
+CUST01537,Michelle Nelson,Other,18,Multan,2025-02-23,2026-05-14,38.99,2.0,michelle.nelson778@yahoo.com,Electronics,PayPal
+CUST01538,Julia Greene,Female,21,Faisalabad,2022-08-13,2025-11-02,153.93,2.0,julia.greene647@hotmail.com,Automotive,Cash on Delivery
+CUST01539,Tammy Lynch,Female,18,Houston,2022-07-28,2024-10-29,22.22,5.0,tammy.lynch718@gmail.com,Automotive,Cash on Delivery
+CUST01540,Jason Woodard,Male,18,New York,2025-04-23,2025-10-17,60.88,1.0,jason.woodard287@yahoo.com,Automotive,Mobile Wallet
+CUST01541,Richard Banks,Male,19,Faisalabad,2022-11-09,2025-02-14,9.86,4.0,richard.banks211@gmail.com,Automotive,Mobile Wallet
+CUST01542,Rose Wallace,Female,48,Sydney,2023-01-14,2025-07-08,160.1,5.0,rose.wallace909@yahoo.com,Books,Debit Card
+CUST01543,Heather Thompson,Female,38,Gujranwala,2025-07-24,2025-09-06,38.52,1.0,heather.thompson343@hotmail.com,Books,PayPal
+CUST01544,Calvin Wood Jr.,Male,53,Faisalabad,2022-08-04,2025-07-05,115.01,5.0,calvin.wood.jr.291@hotmail.com,Home & Kitchen,Credit Card
+CUST01545,Douglas Morse,Male,33,Toronto,2023-12-16,2025-07-04,197.27,4.0,douglas.morse349@gmail.com,Groceries,Credit Card
+CUST01546,Mario Stokes,Male,49,Lahore,2023-06-03,2026-06-13,16.87,4.0,mario.stokes248@yahoo.com,Beauty & Personal Care,PayPal
+CUST01547,Mrs. Katherine Padilla,Female,30,Houston,2024-12-05,2026-05-07,36.15,2.0,mrs..katherine.padilla62@gmail.com,Sports & Outdoors,Cash on Delivery
+CUST01548,Roberto Foster,Male,29,Toronto,2025-12-17,2026-03-18,19.51,2.0,roberto.foster775@hotmail.com,Clothing,Bank Transfer
+CUST01549,Carolyn Lee,Female,27,Gujranwala,2025-06-13,2026-04-03,21.84,5.0,carolyn.lee465@hotmail.com,Sports & Outdoors,Debit Card
+CUST01550,Keith Jones,Male,27,Singapore,2023-01-21,2026-03-25,128.86,5.0,keith.jones961@gmail.com,Automotive,Mobile Wallet
