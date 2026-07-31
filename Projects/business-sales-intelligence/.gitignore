@@ -1,0 +1,13 @@
+/.venv/
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/
+models/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.env
+.DS_Store
