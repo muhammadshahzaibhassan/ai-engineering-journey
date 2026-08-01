@@ -30,7 +30,6 @@ def build_customer_features(df: pd.DataFrame) -> pd.DataFrame:
     # Create Revenue per transaction line
     df['Revenue'] = df['Quantity'] * df['UnitPrice']
 
-    # Extract date features for aggregations
     # We'll compute Recency relative to the last date in dataset + 1 day
     max_date = df['InvoiceDate'].max()
     analysis_date = max_date + pd.Timedelta(days=1)
@@ -42,7 +41,7 @@ def build_customer_features(df: pd.DataFrame) -> pd.DataFrame:
     customer_features = customer_group.agg(
         TotalSpent=('Revenue', 'sum'),
         NumOrders=('InvoiceNo', 'nunique'),
-        AvgBasketSize=('Quantity', 'mean'),  # average items per transaction line? Better: per invoice.
+        AvgBasketSize=('Quantity', 'mean'),
         LastPurchaseDate=('InvoiceDate', 'max'),
         Country=('Country', lambda x: x.mode()[0] if not x.mode().empty else 'Unknown')
     ).reset_index()
@@ -51,12 +50,11 @@ def build_customer_features(df: pd.DataFrame) -> pd.DataFrame:
     customer_features['Recency'] = (analysis_date - customer_features['LastPurchaseDate']).dt.days
 
     # Frequency: orders per month (tenure in months)
-    # Tenure: from first purchase to last purchase, in months
     first_purchase = customer_group['InvoiceDate'].min().rename('FirstPurchaseDate')
     customer_features = customer_features.merge(first_purchase, on='CustomerID')
     tenure_days = (customer_features['LastPurchaseDate'] - customer_features['FirstPurchaseDate']).dt.days
     # Avoid division by zero for customers with only one purchase (tenure = 0)
-    tenure_months = np.maximum(tenure_days / 30.44, 1.0)  # approximate months
+    tenure_months = np.maximum(tenure_days / 30.44, 1.0)
     customer_features['Frequency'] = customer_features['NumOrders'] / tenure_months
 
     # Monetary is already TotalSpent

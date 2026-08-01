@@ -4,7 +4,6 @@ Streamlit page - Model Performance.
 import streamlit as st
 import pandas as pd
 from pathlib import Path
-import matplotlib.pyplot as plt
 from PIL import Image
 
 st.set_page_config(page_title="Model Evaluation", layout="wide")

@@ -7,8 +7,12 @@ import plotly.express as px
 import sys
 from pathlib import Path
 
-sys.path.append(str(Path(__file__).parent.parent.parent))
-from src.utils import load_customer_features, load_cleaned_data
+# Add project root and src to sys.path
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
+sys.path.insert(0, str(project_root / 'src'))
+
+from utils import load_customer_features, load_cleaned_data
 
 st.set_page_config(page_title="Customer Analytics", layout="wide")
 st.title("👥 Customer Insights")
@@ -21,11 +25,11 @@ except FileNotFoundError:
     st.error("Processed data not found. Please run the data pipeline.")
     st.stop()
 
-# Repeat customer rate (based on NumOrders > 1)
+# Repeat customer rate
 repeat_rate = (df_cust['NumOrders'] > 1).mean() * 100
 st.metric("Repeat Customer Rate", f"{repeat_rate:.1f}%")
 
-# Top 20 customers by TotalSpent
+# Top 20 customers
 top_customers = df_cust.nlargest(20, 'TotalSpent')[['CustomerID', 'TotalSpent', 'NumOrders', 'Recency']]
 st.subheader("🏆 Top 20 Customers by Spend")
 st.dataframe(top_customers.style.format({'TotalSpent': '${:,.2f}'}))
