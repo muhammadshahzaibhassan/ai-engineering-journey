@@ -12,7 +12,7 @@ project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 sys.path.insert(0, str(project_root / 'src'))
 
-from utils import load_cleaned_data
+from src.utils import load_cleaned_data
 
 st.set_page_config(page_title="Sales Analysis", layout="wide")
 st.title("📈 Sales Trends")
