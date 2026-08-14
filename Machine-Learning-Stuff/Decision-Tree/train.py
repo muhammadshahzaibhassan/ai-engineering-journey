@@ -20,7 +20,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 
 # Create model
-clf = DecisionTree()
+clf = DecisionTree(max_depth=16)
 
 # Train model
 clf.fit(X_train, y_train)
