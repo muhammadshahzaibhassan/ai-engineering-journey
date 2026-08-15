@@ -1,3 +1,11 @@
 /AI Engineer Journey/
 /.venv/
 /.idea/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.env
